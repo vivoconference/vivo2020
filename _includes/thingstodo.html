@@ -1,0 +1,52 @@
+<section id="blog" class="blog">
+    <div class="content-wrapper text-left">
+		{% assign loopindex = 0 %}
+		{% for post in site.categories.thingstodo %}
+			{% assign loopindex = loopindex | plus: 1 %}
+			{% assign rowfinder = loopindex | modulo: 2 %}
+			{% if rowfinder == 1 %}
+				<div class="row" style="padding-left: 30px; padding-right: 30px;">
+					<div class="col-lg-6 col-md-6 col-xs-6">
+						<a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+						<p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+					</div>
+			{% elsif rowfinder == 0 %}
+					<div class="col-lg-6 col-md-6 col-xs-6">
+						<a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+						<p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+					</div>
+				</div>
+			{% else %}
+				<div class="col-lg-6 col-md-6 col-xs-6">
+					<a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
+					<p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+				</div>
+			{% endif %}
+		{% endfor %}
+		{% if rowfinder != 0 %}
+		  </div>
+		{% endif %} 
+
+        <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
+            <div class="col-lg-8 col-md-10 col-xs-12">
+                {% if paginator.total_pages > 1 %}
+                <div class="row">
+                    <div class="pagination">
+                        {% if paginator.previous_page %}
+                        <a href="/page{{ paginator.previous_page }}" class="previous">Previous</a>
+                        {% else %}
+                        <span class="previous">Previous</span>
+                        {% endif %}
+                        <span class="page-number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+                        {% if paginator.next_page %}
+                        <a href="/page{{ paginator.next_page }}" class="next">Next</a>
+                        {% else %}
+                        <span class="next ">Next</span>
+                        {% endif %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+</section>

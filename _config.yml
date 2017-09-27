@@ -1,0 +1,290 @@
+# Plugins
+gems:
+- jekyll-sitemap
+safe: false
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+
+# Site Settings
+title: "VIVO Conference 2018"
+email: "conference@vivoweb.org"
+description: "9th Annual International VIVO Conference"
+baseurl: ""
+url: "http://vivoconference.org"
+permalink: "/:categories/:title"
+googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
+googleAnalyticsTrackingId: "UA-69456995-2"
+googleAnalyticsSiteUrl: "vivoconference.org"
+#siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "VIVO"
+organizerAlternateName: "VIVO Project"
+organizerDescription: "VIVO is member-supported, open source software and an ontology for representing scholarship.  VIVO supports recording, editing, searching, browsing, and visualizing scholarly activity. VIVO encourages showcasing the scholarly record, research discovery, expert finding, network analysis, and assessment of research impact.  VIVO is easily extended to support additional domains of scholarly activity."
+organizerEmail: "conference@vivoweb.org"
+organizerLogo: "/img/seo/vivo-logo.jpg"
+organizerLink: "http://vivoweb.org/"
+
+# Head
+metaKeywords: "vivo, conference, programming, linked data"
+twitterAccount: "@vivocollab"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pButton: "Register before August 1st to save $75!"
+c4pText: "VIVO conference registration is open! Workshops are included at no extra cost this year."
+c4pUrl: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
+c4sponsorsUrl: "news/sponsorship"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+# - {permalink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite", text: "Register"}
+ - {permalink: "/logistics/", text: "Attending"}
+# - {permalink: "/schedule/", text: "Program"}
+# - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/logistics/", text: "Attending"}
+# - {permalink: "/news/sponsorship", text: "Sponsor"}
+# - {permalink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite", text: "Register"}
+ - {permalink: "/news/", text: "News"}
+# - {permalink: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
+##bottomNavigationLinks:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "<typeout> VIVO Conference 2018"
+eventDate: "June 6th-8th &sdot; Durham, NC"
+typeoutTextValues: '"", "9th Annual ", "International "'
+typeoutFallback: "9th Annual International"
+heroButtons:
+# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+# - {permalink: "/#tickets", text: "Buy tickets"}
+
+# About Block
+aboutTitle: "About VIVO"
+aboutBlock:
+ - {title: "Project", image: "conference.jpg", text: "VIVO is member-supported, open source software and an ontology for representing scholarship. VIVO encourages showcasing the scholarly record, research discovery, expert finding, network analysis, and assessment of research impact." }
+ - {title: "Community", image: "community.jpg", text: "VIVO is a network in which more than 140 institutions and agencies in more than 25 countries are implementing VIVO or producing VIVO-compatible data. See the VIVO site registry for a list." }
+ - {title: "Conference", image: "workshop.jpg", text: "The annual VIVO conference has been bringing together the VIVO community and its partners since 2010 to share the latest developments in semantic web academic profiles. Whether an experienced user, or just starting out, this is the event to attend." }
+# - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "70", specialCharacter: "+", info: "presenters", detail: "from North America and Europe"}
+ - {count: "40", specialCharacter: "+", info: "sessions", detail: "workshops, talks, posters and demos"}
+ - {count: "3", specialCharacter: "", info: "days", detail: "of knowledge sharing and networking"}
+# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus plenary"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 7
+rockstarSpeakersTitle: "Keynotes and Invited Speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "JB Duke"
+eventLocationLink: "https://events.weill.cornell.edu"
+eventStreetAddress: "230 Science Drive"
+eventAddressLocality: "Durham"
+eventAddressLocalityRegion: "NC"
+eventPostalCode: "27708"
+eventAddressCountry: "United States"
+eventStartTime: "2018-08-02T09:00"
+eventDoorTime: "08:00"
+eventEndTime: "2018-08-04T20:00"
+eventPlaceCoordinates: "35.997470, -78.946611"
+mapCenterCoordinates: "35.997470, -78.946611"
+mapMobileCenterCoordinates: "35.997470, -78.946611"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Weill Cornell Medicine"
+venueFeatures: ["4 auditoriums", "4 conference spaces", "Located on the Upper East Side in Manhattan"]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "vivo17"
+#twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle: "Subscribe for updates"
+#subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "Registration"
+ticketsInfo: "Registration grants full VIVO 2018 conference access including workshops. Accommodation is NOT included in the cost."
+ticketsOffers:
+ -
+  name: "Standard"
+  price: "$375"
+  priceCurrency: "USD"
+  featured: true
+  additionalInfo: ""
+  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Standard rate ends July 31, 2018", ""]
+  validFrom: "2018-07-08T00:00"
+  validThrough: "2018-07-31T17:00"
+  disabled: false
+ -
+  name: "Walk-in"
+  price: "$450"
+  priceCurrency: "USD"
+  additionalInfo: ""
+  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Walk-in registration at conference", ""]
+  validFrom: "2018-08-02T07:30"
+  validThrough: "2018-08-04T10:00"
+  disabled: false
+ -
+  name: "Student"
+  price: "$99"
+  priceCurrency: "USD"
+#  ticketsNumber: "100"
+  ribbon: "-73%"
+  additionalInfo: ""
+  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Requires a valid student ID at conference check in", ""]
+  validFrom: "2018-03-28T00:00"
+  validThrough: "2018-07-31T17:00"
+  disabled: false
+# -
+#  name: "Student"
+#  price: "200"
+#  priceCurrency: "USD"
+#  ticketsNumber: "50"
+#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonText: "Buy Now"
+#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+#  validFrom: "2014-08-20T10:00"
+#  validThrough: "2014-10-23T23:59"
+#  soldOut: true
+#  soldOutText: "Sold Out"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/intent/user?screen_name=vivocollab", icon: "twitter"}
+ - {link: "https://facebook.com/VIVOcollaboration", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://vivoweb.org", text: "VIVOWeb.org"}
+   - {link: "http://openvivo.org", text: "OpenVIVO"}
+   - {link: "http://vivoconference.org/vivo2017/", text: "VIVO 2017"}
+   - {link: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
+   - {link: "http://vivoconference.org/vivo2015/", text: "VIVO 2015"}
+ -
+  title: "Contacts"
+  links:
+   - {permalink: "/team/", text: "VIVO 2018 Team"}
+   - {link: "mailto:conference@vivoweb.org", text: "conference@vivoweb.org"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/faq/", text: "Frequently Asked Questions"}
+   - {permalink: "/thingstodo/restaurants", text: "Lunch & Dinner"}
+   - {link: "http://vivoconference.org/assets/vivo17-event-map.pdf", text: "Event Map"}
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: false
+discusShortName: "vivo17"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: ""
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "35.997470, -78.946611"
+logisticsMapMobileCenterCoordinates: "35.997470, -78.946611"
+logisticsMapAutoDirections: false
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "New York City Transit, Hotels, and Activities"
+directionDetailsCards:
+ - {title: "Conference Venue", information: 'VIVO 2018 is being held at <a href="http://weill.cornell.edu">Weill Cornell Medicine</a> with registration in the Griffis Faculty Club at <a href="https://www.google.com/maps/dir//1300+York+Ave,+New+York,+NY+10065/@40.7649911,-73.9569786,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89c258c3c1e215e7:0x81ea7acaf37d930b!2m2!1d-73.9547899!2d40.7649911">1300 York Avenue</a>. See our <a href="/assets/vivo17-event-map.pdf">detailed event map</a> for the location of all conference events.'}
+ - {title: "Transit & Hotels", information: 'New York is served by three major airports, and an excellent public transit network to the conference location. The <a href="/news/bentleyhotel">Bentley Hotel and other recommendations</a> provide convenient options for conference attendees.'}
+ - {title: "Activities & Eats", information: 'See our suggestions for <a href="/thingstodo">Things To Do</a> if you or travel companions have free time to explore New York City. Includes a list of <a href="/thingstodo/restaurants">nearby restaurants</a> for lunch and dinner.'}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: false
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+# - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+# - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+# - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "35.997470, -78.946611"
+hackathonMapCenterCoordinates: "35.997470, -78.946611"
+hackathonMapMobileCenterCoordinates: "35.997470, -78.946611"

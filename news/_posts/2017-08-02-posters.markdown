@@ -1,0 +1,74 @@
+---
+layout: post
+title:  VIVO 2017 Poster Reception
+date:   2017-08-02
+isStaticPost: false
+---
+
+We hope you will attend this year's VIVO Poster Reception sponsored by [Clarivate Analytics](http://clarivate.com/) on Thursday August 3rd from 5pm to 7pm in the Griffis Faculty Club. 
+
+This engaging event is a great opportunity for one-on-one discussions with the poster and demo presenters, and networking with other attendees. Drinks and appetizers will be served.
+
+###### Profiles Research Networking Software: Recent Updates and Future Plans
+
+Poster #2: Nick Brown and Griffin Weber
+
+###### Library Roles in Institutional Research Information Management
+
+Poster #4: Rebecca Bryant and Holly Mercer
+
+###### Scholars@Cornell: Beginning of a new Cornell VIVO era
+
+Demo #8: Muhammad Javed, Sandy Payette, Joseph McEnerney, Tim Worrall, Jim Blake, Adam Smith, Mary Beth Martini-Lyons, Jason Kovari, George Kozak and Dean Krafft
+
+###### From PURE to VIVO – a prototype
+
+Poster and Demo #14: Karen Hytteballe Ibanez and Mogens Sandfaer
+
+###### VIVO RAP - a Research Analytics Platform
+
+Poster #15: Christina Steensboe, Karen Hytteballe Ibanez and Mogens Sandfaer
+
+###### VIVO data ingest automatization using Karma and a standard middleware with a microservice scheme
+
+Poster #29: Claudia Gutierrez, Ricardo Vera, Ana Triviños and Pablo Valdivia
+
+###### TIB-FIS-Discovery - VIVO at the German National Library of Science and Technology
+
+Poster #34: Christian Hauschke, Tatiana Walther, Ina Blümel and Martin Barber. 
+
+###### SAMURAI's sword: VIVO as a linked-data extension to NIMS researcher directory service "SAMURAI"
+
+Poster and Demo #44: Kosuke Tanabe
+
+###### Building a better VIVO -- roadmap and proposals
+
+Poster #45: Mike Conlon
+
+###### Thinking of a Blockchain for VIVO
+
+Poster #46: Alexander Garcia Castro, Frederico Lopez and Mike Conlon
+
+###### Serving diverse scholarly narratives using an integrated RIM featuring VIVO
+
+Poster #47: Bruce Herbert, Dong Joon Lee, Ethel Mejia, Michael Bolton and Doug Hahn
+
+###### Enhancing VIVO with rich publication metadata and citation metrics from Web of Science
+
+Poster #48: Ann Beynon
+
+###### Pure: A System for Research Information Management
+
+Poster #49: Asheq Rahman
+
+###### Connect UNAVCO's VIVO extensions: linking a scientific community
+
+Poster #50: M. Benjamin Gross, Linda R. Rowan, Matthew Mayernik, Michael D. Daniels and Dean B. Krafft
+
+###### Gain a complete picture of researcher esteem with peer review
+
+Poster #51: Daniel Johnston and Ann Beynon
+
+###### Leveraging Clinical Data for Secondary Use without Losing Meaning
+
+Poster #52: Andrew Kanter and Frank Naeymi-Rad
