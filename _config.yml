@@ -37,10 +37,10 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pButton: "Register before August 1st to save $75!"
-c4pText: "VIVO conference registration is open! Workshops are included at no extra cost this year."
-c4pUrl: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
-c4sponsorsUrl: "news/sponsorship"
+#c4pButton: "Register before August 1st to save $75!"
+#c4pText: "VIVO conference registration is open! Workshops are included at no extra cost this year."
+#c4pUrl: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
+#c4sponsorsUrl: "news/sponsorship"
 
 # Navigation
 navigationLinks:
@@ -78,19 +78,18 @@ aboutBlock:
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "70", specialCharacter: "+", info: "presenters", detail: "from North America and Europe"}
- - {count: "40", specialCharacter: "+", info: "sessions", detail: "workshops, talks, posters and demos"}
- - {count: "3", specialCharacter: "", info: "days", detail: "of knowledge sharing and networking"}
-# - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus plenary"}
+#statisticBlockImage: "statistic.jpg"
+#statisticBlock:
+# - {count: "70", specialCharacter: "+", info: "presenters", detail: "from North America and Europe"}
+# - {count: "40", specialCharacter: "+", info: "sessions", detail: "workshops, talks, posters and demos"}
+# - {count: "3", specialCharacter: "", info: "days", detail: "of knowledge sharing and networking"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 7
+rockstarSpeakersCount: 0
 rockstarSpeakersTitle: "Keynotes and Invited Speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -116,13 +115,13 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Weill Cornell Medicine"
-venueFeatures: ["4 auditoriums", "4 conference spaces", "Located on the Upper East Side in Manhattan"]
+venueTitle: "JB Duke Hotel"
+venueFeatures: ["5,450 square foot ballroom", "Multi-purpose breakout spaces", "Part of the Duke University Campus"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "vivo17"
+twitterHashTag: "vivo18"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -142,53 +141,40 @@ ticketsInfo: "Registration grants full VIVO 2018 conference access including wor
 ticketsOffers:
  -
   name: "Standard"
-  price: "$375"
-  priceCurrency: "USD"
+  price: "TBA"
+  priceCurrency: ""
   featured: true
   additionalInfo: ""
-  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
-  buyButtonText: "Buy Now"
+#  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
+#  buyButtonText: "Buy Now"
   ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Standard rate ends July 31, 2018", ""]
-  validFrom: "2018-07-08T00:00"
-  validThrough: "2018-07-31T17:00"
+#  validFrom: "2018-07-08T00:00"
+#  validThrough: "2018-07-31T17:00"
   disabled: false
  -
   name: "Walk-in"
-  price: "$450"
-  priceCurrency: "USD"
+  price: "TBA"
+  priceCurrency: ""
   additionalInfo: ""
-  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
-  buyButtonText: "Buy Now"
+#  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
+#  buyButtonText: "Buy Now"
   ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Walk-in registration at conference", ""]
-  validFrom: "2018-08-02T07:30"
-  validThrough: "2018-08-04T10:00"
+#  validFrom: "2018-08-02T07:30"
+#  validThrough: "2018-08-04T10:00"
   disabled: false
  -
   name: "Student"
-  price: "$99"
-  priceCurrency: "USD"
+  price: "TBA"
+  priceCurrency: ""
 #  ticketsNumber: "100"
-  ribbon: "-73%"
+#  ribbon: "-73%"
   additionalInfo: ""
-  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Requires a valid student ID at conference check in", ""]
-  validFrom: "2018-03-28T00:00"
-  validThrough: "2018-07-31T17:00"
-  disabled: false
-# -
-#  name: "Student"
-#  price: "200"
-#  priceCurrency: "USD"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
+#  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
 #  buyButtonText: "Buy Now"
-#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-23T23:59"
-#  soldOut: true
-#  soldOutText: "Sold Out"
+  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Requires a valid student ID at conference check in", ""]
+#  validFrom: "2018-03-28T00:00"
+#  validThrough: "2018-07-31T17:00"
+  disabled: false
 
 # Footer
 socialLinks:
@@ -220,7 +206,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "vivo17"
+discusShortName: "vivo18"
 
 # Speakers List Block
 showSessions: true
@@ -243,11 +229,11 @@ logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "New York City Transit, Hotels, and Activities"
+directionDetailsTitle: "Durham Transit, Hotels, and Activities"
 directionDetailsCards:
- - {title: "Conference Venue", information: 'VIVO 2018 is being held at <a href="http://weill.cornell.edu">Weill Cornell Medicine</a> with registration in the Griffis Faculty Club at <a href="https://www.google.com/maps/dir//1300+York+Ave,+New+York,+NY+10065/@40.7649911,-73.9569786,17z/data=!3m1!4b1!4m8!4m7!1m0!1m5!1m1!1s0x89c258c3c1e215e7:0x81ea7acaf37d930b!2m2!1d-73.9547899!2d40.7649911">1300 York Avenue</a>. See our <a href="/assets/vivo17-event-map.pdf">detailed event map</a> for the location of all conference events.'}
- - {title: "Transit & Hotels", information: 'New York is served by three major airports, and an excellent public transit network to the conference location. The <a href="/news/bentleyhotel">Bentley Hotel and other recommendations</a> provide convenient options for conference attendees.'}
- - {title: "Activities & Eats", information: 'See our suggestions for <a href="/thingstodo">Things To Do</a> if you or travel companions have free time to explore New York City. Includes a list of <a href="/thingstodo/restaurants">nearby restaurants</a> for lunch and dinner.'}
+ - {title: "Conference Venue", information: 'Stay, dine, and attend VIVO 18 at the beautiful <a href="http://www.jbdukehotel.com/">JB Duke Hotel</a> on the campus of <a href="http://duke.edu/">Duke University</a> in Durham, North Carolina. Recently opened, the JB Duke is a contemporary luxury hotel --special, inclusive registration rates for VIVO conference attendees!'}
+ - {title: "Activities in Duke and Durham", information: 'Enjoy the renowned Duke Gardens and neo-gothic architecture at our “university in the forest.” Nearby Durham’s revitalized downtown boasts an amazing food culture, a thriving art scene, and bustling shopping districts in historic buildings.'}
+ - {title: "Traveling to Durham", information: 'Located on the East Coast, <a href="https://www.rdu.com/">Raleigh-Durham International Airport</a> is a major air hub only 15 minutes from Duke. We’ve got metropolitan convenience with a small-town feel!'}
 
 # Hackathon
 hackathonTitle: "Hackathon"

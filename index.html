@@ -7,13 +7,15 @@ permalink: /
 
  {% include about.html %}
 
- {% include statistic.html %}
+ {% if site.statisticBlock %}
+  {% include statistic.html  %}
+ {% endif %}
 
  {% include latest-news.html %}
 
-{% if site.rockstarSpeakersCount > 0 %}
- {% include rockstar-speakers.html %}
-{% endif %}
+ {% if site.rockstarSpeakersCount > 0 %}
+  {% include rockstar-speakers.html %}
+ {% endif %}
 
  {% include location-map.html %}
 
@@ -23,9 +25,9 @@ permalink: /
 
  {% include partners.html %}
 
-{% if site.subscribeAction %}
- {% include subscribe.html %}
-{% endif %}
+ {% if site.subscribeAction %}
+  {% include subscribe.html %}
+ {% endif %}
 
  {% include tickets.html %}
 
