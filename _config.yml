@@ -46,7 +46,7 @@ c4sponsorsUrl: "news/sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite", text: "Register"}
- - {permalink: "/logistics/", text: "Attending"}
+ - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/logistics/", text: "Attending"}
