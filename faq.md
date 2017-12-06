@@ -31,11 +31,6 @@ Posters will be limited to 35 inches (width) x 35 inches (height).
 
 Attendees will view and discuss your work during the poster/demo reception. In addition, we are encouraging presenters to hang posters earlier during the day so they can be viewed during breaks.
 
-##### Where can I get my poster printed in NYC?
-
-Attendees will need to make their own arrangements for printing and delivery of their poster. We recommend [Makesigns](http://www.makesigns.com/) where you can place your order online and arrange for the poster to be shipped to your hotel. There is a [FedEx Office Print & Ship Center](http://local.fedex.com/ny/new-york/office-0219/) located at 1122 Lexington Ave, New York, NY 10075, about a 20 minute walk from the VIVO 2017 Conference site at Weill Cornell Medicine. You can also print your poster at [Printingmanhattan.com](http://printingmanhattan.com/) which is 10 minutes away from Weill Cornell Medicine.
-
-
 #### FAQ for session presenters
 
 If there are any “special” needs you might foresee beyond displaying a presentation (e.g.  group discussion, video with sound), please let us know in advance so we can try to accommodate them.
