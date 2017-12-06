@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VIVO Conference 2018"
 email: "conference@vivoweb.org"
 description: "9th Annual International VIVO Conference"
-baseurl: "/vivo2018"
+baseurl: ""
 url: "http://vivoconference.org"
 permalink: "/:categories/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
