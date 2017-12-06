@@ -147,7 +147,7 @@ ticketsOffers:
   additionalInfo: ""
 #  buyButtonLink: "https://vivo2018.eventbrite.com/?aff=vivoconfsite"
 #  buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Standard rate ends July 31, 2018", ""]
+  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "", ""]
 #  validFrom: "2018-07-08T00:00"
 #  validThrough: "2018-07-31T17:00"
   disabled: false
