@@ -26,4 +26,5 @@ Sponsors of the 9th Annual VIVO Conference will meet attendees with overlapping 
 * Research Information Management and Current Research Information Systems (CRIS)
 * Technology, Technical Support, and Consulting for representing scholarship
 
-VIVO 2018 sponsorship opportunities are limited. Please consider exclusive opportunities and early committer offers.
+VIVO 2018 sponsorship opportunities are limited. Please consider exclusive opportunities and early committer offers. Please see our [VIVO 2018 Conference Sponsorship Prospectus](/assets/VIVO2018-Sponsorship%20Prospectus.pdf) for more information.
+
