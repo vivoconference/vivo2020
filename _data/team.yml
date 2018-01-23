@@ -1,35 +1,36 @@
 - 
-  id: "AlexViggio"
-  name: "Alex"
-  surname: "Viggio"
-  title: "Conference Chair"
-  thumbnailUrl: AlexViggio.png
-  team: true
--
   id: "PaulAlbert"
   name: "Paul"
   surname: "Albert"
   company: "Weill Cornell Medicine"
-  title: "Conference Vice-Chair"
+  title: "Conference Chair"
   thumbnailUrl: PaulAlbert.png
   team: true
-- 
-  id: "VioletaIlik"
-  name: "Violeta"
-  surname: "Ilik"
-  title: "Program Chair"
-  thumbnailUrl: VioletaIlik.jpg
-  subTeam: true
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
+#-
+#  id: "PaulAlbert"
+#  name: "Paul"
+#  surname: "Albert"
+#  company: "Weill Cornell Medicine"
+#  title: "Conference Vice-Chair"
+#  thumbnailUrl: PaulAlbert.png
+#  team: true
 - 
   id: "EricMeeks"
   name: "Eric"
   surname: "Meeks"
-  title: "Program Vice-Chair"
+  title: "Program Chair"
   thumbnailUrl: EricMeeks.jpg
   subTeam: true
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+#- 
+#  id: "EricMeeks"
+#  name: "Eric"
+#  surname: "Meeks"
+#  title: "Program Vice-Chair"
+#  thumbnailUrl: EricMeeks.jpg
+#  subTeam: true
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
@@ -45,15 +46,15 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
-- 
-  id: "GrahamTriggs"
-  name: "Graham"
-  surname: "Triggs"
-  title: "VIVO Tech Lead"
-  thumbnailUrl: GrahamTriggs.jpg
-  duraspace: true
-  ribbon: 
-    - {abbr: "VIVO", title: "VIVO Project"}
+#- 
+#  id: "GrahamTriggs"
+#  name: "Graham"
+#  surname: "Triggs"
+#  title: "VIVO Tech Lead"
+#  thumbnailUrl: GrahamTriggs.jpg
+#  duraspace: true
+#  ribbon: 
+#    - {abbr: "VIVO", title: "VIVO Project"}
 - 
   id: "DebraKurtz"
   name: "Debra"
