@@ -1,33 +1,34 @@
 -
   group: "Platinum Sponsors"
   elements:
-    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
+#    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
     - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
-    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
--
-  group: "Silver Sponsors"
-  elements:
-    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk", imageUrl: "Symplectic-MasterLogo.png"}
-    - {name: "RockefellerUniversityPress", description: "The Rockefeller University Press", link: "http://www.rupress.org/", imageUrl: "RUPressLogo.png"}
--
-  group: "Bronze Sponsors"
-  elements:
-    - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
--
-  group: "Institutional Sponsors"
-  elements:
-    - {name: "WeillCornellMedicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu", imageUrl: "wcm-logo.png"}
-    - {name: "CornellUniversity", description: "Cornell University", link: "http://www.cornell.edu/", imageUrl: "CU_LOGO_RED.gif"}
-    - {name: "VirginiaTech", description: "Virginia Tech", link: "http://www.vt.edu/", imageUrl: "vt.jpg"}
-    - {name: "UPenn", description: "University of Pennsylvania", link: "http://www.upenn.edu", imageUrl: "upenn.png"}
--
-  group: "Welcome Reception Sponsor"
-  elements:
-    - {name: "WeillCornellMedicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu", imageUrl: "wcm-logo.png"}
--
-  group: "Poster Reception Sponsor"
-  elements:
-    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
+    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
+#    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
+#-
+#  group: "Silver Sponsors"
+#  elements:
+#    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk", imageUrl: "Symplectic-MasterLogo.png"}
+#    - {name: "RockefellerUniversityPress", description: "The Rockefeller University Press", link: "http://www.rupress.org/", imageUrl: "RUPressLogo.png"}
+#-
+#  group: "Bronze Sponsors"
+#  elements:
+#    - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
+#-
+#  group: "Institutional Sponsors"
+#  elements:
+#    - {name: "WeillCornellMedicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu", imageUrl: "wcm-logo.png"}
+#    - {name: "CornellUniversity", description: "Cornell University", link: "http://www.cornell.edu/", imageUrl: "CU_LOGO_RED.gif"}
+#    - {name: "VirginiaTech", description: "Virginia Tech", link: "http://www.vt.edu/", imageUrl: "vt.jpg"}
+#    - {name: "UPenn", description: "University of Pennsylvania", link: "http://www.upenn.edu", imageUrl: "upenn.png"}
+#-
+#  group: "Welcome Reception Sponsor"
+#  elements:
+#    - {name: "WeillCornellMedicine", description: "Weill Cornell Medicine", link: "http://weill.cornell.edu", imageUrl: "wcm-logo.png"}
+#-
+#  group: "Poster Reception Sponsor"
+#  elements:
+#    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
 #-
 #  group: "Gold Sponsors"
 #  elements:
