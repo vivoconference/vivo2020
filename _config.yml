@@ -46,6 +46,7 @@ c4sponsorsUrl: "news/sponsorship"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/news/callforproposals", text: "CFP"}
  - {permalink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register"}
  - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
@@ -53,8 +54,6 @@ navigationLinks:
 # - {permalink: "/logistics/", text: "Attending"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "/news/", text: "News"}
-##bottomNavigationLinks:
-# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
@@ -65,7 +64,7 @@ eventDate: "June 6th-8th &sdot; Durham, NC"
 typeoutTextValues: '"", "9th Annual ", "International "'
 typeoutFallback: "9th Annual International"
 heroButtons:
-# - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "/news/callforproposals", text: "Call for Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
