@@ -10,9 +10,10 @@
 #  elements:
 #    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk", imageUrl: "Symplectic-MasterLogo.png"}
 #    - {name: "RockefellerUniversityPress", description: "The Rockefeller University Press", link: "http://www.rupress.org/", imageUrl: "RUPressLogo.png"}
-#-
-#  group: "Bronze Sponsors"
-#  elements:
+-
+  group: "Bronze Sponsors"
+  elements:
+    - {name: "Crossref", description: "Crossref", link: "https://www.crossref.org", imageUrl: "crossref-logo-200.svg"}
 #    - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
 #-
 #  group: "Institutional Sponsors"
