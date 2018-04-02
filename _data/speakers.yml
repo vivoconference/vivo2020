@@ -1,408 +1,55 @@
 -
-  id: "CristinaPattuelli"
-  name: "Cristina"
-  surname: "Pattuelli"
-  company: "School of Information at Pratt Institute"
-  title: "Associate Professor"
-  bio: "M. Cristina Pattuelli is an associate professor at the School of Information at Pratt Institute in New York, US and a visiting professor at the Department of the Cultural Heritage at the University of Bologna, Italy where she teaches courses on knowledge organization, Linked Open Data, and art documentation. Her current research explores the intersection between cultural heritage and information representation and access. She is the founder and director of Linked Jazz, a project that investigates the application of Linked Open Data technology to archival resources. She has published extensively on topics of knowledge organization and semantic technologies in the area of cultural heritage and received the Jesse H. Shera Award for Distinguished Published Research. She is a frequent speaker and consultant to libraries, archives, and museums. She received her Ph.D. in information and library science from the University of North Carolina at Chapel Hill and holds degrees in philosophy and cultural heritage studies from the University of Bologna as well in archival science, paleography and diplomatics from the State Archives School of Bologna. She recently served as co-chair of the LODLAM Summit 2017."
-  thumbnailUrl: CristinaPattuelli.jpg
+  id: "GriffinWeber"
+  name: "Griffin"
+  surname: "Weber"
+  company: "Harvard Medical School"
+  title: "Associate Professor of Medicine and Biomedical Informatics"
+  bio: "Griffin Weber, M.D., Ph.D., is an Associate Professor of Medicine and Biomedical Informatics at Beth Israel Deaconess Medical Center (BIDMC) and Harvard Medical School (HMS). He invented an open source expertise discovery and networking tool for scientists called Profiles Research Networking Software (http://profiles.catalyst.harvard.edu). It automatically mines large datasets such as PubMed and NIH ExPORTER to find information about investigators' research areas and identify ways in which they are connected. It presents these connections using temporal, geospatial, and network visualizations. The software has numerous applications, ranging from finding individual collaborators and mentors to understanding the dynamics of an entire research community. Profiles RNS is now used at dozens of institutions worldwide, including universities, pharmaceutical companies, Federal agencies, and physician networks.
+ 
+Dr. Weber received his M.D. and Ph.D. in computer science from Harvard University in 2007. While still a student, he became the first Chief Technology Officer of Harvard Medical School and built an educational web portal that provides interactive online content to over 500 courses. His past research projects also include analyzing DNA microarrays, modeling the growth of breast cancer tumors, and creating algorithms for predicting life expectancy. He also helped develop another widely adopted open source platform called Informatics for Integrating Biology and the Bedside (i2b2), which enables investigators to query, analyze, and visualize large clinical repositories for hypothesis testing and identification of patients for clinical trials."
+  thumbnailUrl: GriffinWeber.jpg
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
   rockstar: true
 -
-  id: "JodiSchneider"
-  name: "Jodi"
-  surname: "Schneider"
-  company: "School of Information Sciences at the University of Illinois Urbana Champaign"
-  title: "Assistant Professor"
-  bio: "Jodi Schneider is an assistant professor at the School of Information Sciences at the University of Illinois Urbana Champaign. She studies scholarly communication and social media through the lens of arguments, evidence, and persuasion. She is developing Linked Data (ontologies, metadata, Semantic Web) approaches to manage scientific evidence. Jodi holds degrees in Informatics (Ph.D., National University of Ireland, Galway), Library & Information Science (M.S. UIUC), Mathematics (M.A. UT-Austin), and Liberal Arts (B.A., Great Books, St. John’s College). She worked in academic libraries and bookstores for 6 years. She has also held research positions across the U.S. as well as in Ireland, England, France, and Chile."
-  thumbnailUrl: JodiSchneider.png
+  id: "WarrenKibbe"
+  name: "Warren"
+  surname: "Kibbe"
+  company: "Duke Cancer Institute, Duke University"
+  title: "Chief Data Officer"
+  bio: "Warren A. Kibbe, PhD, is chief for Translational Biomedical Informatics in the Department of Biostatistics and Bioinformatics and Chief Data Officer for the Duke Cancer Institute. He joined the Duke University School of Medicine in August after serving as the acting deputy director of the National Cancer Institute (NCI) and director of the NCI’s Center for Biomedical Informatics and Information Technology where he oversaw 60 federal employees and more than 600 contractors, and served as an acting Deputy Director for NCI. As an acting Deputy Director, Dr. Kibbe was involved in the myriad of activities that NCI oversees as a research organization, as a convening body for cancer research, and as a major funder of cancer research, funding nearly $4B US annually in cancer research throughout the United States.
+ 
+A recognized national leader in biomedical informatics and data sharing, Dr. Kibbe has been instrumental in efforts to speed scientific discovery and facilitate translational research by using IT, informatics and data science to address complex research challenges. At the NCI, his responsibilities included defining and implementing the NCI Data Commons and a vision for a National Cancer Research Data Ecosystem. He was instrumental in establishing the NCI’s partnership with the U.S. Department of Energy (DOE) to jointly develop the next generation of high performance computing architectures to address important questions in cancer biology, treatment, development of resistance in patients, and understanding outcomes. Most recently, Dr. Kibbe played a pivotal role in coordinating the data sharing scientific components of the Cancer Moonshot initiative.
+ 
+Prior to joining the NCI, Dr. Kibbe was a professor of Health and Biomedical Informatics in the Feinberg School of Medicine and the director of Cancer Informatics and CIO for the Robert H. Lurie Comprehensive Cancer Center at Northwestern University. InformationWeek named Dr. Kibbe a Top 25 Innovative Healthcare CIO for 2012. In 2017, he was recognized by FedHealthIT as one of the ‘Top 100 Executives and Leaders’ in federal healthcare IT. Dr. Kibbe received his PhD from Caltech and completed his postdoctoral fellowship at the Max-Planck-Institute in Göttingen, Germany."
+  thumbnailUrl: WarrenKibbe.jpg
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
   rockstar: true
 -
-  id: "DavidEichmann"
-  name: "David"
-  surname: "Eichmann"
-  company: "School of Library and Information Science at the University of Iowa"
-  title: "Director and Associate Professor"
-  bio: "David Eichmann is Director and Associate Professor in the School of Library and Information Science at the University of Iowa. He also directs the Information Science Subprogram in the Iowa Graduate Program in Informatics. Over the course of his career he has conducted research in relational database theory, software reuse and reengineering, software repository architecture, web search engines and intelligent agents, information retrieval and extraction, biomedical informatics, ontology-based research profile harvesting and visualization, and most recently visualization and reconciliation techniques for linked open data library catalogs. His current projects include Shakeosphere (modeling the social network of the print community in England 1540-1800), CTSAsearch (aggregating research profiles from 70+ institutions) and Linked Data for Libraries (LD4L) (where he is part of a consortium exploring the next generation of library catalogs). He spends much of his summers attempting to keep the weeds at bay in his garden beds."
-  thumbnailUrl: DavidEichmann.png
-  ribbon:
-    - {abbr: "INVITED", title: "Invited Speaker"}
-  rockstar: true
--
-  id: "RebeccaBryant"
-  name: "Rebecca"
-  surname: "Bryant"
-  company: "OCLC Research"
-  title: "Senior Program Officer"
-  bio: "Rebecca Bryant, PhD, serves as Senior Program Officer at OCLC Research where she leads and develops areas for the OCLC Research Library Partnership and for OCLC Research related to research information management and research support services, contributing to our thematic focus on Research Collections and Support. Rebecca previously served as Project Manager for Researcher Information Services in the University Library at the University of Illinois at Urbana-Champaign where she led a campus-wide effort to implement the Elsevier Pure research information management system (RIMS), rebranded locally as Illinois Research Connections. She has also served as Director of Community at ORCID where she led outreach initiatives to encourage the adoption of ORCID identifiers throughout the scholarly communications community, particularly promoting adoption and integration within universities worldwide. Prior to ORCID, Dr. Bryant spent a decade in the University of Illinois Graduate College as Assistant Dean where she led numerous initiatives to support early career researchers, including the establishment of campus-wide graduate career services and postdoctoral affairs offices. She also served on a campus-wide project team to collect assessment data from 62 PhD programs for the National Research Council Assessment of Research Doctoral Programs. She has extensive experience defining and launching new technology initiatives within the research university setting, including Electronic Theses and Dissertations (ETDs) and serving as a project leader on the system-wide Banner ERP implementation team at Illinois. Rebecca earned a bachelor’s degree at Butler University, a master’s degree from the University of Cincinnati College-Conservatory of Music, and a PhD in musicology from the University of Illinois at Urbana-Champaign."
-  thumbnailUrl: RebeccaBryant.png
-  ribbon:
-    - {abbr: "INVITED", title: "Invited Speaker"}
-  rockstar: true
--
-  id: "KatieFrey"
-  name: "Katie"
-  surname: "Frey"
-  company: "Harvard-Smithsonian Center for Astrophysics"
-  title: "Assistant Head and Digital Technologies Development Librarian"
-  bio: "Katie Frey is the Assistant Head and Digital Technologies Development Librarian at the Harvard-Smithsonian Center for Astrophysics, where she has worked since 2012. One of her primary projects has been leading the development of the Unified Astronomy Thesaurus, a community supported linked data vocabulary for sorting, filtering, and exploring astronomical literature, data sets, images, etc. She also leads initiatives such as the digitization of logbooks written by women computers who worked at the Harvard College Observatory in the mid to late 1800s and the development of a tools, devices, and maker collection for exploration and prototyping. Katie holds a Master's in Library and Information Science from the University of Pittsburgh and a BS in Astronomy from San Diego State University."
-  thumbnailUrl: KatieFrey.jpg
-  ribbon:
-    - {abbr: "INVITED", title: "Invited Speaker"}
-  rockstar: true
--
-  id: "YingDing"
-  name: "Ying"
-  surname: "Ding"
-  company: "School of Informatics and Computing, Indiana University"
-  title: "Associate Professor"
-  bio: "Dr. Ying Ding is an Associate Professor at School of Informatics and Computing, Indiana University and is currently the associate director for data science online program. She is the Changjiang Guest Professor at Wuhan University and Elsevier Guest Professor at Tongji University China. She has been involved in various NIH, NSF and European-Union funded projects. She has published 200+ papers in journals, conferences, and workshops, and served as the program committee member for 180+ international conferences. She is the co-editor of book series called Semantic Web Synthesis by Morgan & Claypool publisher. She is co-author of the book 'Intelligent Information Integration in B2B Electronic Commerce' published by Kluwer Academic Publishers, and co-author of the book chapter in 'Spinning the Semantic Web' published by MIT Press. She is the co-editor in chief for Journal of Data and Information Science, and serves as the editorial board member for Scientific Data (Nature), and several other top journals in Information Science and Semantic Web. She is the co-founder of Data2Discovery company advancing cutting edge technologies in data science. Her current research interests include data-driven science of science, data-driven discovery, Semantic Web, scientific collaboration, and the application of Web Technology."
-  thumbnailUrl: YingDing.jpg
-  ribbon:
-    - {abbr: "INVITED", title: "Invited Speaker"}
-  rockstar: true
--
-  id: "JamesHendler"
-  name: "James"
-  surname: "Hendler"
-  company: "Cognitive Science Department, RPI"
-  title: "Professor"
-  bio: "James Hendler is the Director of the Institute for Data Exploration and Applications and the Tetherless World Professor of Computer, Web and Cognitive Sciences at RPI.  He also serves as a Director of the UK’s charitable Web Science Trust.  Hendler has authored over 350 books, technical papers and articles in the areas of Semantic Web, artificial intelligence, agent-based computing and high performance processing. One of the originators of the “Semantic Web,” Hendler was the recipient of a 1995 Fulbright Foundation Fellowship, is a former member of the US Air Force Science Advisory Board, and is a Fellow of the AAAI, BCS, the IEEE, the AAAS and the ACM. He is also the former Chief Scientist of the Information Systems Office at the US Defense Advanced Research Projects Agency (DARPA) and was awarded a US Air Force Exceptional Civilian Service Medal in 2002. He is also the first computer scientist to serve on the Board of Reviewing editors for Science. In 2010, Hendler was named one of the 20 most innovative professors in America by Playboy magazine and was selected as an “Internet Web Expert” by the US government. In 2012, he was one of the inaugural recipients of the Strata Conference “Big Data” awards for his work on large-scale open government data, and he is a columnist and associate editor of the Big Data journal. In 2013, he was appointed as the Open Data Advisor to New York State and in 2015 appointed a member of the US Homeland Security Science and Technology Advisory Committee and in 2016, became a member of the National Academies Board on Research Data and Information."
-  thumbnailUrl: JamesHendler.jpg
-  ribbon:
-    - {abbr: "INVITED", title: "Invited Speaker"}
-  rockstar: true
--
-  id: "AlanHyndman"
-  name: "Alan"
-  surname: "Hyndman"
-  company: "figshare"
--
-  id: "AmberBilley"
-  name: "Amber"
-  surname: "Billey"
-  company: "Columbia University"
--
-  id: "AndrewMacEwan"
-  name: "Andrew"
-  surname: "MacEwan"
-  company: "British Library"
--
-  id: "AndrewWoods"
-  name: "Andrew"
-  surname: "Woods"
-  company: "Duraspace"
--
-  id: "AnirvanChatterjee"
-  name: "Anirvan"
-  surname: "Chatterjee"
-  company: "UCSF"
--
-  id: "AnnBeynon"
-  name: "Ann"
-  surname: "Beynon"
-  company: "Clarivate Analytics"
--
-  id: "ArielKatz"
-  name: "Ariel"
-  surname: "Katz"
-  company: "LabSpot, SkillSight"
--
-  id: "AyeshaJoshi"
-  name: "Ayesha"
-  surname: "Joshi"
-  company: "Weill Cornell Medicine"
--
-  id: "BenjaminGross"
-  name: "Benjamin"
-  surname: "Gross"
-  company: "UNAVCO"
--
-  id: "BesikiStvilia"
-  name: "Besiki"
-  surname: "Stvilia"
-  company: "Florida State University"
--
-  id: "BrianLowe"
-  name: "Brian"
-  surname: "Lowe"
-  company: "Ontocale SRL"
--
-  id: "BrianTurner"
-  name: "Brian"
-  surname: "Turner"
-  company: "UCSF"
--
-  id: "ChristianHauschke"
-  name: "Christian"
-  surname: "Hauschke"
-  company: "German National Library of Science and Technology"
--
-  id: "DamarisMurry"
-  name: "Damaris"
-  surname: "Murry"
-  company: "Duke University"
--
-  id: "DavidNeiman"
-  name: "David"
-  surname: "Neiman"
-  company: "Harvard University"
--
-  id: "DavidWilcox"
-  name: "David"
-  surname: "Wilcox"
-  company: "Duraspace"
--
-  id: "DeanKrafft"
-  name: "Dean"
-  surname: "Krafft"
-  company: "Cornell University"
--
-  id: "DonElsborg"
-  name: "Don"
-  surname: "Elsborg"
-  company: "University of Colorado, Boulder"
--
-  id: "DongJoonLee"
-  name: "Dong Joon"
-  surname: "Lee"
-  company: "Texas A&M University"
--
-  id: "DonStott"
-  name: "Don"
-  surname: "Stott"
-  company: "National Center for Atmospheric Research"
--
-  id: "DouglasPicadio"
-  name: "Douglas"
-  surname: "Picadio"
-  company: "Elsevier Pure"
--
-  id: "EricaJohns"
-  name: "Erica"
-  surname: "Johns"
-  company: "Mann Library, Cornell University"
--
-  id: "EricMeeks"
-  name: "Eric"
-  surname: "Meeks"
-  company: "UCSF"
--
-  id: "ErinStalberg"
-  name: "Erin"
-  surname: "Stalberg"
-  company: "Mount Holyoke College"
--
-  id: "EstherDzaleYeumo"
-  name: "Esther"
-  surname: "Dzale Yeumo"
-  company: "INRA"
--
-  id: "HectorCorrea"
-  name: "Hector"
-  surname: "Correa"
-  company: "Brown University"
--
-  id: "HeleneLucas"
-  name: "Hélène"
-  surname: "Lucas"
-  company: "INRA"
--
-  id: "HudaKhan"
-  name: "Huda"
-  surname: "Khan"
-  company: "Cornell University"
--
-  id: "JasonKovari"
-  name: "Jason"
-  surname: "Kovari"
-  company: "Cornell University"
--
-  id: "JenniferLiss"
-  name: "Jennifer"
-  surname: "Liss"
-  company: "Indiana University"
--
-  id: "JieLin"
-  name: "Jie"
-  surname: "Lin"
-  company: "Weill Cornell Medicine"
--
-  id: "JimBlake"
-  name: "Jim"
-  surname: "Blake"
-  company: "Cornell University"
--
-  id: "JohnFereira"
-  name: "John"
-  surname: "Fereira"
-  company: "Cornell University"
--
-  id: "JohnFurfey"
-  name: "John"
-  surname: "Furfey"
-  company: "MBLWHOI Library"
--
-  id: "JohnRiemer"
-  name: "John"
-  surname: "Riemer"
-  company: "University of California Los Angeles (UCLA)"
--
-  id: "JuliaTrimmer"
-  name: "Julia"
-  surname: "Trimmer"
-  company: "Duke University"
--
-  id: "KalmanVictor"
-  name: "Kalman"
-  surname: "Victor"
-  company: "LabSpot, SkillSight"
--
-  id: "KeithMaull"
-  name: "Keith"
-  surname: "Maull"
-  company: "National Center for Atmospheric Research"
--
-  id: "LamontCannon"
-  name: "Lamont"
-  surname: "Cannon"
-  company: "Duke University"
--
-  id: "LamprosSmyrnaios"
-  name: "Lampros"
-  surname: "Smyrnaios"
-  company: "INRA"
--
-  id: "LeslieYuan"
-  name: "Leslie"
-  surname: "Yuan"
-  company: "UCSF"
--
-  id: "LindaRowan"
-  name: "Linda"
-  surname: "Rowan"
-  company: "UNAVCO"
--
-  id: "LynetteRayle"
-  name: "Lynette"
-  surname: "Rayle"
-  company: "Cornell University"
--
-  id: "MarijaneWhite"
-  name: "Marijane"
-  surname: "White"
-  company: "Oregon Health & Science University Ontology Development Group"
--
-  id: "MatthewMayernik"
-  name: "Matthew"
-  surname: "Mayernik"
-  company: "National Center for Atmospheric Research"
--
-  id: "MichaelBales"
-  name: "Michael"
-  surname: "Bales"
-  company: "Weill Cornell Medicine"
--
-  id: "MichelleDurocher"
-  name: "Michelle"
-  surname: "Durocher"
-  company: "Harvard University"
--
-  id: "MichelleFutornick"
-  name: "Michelle"
-  surname: "Futornick"
-  company: "Stanford University"
--
-  id: "MikeConlon"
-  name: "Mike"
-  surname: "Conlon"
-  company: "Duraspace"
--
-  id: "MikeDaniels"
-  name: "Mike"
-  surname: "Daniels"
-  company: "National Center for Atmospheric Research"
--
-  id: "MuhammadJaved"
-  name: "Muhammad"
-  surname: "Javed"
-  company: "Cornell University"
--
-  id: "NickCappadona"
-  name: "Nick"
-  surname: "Cappadona"
-  company: "Cornell University"
--
-  id: "PaulAlbert"
-  name: "Paul"
-  surname: "Albert"
-  company: "Weill Cornell Medicine"
--
-  id: "PaulFrank"
-  name: "Paul"
-  surname: "Frank"
-  company: "Library of Congress"
--
-  id: "PrakashAdekkanattu"
-  name: "Prakash"
-  surname: "Adekkanattu"
-  company: "Weill Cornell Medicine"
--
-  id: "RebeccaYounes"
-  name: "Rebecca"
-  surname: "Younes"
-  company: "Cornell University"
--
-  id: "RodneyJacobson"
-  name: "Rodney"
-  surname: "Jacobson"
-  company: "Dartmouth College"
--
-  id: "SandyPayette"
-  name: "Sandy"
-  surname: "Payette"
-  company: "Cornell University"
--
-  id: "SarbajitDutta"
-  name: "Sarbajit"
-  surname: "Dutta"
-  company: "Weill Cornell Medicine"
--
-  id: "ShuhengWu"
-  name: "Shuheng"
-  surname: "Wu"
-  company: "Queens College, The City University of New York"
--
-  id: "SimeonWarner"
-  name: "Simeon"
-  surname: "Warner"
-  company: "Cornell University"
--
-  id: "SimonPorter"
-  name: "Simon"
-  surname: "Porter"
-  company: "Digital Science"
--
-  id: "StephenHearn"
-  name: "Stephen"
-  surname: "Hearn"
+  id: "JanFransen"
+  name: "Jan"
+  surname: "Fransen"
   company: "University of Minnesota"
--
-  id: "StevenMcCauley"
-  name: "Steven"
-  surname: "McCauley"
-  company: "Brown University"
--
-  id: "TerrieWheeler"
-  name: "Terrie"
-  surname: "Wheeler"
-  company: "Weill Cornell Medicine"
--
-  id: "VioletaIlik"
-  name: "Violeta"
-  surname: "Ilik"
-  company: "Stony Brook University"
-  
+  title: "Service Lead for Research Information Management and Discovery Systems"
+  bio: "Jan Fransen is the Service Lead for Research Information Management and Discovery Systems for University of Minnesota Libraries in the Twin Cities. In that role, Jan works across Libraries divisions and with campus partners to provide library systems that save researchers' and students' time and improve their access to the materials they need to get to their next steps."
+  thumbnailUrl: JanFransen.jpg
+  ribbon:
+    - {abbr: "KEYNOTE", title: "Keynote Speaker"}
+  rockstar: true
+#-
+#  id: "DavidEichmann"
+#  name: "David"
+#  surname: "Eichmann"
+#  company: "School of Library and Information Science at the University of Iowa"
+#  title: "Director and Associate Professor"
+#  bio: "David Eichmann is Director and Associate Professor in the School of Library and Information Science at the University of Iowa. He also directs the Information Science Subprogram in the Iowa Graduate Program in Informatics. Over the course of his career he has conducted research in relational database theory, software reuse and reengineering, software repository architecture, web search engines and intelligent agents, information retrieval and extraction, biomedical informatics, ontology-based research profile harvesting and visualization, and most recently visualization and reconciliation techniques for linked open data library catalogs. His current projects include Shakeosphere (modeling the social network of the print community in England 1540-1800), CTSAsearch (aggregating research profiles from 70+ institutions) and Linked Data for Libraries (LD4L) (where he is part of a consortium exploring the next generation of library catalogs). He spends much of his summers attempting to keep the weeds at bay in his garden beds."
+#  thumbnailUrl: DavidEichmann.png
+#  ribbon:
+#    - {abbr: "INVITED", title: "Invited Speaker"}
+#  rockstar: true
+#-
+#  id: "AlanHyndman"
+#  name: "Alan"
+#  surname: "Hyndman"
+#  company: "figshare"
