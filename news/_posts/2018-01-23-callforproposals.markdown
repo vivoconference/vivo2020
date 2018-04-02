@@ -15,7 +15,7 @@ Our theme this year is “The value of making scholarly data open, found, and co
 * If you use a product supported by the VIVO ontology such as VIVO, Profiles RNS, Clarivate Analytics, or Elsevier Pure and you have a story to tell, we want to hear from you!
 * If you are involved in other aspects of disseminating open scholarly data or the semantic scholarly web, we want to hear from you!
 
-**Proposals must be received by Sunday, March 18th, 2018 at 12:00 AM EST.**
+**Proposals must be received by Sunday, April 1st, 2018 at 12:00 AM EST.**
 
 **[Click here to submit your proposal.](https://easychair.org/cfp/VIVO2018)**
 
