@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VIVO 2017 Frequently Asked Questions
+title: VIVO Conference Frequently Asked Questions
 permalink: /faq/
 isStaticPost: true
 ---
