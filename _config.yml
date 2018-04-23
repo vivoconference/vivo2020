@@ -38,7 +38,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pButton: "Register before April 13th to save!"
+c4pButton: "Register before April 29th to save!"
 c4pText: "VIVO conference registration is open! Workshops are included at no extra cost."
 c4pUrl: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589"
 c4sponsorsUrl: "news/sponsorship"
@@ -64,7 +64,7 @@ eventDate: "June 6th-8th &sdot; JB Duke Hotel, Durham, NC"
 typeoutTextValues: '"", "9th Annual ", "International "'
 typeoutFallback: "9th Annual International"
 heroButtons:
- - {link: "/news/callforproposals", text: "Call for Proposals"}
+ - {link: "/news/callforproposals", text: "Late Breaking Call for Posters"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
@@ -138,14 +138,14 @@ ticketsTitle: "Registration"
 ticketsInfo: "Registration grants full VIVO 2018 conference access including workshops. Accommodation is NOT included in the cost."
 ticketsOffers:
  -
-  name: "Early Bird Registration"
-  price: "$300"
+  name: "Final Early Bird Registration"
+  price: "$350"
   priceCurrency: ""
   featured: true
   additionalInfo: ""
   buyButtonLink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589#tickets"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Register before April 13th to save!", ""]
+  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Register before April 29th to save!", ""]
 #  validFrom: "2018-07-08T00:00"
 #  validThrough: "2018-07-31T17:00"
   disabled: false
