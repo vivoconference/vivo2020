@@ -13,38 +13,38 @@ isStaticPost: false
 
 #### Getting Around Durham
 
-* Downtown Durham Map <http://durham429.web.unc.edu/files/2016/02/Screen-Shot-2016-02-06-at-12.42.43-PM.png>
-* Duke University Map <http://maps.duke.edu/map/?id=21>
-* Fare-Free Bus Routes from Duke University <http://godurhamtransit.org/bcc>
-* Campus Bus Routes <http://parking.duke.edu/buses_vans/index.php>
-* From Raleigh-Durham Airport (RDU) <https://www.rdu.com/ground-transportation/>
-* To Chapel Hill: <https://robertsonscholars.org/bus/>
+* Downtown Durham [Map](http://durham429.web.unc.edu/files/2016/02/Screen-Shot-2016-02-06-at-12.42.43-PM.png)
+* Duke University [Map](http://maps.duke.edu/map/?id=21)
+* [Fare-Free Bus Routes](http://godurhamtransit.org/bcc) from Duke University
+* Campus Bus Routes [Map](http://parking.duke.edu/buses_vans/index.php)
+* [Directions from](https://www.rdu.com/ground-transportation/) Raleigh-Durham Airport (RDU)
+* [Directions to](https://robertsonscholars.org/bus/) Chapel Hill
 
 
 #### Take In The Outdoors
 
-* Go to a Durham Bulls game. <http://www.milb.com/index.jsp?sid=t234>
-* Picnic in the Sarah P. Duke Gardens. <http://gardens.duke.edu/>
-* Run or walk on one of the many trails in Duke Forest. <http://dukeforest.duke.edu/>
-* Visit the Duke Lemur Center <http://lemur.duke.edu/>
-* Play golf at the Duke University Golf Club. <http://www.jbdukehotel.com/play/duke-university-golf-club/>
-* Do a self-guided tour <https://www.durham-nc.com/maps-info/maps-guides/>
+* Go to a [Durham Bulls game](http://www.milb.com/index.jsp?sid=t234).
+* Picnic in the [Sarah P. Duke Gardens](http://gardens.duke.edu/).
+* Run or walk on one of the [many trails in Duke Forest](http://dukeforest.duke.edu/).
+* Visit the [Duke Lemur Center](<http://lemur.duke.edu/>).
+* Play golf at the [Duke University Golf Club](http://www.jbdukehotel.com/play/duke-university-golf-club/).
+* Do a [self-guided tour](https://www.durham-nc.com/maps-info/maps-guides/).
 
 #### Shop & Dine In “The Tastiest Town in the South”
 
-* Between conference sessions, grab a bite at the JB Duke Marketplace <http://www.jbdukehotel.com/dine/abc-dining-room/>
+* Between conference sessions, grab a bite at the [JB Duke Marketplace](http://www.jbdukehotel.com/dine/abc-dining-room/)
 * Stroll the downtown districts:
-  * American Tobacco Campus <https://americantobaccocampus.com/restaurants>
-  * Ninth Street <http://www.discover9thstreet.com/ninth-street-businesses/>
-  * Brightleaf Square <https://historicbrightleaf.com/dine/>
-* Or visit Duke’s main campus with great dining options at the Broadhead Center <https://brodheadcenter.duke.edu/>
+  * [American Tobacco Campus](https://americantobaccocampus.com/restaurants)
+  * [Ninth Street](http://www.discover9thstreet.com/ninth-street-businesses/)
+  * [Brightleaf Square](https://historicbrightleaf.com/dine/)
+* Or visit Duke’s main campus with great dining options at the [Broadhead Center](https://brodheadcenter.duke.edu/)
 
 #### Be Immersed In History and Art
 
-* Learn more about Durham at the History Hub. <https://www.museumofdurhamhistory.org/>
-* Catch a performance on or off campus <https://dukeperformances.duke.edu/venues/>
-* Browse exhibits at the Nasher Museum of Art <https://nasher.duke.edu/>
-* Take in a show at DPAC. <https://www.dpacnc.com/>
-* Visit the Duke Chapel. <https://chapel.duke.edu/contact>
-* See internationally renowned performers at the American Dance Festival. <http://www.americandancefestival.org/>
-* Catch a critically acclaimed documentary at the Full Frame Documentary Film Festival. <https://www.fullframefest.org/>
+* Learn more about Durham at the [History Hub](https://www.museumofdurhamhistory.org/).
+* [Catch a performance](https://dukeperformances.duke.edu/venues/) on or off campus.
+* Browse exhibits at the [Nasher Museum of Art](https://nasher.duke.edu/).
+* Take in a show at [DPAC](https://www.dpacnc.com/).
+* Visit the [Duke Chapel](https://chapel.duke.edu/contact).
+* See internationally renowned performers at the [American Dance Festival](http://www.americandancefestival.org/).
+* Catch a critically acclaimed documentary at the [Full Frame Documentary Film Festival](https://www.fullframefest.org/).
