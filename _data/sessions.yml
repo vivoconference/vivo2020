@@ -23,7 +23,7 @@
   description: "In 2016, the Scholars@Cornell project was initiated aiming to advance the visibility and accessibility of Cornell scholarship and to preserve them for future generations. However, in data life cycle, data preservation and providing access to the recorded data is not the final stage. Data stored in a database is merely a record and can be of use only if human experience and insight is applied to it, data analysis is performed and data is transformed into a knowledge. The faculty and publication data is capable of revealing much more about patterns and dynamics of scholarship and the institution. Such data can support universities in their systems for managing faculty information, scholar's websites, faculty reporting and strategic decisions in general. We explore the scholarship data from the lens of a scholar, academic unit and an institutions. Unlike systems that provide web pages of researcher profiles using lists and directory-style metaphors, our work explores the power of graph analytics and infographics for navigating a rich semantic graph of scholarly data.
 We believe that the scholarship data, accessible in RDF format through VIVO webpages, is not easy to reuse, specifically by the software developers who have limited knowledge of semantic technologies and the VIVO data model. In Scholars@Cornell, the scholarship data is open for reuse in different ways. The data can be accessed via Data Distribution API in RDF or in JSON format. The infographics built using D3 javascript libraries can be embedded on different institutional websites. Additionally, new web applications can be developed that use scholarship knowledge graph, showcasing research areas and expertise. In this presentation, I will present an overview of the project, lessons learnt and will emphasis on data reuse and data analysis. I will discuss about our journey, how we moved from counting list items to connected graph, from data list views to data analysis and from data in peace to data in use."
   subtype: presentation
-  speakers: ["MuhamedJaved","JimBlake","TimWorrall"]
+  speakers: ["MuhammadJaved","JimBlake","TimWorrall"]
 -
   id: 106
   title: "VIVO: Research Engagement & Impact"
@@ -50,7 +50,7 @@ The SOPUS web service (SOPUS-WS) allows a faculty member to navigate from their 
 SOPUS begins with an upgrade to the existing VIVO-ORCID integration toolkit. This upgraded toolkit is de-coupled from the VIVO application and joined with its own persistence layer to store long-lasting authorization tokens and transaction histories. The result is then wrapped in two activation layers, so it can be used as either an interactive web service or a command-line application.
 In this session, we will demonstrate the interactive authorization process (SOPUS-WS) and the batch update process (SOPUS-CL). We will discuss the user experience, the software components, and the data elements. We will show how these processes are integrated with VIVO, and discuss how other sites can add these processes to their own VIVO installations."
   subtype: presentation
-  speakers: ["JimBlake","MuhammedJaved"]
+  speakers: ["JimBlake","MuhammadJaved"]
 -
   id: 108
   title: "Two ways to integrate Publons peer review data in VIVO"
@@ -180,7 +180,7 @@ The project will determine the value and potential of a long-term collaboration 
   title: "In Search of the Golden Query: Using Dimensions Data in VIVO"
   description: "Gathering data for a VIVO implementation is known to be a chore -- publications, grants, and datasets can be difficult to identify and disambiguate. For VIVO sites, the “golden query” is easily stated: “Find all the works of my institution for time period x.” If sites were able to execute the golden query, they could get all the works of their people on a timely basis. Combining these works with local data such as positions, courses taught, photos, overviews, and contact information would lead to a fully populated VIVO with minimal effort. For years, VIVO sites have been harvesting data from a wide variety of sources in search of the golden query. Dimensions is a new licensed product of Digital Science, that organizes and presents information on scholarly works. Dimensions contains information on people, publications, grants, clinical trials, and data sets. Dimensions has an API that can be used to gather and return data using the Dimensions Search Language (DSL). Using DSL, queries can be written to find the works of scholars at institutions in specified time periods. In this poster, we demonstrate the use of DSL queries from Python which are then transformed to VIVO RDF. The software can be found at https://github.com/mconlon17/vivo-dimensions Has the golden query been found? Stop by our poster to find out."
   subtype: poster
-  speakers: ["MichaelConlon","SimonJohnPorter"]
+  speakers: ["MichaelConlon","SimonPorter"]
 -
   id: 123
   title: "VIVO Community Development - Aligning Efforts"
@@ -230,7 +230,7 @@ When you do get access to the information that you need, in many cases it is not
 How do we turn this situation around? How do we increase the awareness of the data stewards of HR, Finance, and Student Systems that they are research information stewards too? Within an institutional context, how can we define what it is to be a research information citizen?
 Building on a similar exercise held at Pidapalooza earlier this year, participants at this workshop will aim to identify what the shared understanding and norms surrounding how we handle and communicate the research information within an institution should be. In doing so, it is hoped that we can take the first step towards baking research profiling into the reasons that institutions collect information in the first place."
   subtype: workshop
-  speakers: ["SimonJohnPorter"]
+  speakers: ["SimonPorter"]
 -
   id: 128
   title: "Hands on with the Dimensions API"
@@ -245,7 +245,7 @@ This workshop is intended for:
 Researchers intending on using the Dimensions API as part of their research
 Institutions using or considering a Dimensions subscription"
   subtype: workshop
-  speakers: ["SimonJohnPorter"]
+  speakers: ["SimonPorter"]
 -
   id: 129
   title: "Research Networking Data as Metrics: The Choice of Controls Matters"
@@ -320,9 +320,52 @@ The Clinical Trials extension is of particular importance, as it is one of the p
   subtype: poster
   speakers: ["EskoBrummel","JohnBehart"]
 -
-#  id: 801
-#  title: "Keynote #1"
-#  description: "TBD"
-#  subtype: keynote
-#  place: "Uris"
-#  speakers: ["GriffinWeber"]
+  id: 300
+  title: "Unconference"
+  description: ""
+  subtype: unconference
+  speakers: [""]
+-
+  id: 801
+  title: "Opening Session and Weber Keynote"
+  description: ""
+  subtype: keynote
+  speakers: ["GriffinWeber"]
+-
+  id: 802
+  title: "Fransen Keynote and Unconference Kickoff"
+  description: ""
+  subtype: keynote
+  speakers: ["JanFransen"]
+-
+  id: 803
+  title: "Kibbe Keynote and Unconference Kickoff"
+  description: ""
+  subtype: keynote
+  speakers: ["WarrenKibbe"]
+-
+  id: 901
+  title: "Breakfast"
+  place: "JB Duke Marketplace"
+  service: true
+  description: ""
+-
+  id: 903
+  title: "Lunch"
+  place: "JB Duke Marketplace"
+  service: true
+-
+  id: 905
+  title: "Welcome Reception"
+  place: ""
+  service: true
+-
+  id: 906
+  title: "Poster Reception"
+  place: ""
+  description: ""
+-
+  id: 907
+  title: "Closing Session"
+  place: ""
+  description: ""  

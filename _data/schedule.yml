@@ -1,179 +1,158 @@
 -
-  date: "2017-08-02"
-  dateReadable: "Wednesday August 2"
+  date: "2018-06-06"
+  dateReadable: "Wednesday June 6"
   tracks:
-    - {title: "Uris", color: "#90be4e"}
-    - {title: "C-200", color: "#03a9f4"}
-    - {title: "A-250", color: "#e91e63"}
+    - {title: "Meeting Room 1", color: "#03a9f4"}
+    - {title: "Meeting Room 2", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "07:30",
+    	startTime: "07:00",
     	endTime: "08:30",
     	sessionIds: [901]
     }
     - {
     	startTime: "08:30",
-    	endTime: "12:00",
-    	sessionIds: [0,701,702]
-    }
-    - {
-        startTime: "12:00",
-        endTime: "13:30",
-        sessionIds: [903]
-    }
-    - {
-    	startTime: "13:30",
-    	endTime: "17:00",
-    	sessionIds: [703,704,705]
-    }
-    - {
-    	startTime: "17:30",
-    	endTime: "18:30",
-    	sessionIds: [905]
-    }
--
-  date: "2017-08-03"
-  dateReadable: "Thursday August 3"
-  tracks:
-    - {title: "Uris", color: "#90be4e"}
-    - {title: "C-200", color: "#03a9f4"}
-    - {title: "A-250", color: "#e91e63"}
-  timeslots:
-    - {
-    	startTime: "07:30",
-    	endTime: "08:30",
-    	sessionIds: [901]
-    }
-    - {
-    	startTime: "08:30",
-    	endTime: "10:00",
-    	sessionIds: [801]
-    }
-    - {
-    	startTime: "10:00",
-    	endTime: "10:30",
-    	sessionIds: [902]
-    }
-    - {
-        startTime: "10:30",
-        endTime: "11:00",
-        sessionIds: [101,102,103]
-    }
-    - {
-        startTime: "11:00",
-        endTime: "11:30",
-        sessionIds: [104,105,106]
+    	endTime: "11:30",
+    	sessionIds: [118,128]
     }
     - {
         startTime: "11:30",
-        endTime: "12:00",
-        sessionIds: [107,108,109]
+        endTime: "13:00",
+        sessionIds: [903]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "13:30",
-    	sessionIds: [904]
-    }
-    - {
-    	startTime: "13:30",
-    	endTime: "14:15",
-    	sessionIds: [803]
-    }
-    - {
-    	startTime: "14:15",
-    	endTime: "15:00",
-    	sessionIds: [805]
-    }
-    - {
-    	startTime: "15:00",
-    	endTime: "15:30",
-    	sessionIds: [902]
-    }
-    - {
-    	startTime: "15:30",
+    	startTime: "13:00",
     	endTime: "16:00",
-    	sessionIds: [110,111,112]
-    }
-    - {
-    	startTime: "16:00",
-    	endTime: "16:30",
-    	sessionIds: [113,114,120]
-    }
-    - {
-    	startTime: "16:30",
-    	endTime: "17:00",
-    	sessionIds: [116,117,118]
+    	sessionIds: [132,127]
     }
     - {
     	startTime: "17:00",
     	endTime: "19:00",
-    	sessionIds: [906]
+    	sessionIds: [905]
     }
 -
-  date: "2017-08-04"
-  dateReadable: "Friday August 4"
+  date: "2018-06-07"
+  dateReadable: "Thursday June 7"
   tracks:
-    - {title: "Uris", color: "#90be4e"}
-    - {title: "C-200", color: "#03a9f4"}
-    - {title: "A-250", color: "#e91e63"}
+    - {title: "Ballroom", color: "#90be4e"}
+    - {title: "Meeting Room 1", color: "#03a9f4"}
+    - {title: "Meeting Room 2", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "07:30",
+    	startTime: "07:00",
     	endTime: "08:30",
     	sessionIds: [901]
     }
     - {
     	startTime: "08:30",
-    	endTime: "10:00",
-    	sessionIds: [802]
+    	endTime: "09:30",
+    	sessionIds: [801]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "10:30",
-    	sessionIds: [902]
+    	startTime: "9:30",
+    	endTime: "09:55",
+    	sessionIds: [0,130,129]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:25",
+    	sessionIds: [0,131,112]
     }
     - {
         startTime: "10:30",
-        endTime: "11:00",
-        sessionIds: [119,123,121]
+        endTime: "10:55",
+    	sessionIds: [0,101,107]
     }
     - {
         startTime: "11:00",
-        endTime: "11:30",
-        sessionIds: [122,115,124]
-    }
-    - {
-        startTime: "11:30",
         endTime: "12:00",
-        sessionIds: [125,126,127]
+    	sessionIds: [109]
     }
     - {
     	startTime: "12:00",
     	endTime: "13:30",
-    	sessionIds: [904]
+    	sessionIds: [903]
     }
     - {
     	startTime: "13:30",
-    	endTime: "14:15",
-    	sessionIds: [804]
+    	endTime: "14:25",
+    	sessionIds: [802]
     }
     - {
-    	startTime: "14:15",
-    	endTime: "15:00",
-    	sessionIds: [806]
+    	startTime: "14:30",
+    	endTime: "14:55",
+    	sessionIds: [300,102,125]
     }
     - {
     	startTime: "15:00",
-    	endTime: "15:30",
-    	sessionIds: [902]
+    	endTime: "15:25",
+    	sessionIds: [300,106,114]
     }
     - {
     	startTime: "15:30",
-    	endTime: "16:15",
-    	sessionIds: [807]
+    	endTime: "15:55",
+    	sessionIds: [300,110,115]
     }
     - {
-    	startTime: "16:15",
-    	endTime: "17:00",
-    	sessionIds: [128]
+    	startTime: "16:00",
+    	endTime: "16:25",
+    	sessionIds: [300,117,123]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "16:55",
+    	sessionIds: [300,111,108]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "19:00",
+    	sessionIds: [906]
+    }
+-
+  date: "2018-06-08"
+  dateReadable: "Friday June 8"
+  tracks:
+    - {title: "Meeting Room 1", color: "#03a9f4"}
+    - {title: "Meeting Room 2", color: "#e91e63"}
+    - {title: "Ballroom", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "07:00",
+    	endTime: "08:30",
+    	sessionIds: [901]
+    }
+    - {
+    	startTime: "08:30",
+    	endTime: "09:30",
+    	sessionIds: [803]
+    }
+    - {
+    	startTime: "9:30",
+    	endTime: "09:55",
+    	sessionIds: [300,124,120]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:25",
+    	sessionIds: [300,126,105]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "10:55",
+    	sessionIds: [300,134,116]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:25",
+    	sessionIds: [119]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "11:55",
+    	sessionIds: [907]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "13:30",
+    	sessionIds: [903]
     }
