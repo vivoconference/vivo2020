@@ -123,6 +123,16 @@
     	endTime: "19:00",
     	sessionIds: [906]
     }
+    - {
+    	startTime: "19:00",
+    	endTime: "21:00",
+    	sessionIds: [908]
+    }
+    - {
+    	startTime: "21:00",
+    	endTime: "23:00",
+    	sessionIds: [909]
+    }
 -
   date: "2018-06-08"
   dateReadable: "Friday June 8"
