@@ -40,7 +40,7 @@ This talk will discuss:
 * development of reporting capabilities within the in-house VIVO data manager application
 * user support and promotional activities"
   subtype: presentation
-  speakers: ["KeithBrody"]
+  speakers: ["KeithBrophy"]
 -
   id: 107
   title: "Pushing publication records from Scholars@Cornell to ORCID"
@@ -344,14 +344,25 @@ The Clinical Trials extension is of particular importance, as it is one of the p
   subtype: keynote
   speakers: ["WarrenKibbe"]
 -
+  id: 900
+  title: "Registration and Sponsors"
+  place: "JB Duke Atrium"
+  service: true
+  description: ""
+-
   id: 901
-  title: "Breakfast"
+  title: "Breakfast (included)"
   place: "JB Duke Marketplace"
   service: true
   description: ""
 -
   id: 903
-  title: "Lunch"
+  title: "Lunch (included)"
+  place: "JB Duke Marketplace"
+  service: true
+-
+  id: 904
+  title: "Dinner (included for hotel guests)"
   place: "JB Duke Marketplace"
   service: true
 -
@@ -362,10 +373,30 @@ The Clinical Trials extension is of particular importance, as it is one of the p
 -
   id: 906
   title: "Poster Reception"
-  place: ""
+  place: "JB Duke Atrium and Gallery"
   description: ""
 -
   id: 907
+  title: "Coffee Break"
+  place: "JB Duke Atrium"
+  description: ""  
+-
+  id: 908
+  title: "Explore Durham (Group Dinners)"
+  place: "Sign up at http://bit.ly/VIVO18signups"
+  description: ""      
+-
+  id: 909
+  title: "Late Night Social"
+  place: "JB Duke Lobby Lounge and Club Room"
+  description: ""      
+-
+  id: 910
   title: "Closing Session"
   place: ""
   description: ""  
+-
+  id: 911
+  title: "Friday afternoon activities"
+  place: "Sign up at http://bit.ly/VIVO18signups"
+  description: ""      
