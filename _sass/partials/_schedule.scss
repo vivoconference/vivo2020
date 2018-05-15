@@ -26,6 +26,7 @@ $small-label-width: 80px;
     .speaker-name {
         line-height: $speaker-image-size - 12;
         margin-left: $speaker-image-size + 8;
+        font-size: 16px;
     }
     .speaker-position {
         color: #555;
