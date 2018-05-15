@@ -49,9 +49,8 @@ navigationLinks:
  - {permalink: "/news/late-breaking", text: "CFP"}
  - {permalink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register"}
  - {permalink: "/attend/", text: "Attend"}
-# - {permalink: "/program/", text: "Program"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/logistics/", text: "Attending"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "/news/", text: "News"}
 #rightNavigationButtons:
