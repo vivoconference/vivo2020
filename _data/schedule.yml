@@ -116,7 +116,7 @@
     - {
     	startTime: "16:30",
     	endTime: "16:55",
-    	sessionIds: [117,105,300]
+    	sessionIds: [119,105,300]
     }
     - {
     	startTime: "17:30",
@@ -174,7 +174,7 @@
     - {
         startTime: "11:00",
         endTime: "11:25",
-    	sessionIds: [119,134,300]
+    	sessionIds: [117,134,300]
     }
     - {
         startTime: "11:30",
