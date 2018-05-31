@@ -39,8 +39,8 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pButton: "Register today to save! Final early bird rate ends May 29th."
-c4pText: "VIVO conference registration is open! Workshops are included at no extra cost."
+c4pButton: "Register today!"
+c4pText: "VIVO conference registration is open. Workshops are included at no extra cost."
 c4pUrl: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589"
 c4sponsorsUrl: "news/sponsorship"
 
@@ -138,14 +138,14 @@ ticketsTitle: "Registration"
 ticketsInfo: "Registration grants full VIVO 2018 conference access including workshops. Accommodation is NOT included in the cost."
 ticketsOffers:
  -
-  name: "Final Early Bird Registration"
-  price: "$325"
+  name: "Registration"
+  price: "$350"
   priceCurrency: ""
   featured: true
   additionalInfo: ""
   buyButtonLink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589#tickets"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Register today to save! Final early bird rate ends May 29th!", ""]
+  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "", ""]
 #  validFrom: "2018-07-08T00:00"
 #  validThrough: "2018-07-31T17:00"
   disabled: false
