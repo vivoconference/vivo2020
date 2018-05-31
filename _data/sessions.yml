@@ -97,8 +97,15 @@ A more comprehensive integration of Publons data can also be achieved using the 
 Publons was acquired by Clarivate in 2017, joining a portfolio of services that includes Web of Science and InCites. Instructions and code for the above are available at https://www.github.com/Clarivate-SAR."
   speakers: ["BenjaminGross"]
 -
-  id: 109
-  title: "Community approaches to open data at scale"
+  id: 1091
+  title: "Community approaches to open data at scale (Part 1)"
+  description: "The integrity of ‘the scholarly record’ is predicated on the accuracy and availability of the information describing that record. The value of this information (high quality metadata) is often underestimated by those who stand to benefit most from its use and reuse---publishers and authors.
+This moderated panel session will bring multiple perspectives together to discuss the scholarly record broadly defined, the value of the relationships among different kinds of research objects, and the extent to which workarounds, ingenuity and a possibly unreasonable degree of discussion are required to address and remediate the shortfalls in how metadata is created and distributed.
+Topics addressed will include the communication surrounding the value of rich, interlinked metadata; the necessity of variety in schema, standards and workflows,and the tradeoffs inherent in aggregating and distributing open data."
+  speakers: ["JenniferKemp","JudyRuttenberg","ToddVision","ClareDean"]
+-
+  id: 1092
+  title: "Community approaches to open data at scale  (Part 2)"
   description: "The integrity of ‘the scholarly record’ is predicated on the accuracy and availability of the information describing that record. The value of this information (high quality metadata) is often underestimated by those who stand to benefit most from its use and reuse---publishers and authors.
 This moderated panel session will bring multiple perspectives together to discuss the scholarly record broadly defined, the value of the relationships among different kinds of research objects, and the extent to which workarounds, ingenuity and a possibly unreasonable degree of discussion are required to address and remediate the shortfalls in how metadata is created and distributed.
 Topics addressed will include the communication surrounding the value of rich, interlinked metadata; the necessity of variety in schema, standards and workflows,and the tradeoffs inherent in aggregating and distributing open data."
@@ -182,7 +189,7 @@ In addition to discussing how we converted SHACL into VitroLib, we will also tou
   title: "VIVO Community Development - Aligning Efforts"
   description: "In the context of VIVO, “the value of making scholarly data open, found, and consumed” is predicated on a solid foundation of vibrant and sustainable core software, as well as a community aligned on strategic initiatives.
 This session will discuss specific ways that the community is evolving in order to be more inclusive, more effective, and more focused as we move towards a revitalized VIVO platform."
-  speakers: ["AndrewWoods"]
+  speakers: ["AndrewWoods","HudaKhan"]
 -
   id: 124
   title: "VIVO Research Analytics Platform - global data meets local demands"
