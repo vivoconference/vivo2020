@@ -292,27 +292,37 @@ The project will determine the value and potential of a long-term collaboration 
 -
   id: 300
   title: "Unconference"
-  description: ""
+  description: "Sign up link and more info at http://vivoconference.org/news/unconference"
   speakers: [""]
+-
+  id: 301
+  title: "Unconference: OpenHarvester"
+  description: "In addition to the APIs of large abstract and indexing sources, there are a number of open APIs available to search, harvest and download citation metadata. Few of these citation APIs are CrossRef, PubMed and DBLP APIs. 
+I will discuss OpenHarvester - an interactive tool that process result sets, harvested using CrossRef, DBLP and PubMed APIs, and uses a simple algorithm that refines the result set using a recursive approach. In future, other APIs such as Scopus, Web of Science and Dimensions APIs, may also be included. This is a preliminary work. The prototype works in two (separate) steps i.e., first, downloading potential publications for a person from a database and second, processing the result set and claiming the precise publications. Claimed publications can then be saved in RDF (or CSV) and pushed to a VIVO instance. 
+Cornell is interested in collaboration and partnership with people and organizations that share the similar interests. In addition, we would like to collaborate with the teams of existing products, such as ReCiter from Weill Cornell and Harvard API to find People and Publication etc."
+  speakers: ["MuhammadJaved"]
 -
   id: 801
   title: "Opening Session and Weber Keynote"
   description: ""
+  place: "Ballroom ABC"
   speakers: ["GriffinWeber"]
 -
   id: 802
   title: "Fransen Keynote and Unconference Kickoff"
   description: ""
+  place: "Ballroom ABC"
   speakers: ["JanFransen"]
 -
   id: 803
   title: "Kibbe Keynote and Unconference Kickoff"
   description: ""
+  place: "Ballroom ABC"
   speakers: ["WarrenKibbe"]
 -
   id: 804
   title: "Welcome Reception"
-  place: ""
+  place: "Meeting Room B"
 -
   id: 805
   title: "Poster Reception"
@@ -331,7 +341,7 @@ The project will determine the value and potential of a long-term collaboration 
 -
   id: 808
   title: "Closing Session"
-  place: ""
+  place: "Ballroom ABC"
   description: ""  
 -
   id: 809

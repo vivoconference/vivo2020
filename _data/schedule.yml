@@ -2,8 +2,8 @@
   date: "2018-06-06"
   dateReadable: "Wednesday June 6"
   tracks:
-    - {title: "Workshop Room 1", color: "#03a9f4"}
-    - {title: "Workshop Room 2", color: "#e91e63"}
+    - {title: "Meeting Room C", color: "#03a9f4"}
+    - {title: "Jeffries Meeting Room", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:00",
@@ -39,9 +39,9 @@
   date: "2018-06-07"
   dateReadable: "Thursday June 7"
   tracks:
-    - {title: "Meeting Room 1", color: "#90be4e"}
-    - {title: "Meeting Room 2", color: "#03a9f4"}
-    - {title: "Meeting Room 3", color: "#e91e63"}
+    - {title: "Ballroom ABC", color: "#90be4e"}
+    - {title: "Ballroom DE", color: "#03a9f4"}
+    - {title: "Meeting Room C", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:00",
@@ -106,7 +106,7 @@
     - {
     	startTime: "15:30",
     	endTime: "15:55",
-    	sessionIds: [106,114,300]
+    	sessionIds: [106,114,301]
     }
     - {
     	startTime: "16:00",
@@ -137,9 +137,9 @@
   date: "2018-06-08"
   dateReadable: "Friday June 8"
   tracks:
-    - {title: "Meeting Room 1", color: "#90be4e"}
-    - {title: "Meeting Room 2", color: "#03a9f4"}
-    - {title: "Meeting Room 3", color: "#e91e63"}
+    - {title: "Ballroom ABC", color: "#90be4e"}
+    - {title: "Ballroom DE", color: "#03a9f4"}
+    - {title: "Meeting Room C", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "07:00",
