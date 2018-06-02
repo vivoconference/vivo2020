@@ -39,20 +39,20 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pButton: "Register today!"
-c4pText: "VIVO conference registration is open. Workshops are included at no extra cost."
-c4pUrl: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589"
-c4sponsorsUrl: "news/sponsorship"
+#c4pButton: "Register today!"
+#c4pText: "VIVO conference registration is open. Workshops are included at no extra cost."
+#c4pUrl: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589"
+#c4sponsorsUrl: "news/sponsorship"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/news/late-breaking", text: "CFP"}
+# - {permalink: "/news/late-breaking", text: "CFP"}
  - {permalink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register"}
  - {permalink: "/attend/", text: "Attend"}
  - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/news/sponsorship", text: "Sponsor"}
+# - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "/news/", text: "News"}
 #rightNavigationButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -64,7 +64,8 @@ eventDate: "June 6th-8th &sdot; JB Duke Hotel, Durham, NC"
 typeoutTextValues: '"", "9th Annual ", "International "'
 typeoutFallback: "9th Annual International"
 heroButtons:
- - {link: "/news/late-breaking", text: "Late Breaking Call for Posters"}
+ - {link: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register today!"}
+# - {link: "/news/late-breaking", text: "Late Breaking Call for Posters"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
