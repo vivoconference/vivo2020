@@ -20,8 +20,8 @@
   elements:
     - {name: "DukeUniversity", description: "Duke University", link: "https://www.duke.edu", imageUrl: "DukeLogo.jpg"}
     - {name: "TAMU", description: "Texas A&M University", link: "https://www.tamu.edu", imageUrl: "TAM-Stack.png"}
+    - {name: "GeorgeWashington", description: "The George Washington University", link: "https://www.gwu.edu", imageUrl: "gw.png"}
 #    - {name: "CornellUniversity", description: "Cornell University", link: "http://www.cornell.edu/", imageUrl: "CU_LOGO_RED.gif"}
-#    - {name: "VirginiaTech", description: "Virginia Tech", link: "http://www.vt.edu/", imageUrl: "vt.jpg"}
 #    - {name: "UPenn", description: "University of Pennsylvania", link: "http://www.upenn.edu", imageUrl: "upenn.png"}
 -
   group: "Welcome Reception Sponsor"
