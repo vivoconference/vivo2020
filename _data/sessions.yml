@@ -302,6 +302,12 @@ I will discuss OpenHarvester - an interactive tool that process result sets, har
 Cornell is interested in collaboration and partnership with people and organizations that share the similar interests. In addition, we would like to collaborate with the teams of existing products, such as ReCiter from Weill Cornell and Harvard API to find People and Publication etc."
   speakers: ["MuhammadJaved"]
 -
+  id: 302
+  title: "Unconference: Author Disambiguation"
+  description: "We would like to provide an update on our project, ReCiter.
+We would also like to hear from others about what features or functionalities would be interesting to you."
+  speakers: ["PaulAlbert","SarbajitDutta"]
+-
   id: 801
   title: "Opening Session and Weber Keynote"
   description: ""
