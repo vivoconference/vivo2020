@@ -314,6 +314,20 @@ We would also like to hear from others about what features or functionalities wo
 What works and doesn’t work? What are the next steps for maintaining this in the vivo-community repository."
   speakers: ["DonElsborg"]
 -
+  id: 304
+  title: "Unconference: Linking VIVOs"
+  description: "A lot of work has been done by VIVO developers over the last several years on linking people on seperate VIVO instances.  
+What went right? What went wrong? What can we do to move this forward? Are there solutions already out there we can bring in and use?"
+  speakers: ["RalphOFlinn"]
+-
+  id: 305
+  title: "Unconference: Assessment of Vitro Data Loading"
+  description: "“Rialto” is (will be…) a scholarship & research output and impact data aggregator and dashboard for the campus to use.
+As part of our assessment of what kind of back-end to use, we are in the process of doing a number of load tests, exploring and testing the various ways to get data into Vitro.
+https://github.com/sul-dlss/rialto/wiki/Performance-Assssment
+Discussion about data loading techniques people use; what works well, and what works not-so-well."
+  speakers: ["JoshGreben"]
+-
   id: 801
   title: "Opening Session and Weber Keynote"
   description: ""
