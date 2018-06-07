@@ -308,6 +308,12 @@ Cornell is interested in collaboration and partnership with people and organizat
 We would also like to hear from others about what features or functionalities would be interesting to you."
   speakers: ["PaulAlbert","SarbajitDutta"]
 -
+  id: 303
+  title: "Unconference: VIVO Vagrant - next steps"
+  description: "We have a virtual machine for prototyping VIVO.
+What works and doesn’t work? What are the next steps for maintaining this in the vivo-community repository."
+  speakers: ["DonElsborg"]
+-
   id: 801
   title: "Opening Session and Weber Keynote"
   description: ""
