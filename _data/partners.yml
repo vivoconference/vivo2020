@@ -1,32 +1,32 @@
--
-  group: "Platinum Sponsors"
-  elements:
-    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
-    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
-    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
+#-
+#  group: "Platinum Sponsors"
+#  elements:
+#    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
+#    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
+#    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
 #    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
 #-
 #  group: "Silver Sponsors"
 #  elements:
 #    - {name: "Symplectic", description: "Symplectic", link: "http://symplectic.co.uk", imageUrl: "Symplectic-MasterLogo.png"}
 #    - {name: "RockefellerUniversityPress", description: "The Rockefeller University Press", link: "http://www.rupress.org/", imageUrl: "RUPressLogo.png"}
--
-  group: "Bronze Sponsors"
-  elements:
-    - {name: "Crossref", description: "Crossref", link: "https://www.crossref.org", imageUrl: "crossref-logo-200.svg"}
+#-
+#  group: "Bronze Sponsors"
+#  elements:
+#    - {name: "Crossref", description: "Crossref", link: "https://www.crossref.org", imageUrl: "crossref-logo-200.svg"}
 #    - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
 -
   group: "Institutional Sponsors"
   elements:
     - {name: "DukeUniversity", description: "Duke University", link: "https://www.duke.edu", imageUrl: "DukeLogo.jpg"}
-    - {name: "TAMU", description: "Texas A&M University", link: "https://www.tamu.edu", imageUrl: "TAM-Stack.png"}
-    - {name: "GeorgeWashington", description: "The George Washington University", link: "https://www.gwu.edu", imageUrl: "gw.png"}
+#    - {name: "TAMU", description: "Texas A&M University", link: "https://www.tamu.edu", imageUrl: "TAM-Stack.png"}
+#    - {name: "GeorgeWashington", description: "The George Washington University", link: "https://www.gwu.edu", imageUrl: "gw.png"}
 #    - {name: "CornellUniversity", description: "Cornell University", link: "http://www.cornell.edu/", imageUrl: "CU_LOGO_RED.gif"}
 #    - {name: "UPenn", description: "University of Pennsylvania", link: "http://www.upenn.edu", imageUrl: "upenn.png"}
--
-  group: "Welcome Reception Sponsor"
-  elements:
-    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
+#-
+#  group: "Welcome Reception Sponsor"
+#  elements:
+#    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
 #-
 #  group: "Poster Reception Sponsor"
 #  elements:
