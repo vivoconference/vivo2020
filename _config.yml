@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "VIVO Conference 2018"
+title: "VIVO Conference 2019"
 email: "conference@vivoweb.org"
-description: "9th Annual International VIVO Conference"
+description: "10th Annual International VIVO Conference"
 baseurl: ""
 url: "http://vivoconference.org"
 permalink: "/:categories/:title"
@@ -48,10 +48,10 @@ c4sponsorsUrl: "news/sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/news/late-breaking", text: "CFP"}
- - {permalink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register"}
- - {permalink: "/attend/", text: "Attend"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register"}
+# - {permalink: "/attend/", text: "Attend"}
+# - {permalink: "/schedule/", text: "Program"}
+# - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "/news/", text: "News"}
 #rightNavigationButtons:
@@ -59,12 +59,12 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> VIVO Conference 2018"
-eventDate: "June 6th-8th &sdot; JB Duke Hotel, Durham, NC"
-typeoutTextValues: '"", "9th Annual ", "International "'
-typeoutFallback: "9th Annual International"
-heroButtons:
- - {link: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register today!"}
+heroTitle: "<typeout> VIVO Conference 2019"
+eventDate: "September 4-6, 2019 &sdot; Podgorica, Montenegro"
+typeoutTextValues: '"", "10th Annual ", "International "'
+typeoutFallback: "10th Annual International"
+#heroButtons:
+# - {link: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register today!"}
 # - {link: "/news/late-breaking", text: "Late Breaking Call for Posters"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -94,13 +94,13 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "JB Duke Hotel"
-eventLocationLink: "http://www.jbdukehotel.com"
-eventStreetAddress: "230 Science Drive"
-eventAddressLocality: "Durham"
-eventAddressLocalityRegion: "NC"
-eventPostalCode: "27708"
-eventAddressCountry: "United States"
+eventLocationName: "Hilton Podgorica Crna Gora"
+eventLocationLink: "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235"
+eventStreetAddress: "Bulevar Svetog Petra Cetinjskog 2"
+eventAddressLocality: "Podgorica"
+eventAddressLocalityRegion: ""
+eventPostalCode: "81000"
+eventAddressCountry: "Montenegro"
 eventStartTime: "2018-08-02T09:00"
 eventDoorTime: "08:00"
 eventEndTime: "2018-08-04T20:00"
@@ -114,8 +114,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "JB Duke Hotel"
-venueFeatures: ["5,450 square foot ballroom", "Multi-purpose breakout spaces", "Part of the Duke University Campus"]
+venueTitle: "Hilton Podgorica Crna Gora"
+venueFeatures: ["727 sq. m. of event space, including Crystal Ballroom for 435 guests ", "Set in the heart of Podgorica, a quick walk to downtown"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -135,34 +135,34 @@ partnersC4sponsorsButton: "Become a sponsor"
 #subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Registration"
-ticketsInfo: "Registration grants full VIVO 2018 conference access including workshops. Accommodation is NOT included in the cost."
-ticketsOffers:
- -
-  name: "Registration"
-  price: "$350"
-  priceCurrency: ""
-  featured: true
-  additionalInfo: ""
-  buyButtonLink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589#tickets"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "", ""]
+#ticketsTitle: "Registration"
+#ticketsInfo: "Registration grants full VIVO 2019 conference access including workshops. Accommodation is NOT included in the cost."
+#ticketsOffers:
+# -
+#  name: "Registration"
+#  price: "$350"
+#  priceCurrency: ""
+#  featured: true
+#  additionalInfo: ""
+#  buyButtonLink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589#tickets"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Full VIVO 2019 Conference access including workshops", "", ""]
 #  validFrom: "2018-07-08T00:00"
 #  validThrough: "2018-07-31T17:00"
-  disabled: false
- -
-  name: "Student"
-  price: "$99"
-  priceCurrency: ""
+#  disabled: false
+# -
+#  name: "Student"
+#  price: "$99"
+#  priceCurrency: ""
 #  ticketsNumber: "100"
 #  ribbon: "-73%"
-  additionalInfo: ""
-  buyButtonLink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589#tickets"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Full VIVO 2018 Conference access including workshops", "Requires a valid student ID at conference check in", ""]
+#  additionalInfo: ""
+#  buyButtonLink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589#tickets"
+#  buyButtonText: "Buy Now"
+#  ticketContentList: ["Full VIVO 2019 Conference access including workshops", "Requires a valid student ID at conference check in", ""]
 #  validFrom: "2018-03-28T00:00"
 #  validThrough: "2018-07-31T17:00"
-  disabled: false
+#  disabled: false
 
 # Footer
 socialLinks:
@@ -175,13 +175,14 @@ footerBlocks:
   links:
    - {link: "http://vivoweb.org", text: "VIVOWeb.org"}
    - {link: "http://openvivo.org", text: "OpenVIVO"}
+   - {link: "http://vivoconference.org/vivo2018/", text: "VIVO 2018"}
    - {link: "http://vivoconference.org/vivo2017/", text: "VIVO 2017"}
    - {link: "http://vivoconference.org/vivo2016/", text: "VIVO 2016"}
    - {link: "http://vivoconference.org/vivo2015/", text: "VIVO 2015"}
  -
   title: "Contacts"
   links:
-   - {permalink: "/team/", text: "VIVO 2018 Team"}
+   - {permalink: "/team/", text: "VIVO 2019 Team"}
    - {link: "mailto:conference@vivoweb.org", text: "conference@vivoweb.org"}
  -
   title: "FAQ"
@@ -194,7 +195,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "vivo18"
+discusShortName: "vivo19"
 
 # Speakers List Block
 showSessions: true
@@ -219,7 +220,7 @@ logisticsMapAutoDirections: false
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Conference Hotel, Activities, and Transit"
 directionDetailsCards:
- - {title: "Conference Hotel", information: 'Stay, dine, and attend VIVO 2018 at the beautiful <a href="http://www.jbdukehotel.com">JB Duke Hotel</a> on the campus of <a href="http://duke.edu/">Duke University</a> in Durham, North Carolina. Recently opened, the JB Duke is a contemporary luxury hotel --special, inclusive registration rates for VIVO conference attendees!<br><br><strong> <a href="http://www.jbdukehotel.com/contact/">Call the JB Duke Hotel</a> to reserve your room in the VIVO conference block.'}
+ - {title: "Conference Hotel", information: 'Stay, dine, and attend VIVO 2019 at the beautiful <a href="https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235">Hilton Podgorica Crna Gora</a> in the heart of <a href="https://www.visit-montenegro.com/main-cities/podgorica/">Podgorica</a> in Montenegro.'}
  - {title: "Activities in Duke and Durham", information: 'Enjoy the renowned Duke Gardens and neo-gothic architecture at our “university in the forest.” Nearby Durham’s revitalized downtown boasts an amazing food culture, a thriving art scene, and bustling shopping districts in historic buildings.<br><br><strong><a href="/news/things-to-do">Learn more...</a></strong>'}
  - {title: "Traveling to Durham", information: 'Located on the East Coast, <a href="https://www.rdu.com/">Raleigh-Durham International Airport</a> is a major air hub only 15 minutes from Duke. We’ve got metropolitan convenience with a small-town feel!<br><br><strong><a href="/news/getting-around">More info...</a></strong>'}
 
