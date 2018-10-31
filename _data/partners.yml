@@ -18,7 +18,9 @@
 -
   group: "Institutional Sponsors"
   elements:
-    - {name: "DukeUniversity", description: "Duke University", link: "https://www.duke.edu", imageUrl: "DukeLogo.jpg"}
+    - {name: "UniversityMontenegro", description: "The School of Medicine at University of Montenegro", link: "https://www.ucg.ac.me", imageUrl: "ugg.png"}
+    - {name: "ClinicalCenterMontenegro", description: "Clinical Center of Montenegro", link: "http://www.kccg.me", imageUrl: "kccg_logot.png"}
+    - {name: "PublicHealthMontenegro", description: "Institute of Public Health of Montenegro", link: "http://www.ijzcg.me", imageUrl: "headbglogo.png"}
 #    - {name: "TAMU", description: "Texas A&M University", link: "https://www.tamu.edu", imageUrl: "TAM-Stack.png"}
 #    - {name: "GeorgeWashington", description: "The George Washington University", link: "https://www.gwu.edu", imageUrl: "gw.png"}
 #    - {name: "CornellUniversity", description: "Cornell University", link: "http://www.cornell.edu/", imageUrl: "CU_LOGO_RED.gif"}
