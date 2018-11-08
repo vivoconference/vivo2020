@@ -58,7 +58,7 @@ navigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "hero.png"
 heroTitle: "<typeout> VIVO Conference 2019"
 eventDate: "September 4-6, 2019 &sdot; Podgorica, Montenegro"
 typeoutTextValues: '"", "10th Annual ", "International "'
@@ -101,12 +101,12 @@ eventAddressLocality: "Podgorica"
 eventAddressLocalityRegion: ""
 eventPostalCode: "81000"
 eventAddressCountry: "Montenegro"
-eventStartTime: "2018-08-02T09:00"
-eventDoorTime: "08:00"
-eventEndTime: "2018-08-04T20:00"
-eventPlaceCoordinates: "35.997470, -78.946611"
-mapCenterCoordinates: "35.997470, -78.946611"
-mapMobileCenterCoordinates: "35.997470, -78.946611"
+#eventStartTime: "2019-09-04T09:00"
+#eventDoorTime: "08:00"
+#eventEndTime: "2019-09-06T20:00"
+eventPlaceCoordinates: "42.439894, 19.263256"
+mapCenterCoordinates: "42.439894, 19.263256"
+mapMobileCenterCoordinates: "42.439894, 19.263256"
 
 # Venue Block
 venueBlockTitle: "Venue"
