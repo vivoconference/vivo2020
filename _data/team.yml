@@ -35,6 +35,19 @@
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}
+- 
+  id: "NatasaPopovic"
+  name: "Nataša"
+  surname: "Popović"
+  title: "LOC Chair"
+  company: "Faculty of Medicine, University of Montenegro"
+  thumbnailUrl: NPopovic.jpg
+  locTeam: true
+#  ribbon: 
+#    - {abbr: "VIVO", title: "VIVO Project"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
 #- 
 #  id: "MikeConlon"
 #  name: "Mike"

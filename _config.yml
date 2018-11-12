@@ -58,7 +58,7 @@ navigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.png"
+heroImage: "hero-alt.png"
 heroTitle: "<typeout> VIVO Conference 2019"
 eventDate: "September 4-6, 2019 &sdot; Podgorica, Montenegro"
 typeoutTextValues: '"", "10th Annual ", "International "'
@@ -118,7 +118,8 @@ venueTitle: "Hilton Podgorica Crna Gora"
 venueFeatures: ["727 sq. m. of event space, including Crystal Ballroom for 435 guests ", "Set in the heart of Podgorica, a quick walk to downtown"]
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+#tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "Montenegro-durmitor.png"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "vivo19"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
