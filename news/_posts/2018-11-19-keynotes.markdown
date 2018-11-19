@@ -7,8 +7,6 @@ isStaticPost: false
 
 #### Dr. Herbert Van de Sompel
 
-![Dr. Herbert Van de Sompel](/img/people/GriffinWeber.jpg){:width="240px"}
+![Dr. Herbert Van de Sompel](/img/people/hvds.jpg){:width="240px"}
 
-[Dr. Herbert Van de Sompel](https://connects.catalyst.harvard.edu/profiles/display/person/32213), is an Associate Professor of Medicine and Biomedical Informatics at [Beth Israel Deaconess Medical Center](https://www.bidmc.org) (BIDMC) and [Harvard Medical School](https://hms.harvard.edu) (HMS). He invented an open source expertise discovery and networking tool for scientists called [Profiles Research Networking Software](http://profiles.catalyst.harvard.edu). It automatically mines large datasets such as PubMed and NIH ExPORTER to find information about investigators' research areas and identify ways in which they are connected. It presents these connections using temporal, geospatial, and network visualizations. The software has numerous applications, ranging from finding individual collaborators and mentors to understanding the dynamics of an entire research community. Profiles RNS is now used at dozens of institutions worldwide, including universities, pharmaceutical companies, Federal agencies, and physician networks.
- 
-Dr. Herbert Van de Sompel 
+[Dr. Herbert Van de Sompel](https://connects.catalyst.harvard.edu/profiles/display/person/32213), is...
