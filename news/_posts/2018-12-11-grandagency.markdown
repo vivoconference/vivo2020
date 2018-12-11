@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grand Agency"
+title:  "Grand Travel Agency"
 date:   2018-12-11 08:00:00
 isStaticPost: false
 ---
