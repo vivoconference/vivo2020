@@ -30,4 +30,28 @@ to target a broader audience of people working in this space.
 5. **on 16 May:**
    You are notified about acceptance.
 
+##### Featured topics
+- **Focus topics and trends:**
+  - Decentralizing and federating research (meta)data
+  - Identity and information linking across VIVO and/or other systems
+  - Finding information across different systems
+  - Data ownership, provenance, validation, truth assessment, and linking
+  - Aligning personal and institutional scholarly communication
+- **Scholarly communication topics:**
+  - Measuring the impact of scholarly works
+  - Embedding and linking data inside of scholarly works
+  - Promoting open data and transparency in scholarship
+  - Evaluating the impact of scholarship in or across various disciplines
+- **System topics:**
+  - Evaluating and choosing research information systems
+  - Taking your research system to the next level
+  - Experiences with research systems other than VIVO
+  - Enabling international systems and global scholarship
+- **Use cases:**
+  - Success stories and lessons learned from implementation and maintenance
+  - Collaborative research and team science
+  - Visualizations, social networks, and recommendation engines
+  - Leveraging the VIVO open source community and Duraspace in your institution
+  - Using VIVO to “stand  on the shoulders of giants”
+
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
