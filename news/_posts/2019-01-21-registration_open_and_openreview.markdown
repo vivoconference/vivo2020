@@ -11,19 +11,19 @@ isStaticPost: false
 We are excited to announce that registration is now open for the VIVO 2019 Conference, September 4-6.  This year’s conference is hosted by The School of Medicine at University of Montenegro, Clinical Center of Montenegro and Institute of Public Health of Montenegro. We’re looking forward to a wonderful weather and food that’ll accompany this year conference. We hope you can join us in Podgorica, Montenegro!
 
 
-[Register](https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050) for the conference today with our early bird rate!
+[**Register**](https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050) for the conference today with our early bird rate!
 
-$200 Early Bird Academic / Non-Profit / Govt
-$250 Early Bird Industry / For-Profit
-$99 Students
+* $200 Early Bird Academic / Non-Profit / Govt
+* $250 Early Bird Industry / For-Profit
+* $99 Students
  
 Book your room at the conference venue hotel, [Hilton](http://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235), or book your room using online sources like [booking.com](https://www.booking.com/) and [similar websites](http://www.ustanzadan.me/en/rent-a-stan/) that offer affordable luxury residential apartment accommodation located a short distance (3–5 blocks) from the conference hotel.
 
-Present your work and ideas at VIVO 2019
+**Present your work and ideas at VIVO 2019**
 
 Do you help make scholarly data open, found, and consumed? Do you have fresh ideas or new work you want to share with us? We’d love to hear from you! The VIVO conference covers a broad range of topics surrounding research information systems. With VIVO 2019, we are widening the scope of talks to target a broader audience of people working in this space.
 
-Share your talk proposal before 14 April 2019 [through OpenReview](http://vivoconference.org/talk-proposals/).
+Share your talk proposal before 14 April 2019 [through **OpenReview**](http://vivoconference.org/talk-proposals/).
 
 This list of planned featured topics might inspire you.
 
