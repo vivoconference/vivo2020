@@ -48,7 +48,7 @@ c4sponsorsUrl: "news/sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/news/late-breaking", text: "CFP"}
-# - {permalink: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register"}
+ - {permalink: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register"}
 # - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
