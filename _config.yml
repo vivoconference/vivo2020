@@ -59,12 +59,12 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero-alt.png"
-heroTitle: "VIVO Conference 2019"
+heroTitle: "<typeout> VIVO Conference 2019"
 eventDate: "September 4-6, 2019 &sdot; Podgorica, Montenegro"
-#typeoutTextValues: '"", "10th Annual ", "International "'
+typeoutTextValues: '"", "10th Annual ", "International "'
 typeoutFallback: "10th Annual International"
 heroButtons:
- - {link: "https://www.eventbrite.com/e/vivo-2018-conference-registration-42276312589", text: "Register today!"}
+ - {link: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register today!"}
 # - {link: "/news/late-breaking", text: "Late Breaking Call for Posters"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
