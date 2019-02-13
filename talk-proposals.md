@@ -18,7 +18,7 @@ to target a broader audience of people working in this space.
 
 ##### Proposal and review process
 1. **before 14 April 2019:**
-   Share your proposal through OpenReview _(opening soon)_,
+   [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2019/Conference),
    where it will be _publicly_ visible.
 2. Share your proposal on social media and your networks, 
    and invite people to comment and engage.
