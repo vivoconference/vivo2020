@@ -47,7 +47,7 @@ c4sponsorsUrl: "news/sponsorship"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/news/VIVO2019CfP", text: "CFP"}
+ - {permalink: "/talk-proposals", text: "CFP"}
  - {permalink: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register"}
 # - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
@@ -65,7 +65,7 @@ typeoutTextValues: '"", "10th Annual ", "International "'
 typeoutFallback: "10th Annual International"
 heroButtons:
  - {link: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register today!"}
- - {link: "/news/VIVO2019CfP", text: "Call For Proposals"}
+ - {link: "/talk-proposals", text: "Call For Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
