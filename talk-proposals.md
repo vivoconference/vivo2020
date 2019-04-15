@@ -30,11 +30,11 @@ We are open to:
 2. Share your proposal on social media and your networks, 
    and invite people to comment and engage.
 3. Keep an eye on the interactions, and reply when meaningful.
-4. **between 15 April and 15 May:**
+4. **between 1 May and 31 May:**
    Assigned reviewers start posting reviews from 15 April onward;
    they will become visible immediately
    and you can react to them.
-5. **on 16 May:**
+5. **on 31 May:**
    You are notified about acceptance.
 
 ##### Featured topics
