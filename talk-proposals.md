@@ -16,6 +16,13 @@ With VIVO 2019,
 we are widening the scope of talks
 to target a broader audience of people working in this space.
 
+##### Possible formats
+We are open to:
+- presentation proposals
+- workshop proposals
+- panel proposals
+- posters
+
 ##### Proposal and review process
 1. **before ~~14 April~~ May 1, 2019:**
    [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2019/Conference),
