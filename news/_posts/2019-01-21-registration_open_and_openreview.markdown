@@ -23,7 +23,7 @@ Book your room at the conference venue hotel, [Hilton](http://www3.hilton.com/en
 
 Do you help make scholarly data open, found, and consumed? Do you have fresh ideas or new work you want to share with us? We’d love to hear from you! The VIVO conference covers a broad range of topics surrounding research information systems. With VIVO 2019, we are widening the scope of talks to target a broader audience of people working in this space.
 
-Share your talk proposal before 14 April 2019 [through **OpenReview**](http://vivoconference.org/talk-proposals/).
+Share your talk proposal before ~~14 April~~ May 1, 2019 [through **OpenReview**](http://vivoconference.org/talk-proposals/).
 
 This list of planned featured topics might inspire you.
 
