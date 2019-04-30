@@ -24,17 +24,17 @@ We are open to:
 - posters
 
 ##### Proposal and review process
-1. **before ~~14 April~~ May 1, 2019:**
+1. **before ~~14 April~~ May 15, 2019:**
    [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2019/Conference),
    where it will be _publicly_ visible.
 2. Share your proposal on social media and your networks, 
    and invite people to comment and engage.
 3. Keep an eye on the interactions, and reply when meaningful.
-4. **between 1 May and 31 May:**
-   Assigned reviewers start posting reviews from 15 April onward;
+4. **between 15 May and 15 June:**
+   Assigned reviewers start posting reviews from 15 May onward;
    they will become visible immediately
    and you can react to them.
-5. **on 31 May:**
+5. **on 15 June:**
    You are notified about acceptance.
 
 ##### Featured topics
