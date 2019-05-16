@@ -50,6 +50,6 @@ During this time of year you will enjoy a mild, very pleasant climate.
 
 #### The venue
 
-The LOC has selected the Hilton Hotel as our conference venue which can accommodate 150 attendees in its conference rooms.  
+The LOC has selected the [Hilton Hotel](https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zLMWA0ME1HI2NaturalSearch3Google_LGHotelListing4DGGeneric_Jul5LocalSearch6TGDPMHI7EN8i1) as our conference venue which can accommodate 150 attendees in its conference rooms.  
 
-You can also stay at the Hilton hotel where rates should be around 125 Euros per night. Alternatively, on-line sources such as booking.com and similar web-sites offer affordable luxury residential apartment accommodation located a short distance (3-5 blocks) from the conference center.
+You can also stay at the Hilton hotel where rates should be around 125 Euros per night. Alternatively, on-line sources such as [booking.com](http://booking.com/) and [similar web-sites](http://www.ustanzadan.me/en/rent-a-stan/) offer affordable luxury residential apartment accommodation located a short distance (3-5 blocks) from the conference center.
