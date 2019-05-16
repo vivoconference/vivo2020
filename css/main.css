@@ -4052,6 +4052,15 @@ nav li a:hover {
     font-size: 17px
 }
 
+.venue-text a, .venue-text a:link, .venue-text a:active, .venue-text a:visited {
+	color: #fff;
+}
+
+.venue-text a:hover {
+	text-decoration: underline; 
+	color: #cfcfcf;
+}
+
 .twitter-feed h3 {
     margin-bottom: 10px
 }
