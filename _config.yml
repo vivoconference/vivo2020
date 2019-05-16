@@ -95,7 +95,7 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Hilton Podgorica Crna Gora"
-eventLocationLink: "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235"
+eventLocationLink: "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/event/index.html"
 eventStreetAddress: "Bulevar Svetog Petra Cetinjskog 2"
 eventAddressLocality: "Podgorica"
 eventAddressLocalityRegion: ""
@@ -115,7 +115,7 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Hilton Podgorica Crna Gora"
-venueLink: "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235"
+venueLink: "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/event/index.html"
 venueFeatures: ["Set in the heart of <a href=\'https://www.vogue.com/article/montenegro-best-new-travel-destination-guide\'>Podgorica</a>, the hotel features 727 sq. m. of event space including the Crystal Ballroom which accomodates up to 435 attendees."]
 
 # Tweets Feed Block
