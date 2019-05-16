@@ -115,7 +115,8 @@ venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
 venueTitle: "Hilton Podgorica Crna Gora"
-venueFeatures: ["Set in the heart of Podgorica, the hotel features 727 sq. m. of event space including the Crystal Ballroom which accomodates up to 435 attendees."]
+venueLink: "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html?WT.mc_id=zELWAAA0EU1WW2PSH3Nano4DGBrandx&WT.srch=1&utm_source=AdWords&utm_medium=ppc&utm_campaign=paidsearch&campaignid=638566708&adgroupid=27834264531&targetid=kwd-24824365235"
+venueFeatures: ["Set in the heart of <a href=\'https://www.vogue.com/article/montenegro-best-new-travel-destination-guide\'>Podgorica</a>, the hotel features 727 sq. m. of event space including the Crystal Ballroom which accomodates up to 435 attendees."]
 
 # Tweets Feed Block
 #tweetsFeedImage: "twitter-feed.jpg"
