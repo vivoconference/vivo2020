@@ -25,14 +25,13 @@ Reviewer Assignment Stage begins now after the initial paper-reviewer matches ar
 
 Reviewing Stage is open
 
-* Authors, reviewers, and members of the public may continue to post public comments as earlier.
-* Review and meta-review tasks deployed.
+* Authors, reviewers, and members of the public can post public comments using the “Comment” button on any VIVO 2019 proposal.
+* For proposals assigned to you for review, visible in your [tasks page](https://openreview.net/tasks), you must post your review using the “Official Review” button.
 * Reviews are visible to everyone (program chairs, other reviewers, authors, other users) immediately upon creation.
-* Reviewers can choose to post reviews anonymously.
-* For anonymous reviews, reviewer identity is revealed only to the program chairs. Important: while posting anonymous reviews, reviewers *should not* reveal their identities in any part of the discussion.
-* Any logged in user can also post reviews and can do it anonymously or using their public ID.
-* Reviewer assignment consoles are enabled.
-* Program chairs can monitor review progress using their PC console.
+* Any logged in user can also post their reviews using “Comment” button and can do it anonymously or using their public ID.
+* Important: while posting anonymous reviews through comments, you must not reveal your identity in any part of the discussion.
+* Reviewer consoles are accessible if you have been assigned proposals for review.
+* Program chairs can monitor review progress using the Program Chair console.
 
 Final Decision Stage
 
