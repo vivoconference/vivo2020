@@ -141,8 +141,8 @@ ticketsTitle: "Registration"
 ticketsInfo: "Registration grants full VIVO 2019 conference access including workshops. Accommodation is NOT included in the cost."
 ticketsOffers:
  -
-  name: "Industry Early Bird Registration"
-  price: "$250"
+  name: "Industry Second Early Bird Registration"
+  price: "$300"
   priceCurrency: ""
   featured: true
   additionalInfo: ""
@@ -153,8 +153,8 @@ ticketsOffers:
   # validThrough: "2018-07-31T17:00"
   disabled: false
  -
-  name: "Academic Early Bird Registration"
-  price: "$200"
+  name: "Academic Second Early Bird Registration"
+  price: "$250"
   priceCurrency: "" 
   featured: true
   additionalInfo: ""
