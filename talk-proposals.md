@@ -31,9 +31,10 @@ We are open to:
    and invite people to comment and engage.
 3. Keep an eye on the interactions, and reply when meaningful.
 4. **between 15 May and 15 June:**
-   Assigned reviewers start posting reviews from 15 May onward;
+   Assigned reviewers start posting reviews from 15 May until May 31;
    they will become visible immediately
    and you can react to them.
+   Between 3 June and 15 June Program Chair and VIVO TF members decide on the final program
 5. **on 15 June:**
    You are notified about acceptance.
 
