@@ -7,7 +7,7 @@ isStaticPost: false
 
 #### Call for Poster and Demo Proposals, Second Early Bird Registration
 
-If you missed the earlier deadline, you have until July 16 to submit your poster or demo abstract. The poster/demo session lets you share your work in an informal, relaxed setting and chat with individual community members. Attendees will view and discuss your work during the poster/demo reception.
+If you missed the earlier deadline, you have until July 16 to [submit your poster or demo abstract](https://forms.gle/xLGyGsdT58jJBmMc7). The poster/demo session lets you share your work in an informal, relaxed setting and chat with individual community members. Attendees will view and discuss your work during the poster/demo reception.
 Demos will be held during the poster session.  The person presenting the demo should provide the equipment (a fully charged laptop).
 
 
