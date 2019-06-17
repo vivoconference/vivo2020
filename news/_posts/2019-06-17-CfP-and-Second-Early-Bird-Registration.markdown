@@ -16,9 +16,10 @@ Submissions should explore or illustrate innovative VIVO implementations, integr
 
 Second Early Bird Registration ends on July 29, 2019. [Register](https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050) at these rates by the deadline and save $50:
 
-*Second Early Bird Academic / Non-Profit / Govt - $250
-*Second Early Bird Industry / For-Profit - $300
-*Students - $99
-*Local Attendees - $50
+
+* Second Early Bird Academic / Non-Profit / Govt - $250
+* Second Early Bird Industry / For-Profit - $300
+* Students - $99
+* Local Attendees - $50
 
 [VIVO 2019 Conference Planing Task Force](https://wiki.duraspace.org/display/VIVO/VIVO+Conference+Planning+Task+Force) is looking forward to seeing many of you in Podgorica, Montenegro!
