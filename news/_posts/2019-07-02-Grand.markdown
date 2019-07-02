@@ -13,17 +13,17 @@ Grand Travel agency is able to provide high class transportation service **from/
 
 If you decide to choose their services, you can order it via e-mail grand@grand.me by sending the following details : 
 
-1.Arrival airport
+1. Arrival airport
 
-2.Flight arrival time
+2. Flight arrival time
 
-3.Flight number
+3. Flight number
 
-4.Number of people and their name/s
+4. Number of people and their name/s
 
-5.Welcome board text
+5. Welcome board text
 
-6.Phone number of one of the passengers so we can contact in case of any problems
+6. Phone number of one of the passengers so we can contact in case of any problems
 
 
 The same procedure will be applied for the return transfers.
@@ -33,21 +33,21 @@ The same procedure will be applied for the return transfers.
 Grand requires the following :
 
 
-1.Departure airport
+1. Departure airport
 
-2.Flight departure time (in order to calculate departure time from the hotel)
+2. Flight departure time (in order to calculate departure time from the hotel)
 
-3.Flight number
+3. Flight number
 
-4.Number of people
+4. Number of people
 
-5.Lead passenger name/s
+5. Lead passenger name/s
 
-5.Contact for one of the passengers.
+6. Contact for one of the passengers.
 
 
 
-Please find attached our pricelist for several car types.
+**Please find attached our pricelist for several car types.**
 
 [To and From airport in Podgorica](TRANSFER RATES APT PG 2019.pdf)
 
@@ -58,6 +58,7 @@ Please find attached our pricelist for several car types.
 Capacity for Mercedes E and S class is 3 passengers
 
 Capacity for Mercedes V class is 7 passengers
+
 
 Email grand@grand.me to arrange the details.
 
