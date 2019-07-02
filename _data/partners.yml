@@ -30,7 +30,7 @@
     - {name: "ClinicalCenterMontenegro", description: "Clinical Center of Montenegro", link: "http://www.kccg.me", imageUrl: "kccg_logot.png"}
     - {name: "PublicHealthMontenegro", description: "Institute of Public Health of Montenegro", link: "http://www.ijzcg.me", imageUrl: "headbglogo.png"}
     - {name: "TIB", description: "Leibniz Information Centre for Science and Technology University Library", link: "https://www.tib.eu", imageUrl: "TIB_Logo_en.png"}
-    - {name: "SIGMA", description: "SIGMA", link: "https://www.sigmaaie.org", imageUrl: "sigma.png"}
+    - {name: "SIGMA", description: "SIGMA", link: "https://www.sigmaaie.org/en", imageUrl: "sigma.png"}
 #    - {name: "TAMU", description: "Texas A&M University", link: "https://www.tamu.edu", imageUrl: "TAM-Stack.png"}
 #    - {name: "GeorgeWashington", description: "The George Washington University", link: "https://www.gwu.edu", imageUrl: "gw.png"}
 #    - {name: "CornellUniversity", description: "Cornell University", link: "http://www.cornell.edu/", imageUrl: "CU_LOGO_RED.gif"}
