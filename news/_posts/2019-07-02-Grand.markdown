@@ -49,9 +49,9 @@ Grand requires the following :
 
 **Please find attached the pricelist for several car types.**
 
-[To and From airport in Podgorica](TRANSFER RATES APT PG 2019.pdf)
+[To and From airport in Podgorica](/assets/TRANSFER RATES APT PG 2019.pdf)
 
-[To and From airport in Tivat](TRANSFER RATES APT TIV 2019.pdf)
+[To and From airport in Tivat](/assets/TRANSFER RATES APT TIV 2019.pdf)
 
 
 
