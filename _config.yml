@@ -50,7 +50,7 @@ navigationLinks:
  - {permalink: "/talk-proposals", text: "CFP"}
  - {permalink: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register"}
 # - {permalink: "/attend/", text: "Attend"}
-# - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "/news/", text: "News"}

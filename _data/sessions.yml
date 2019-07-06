@@ -1,128 +1,153 @@
 -
   id: 1
-  title: "Learning VIVO Development"
-  description: "Much of the VIVO code base is understood only by a few original core developers. For VIVO to grow and thrive, we need new developers with new energy and new ideas. But where will they come from?
-The goal of this workshop is to provide developers with a practical, hands-on introduction to selected VIVO development approaches and debugging methods. We also hope to highlight the process for contributing back to the VIVO core code. The workshop is intended to encourage further developer engagement in the VIVO community and to help begin training developers and build a broader base of VIVO committers.
-Attendees will be provided a Virtual Machine with VIVO and the Eclipse IDE editor prior to the workshop and will be led through the workshop by VIVO developers"
-  speakers: ["DonElsborg","JimBlake","HudaKhan","BenjaminGross"]
+  title: "ReCiter: an open source author disambiguation system for academic medical institutions"
+  description: "Staff at medical institutions are regularly called upon to produce and maintain lists of scholarly publications authored by individuals ranging from NIH-funded principal investigators to people affiliated with other institutions such as alumni and residents. This work tends to be done on an ad hoc basis and is time-consuming, especially when profiled individuals have common names. Often, feedback from the authors themselves is not adequately captured in some central location and repurposed for future requests.
+
+ReCiter is a highly accurate, rule-based system for inferring which publications in PubMed a given person has authored. ReCiter includes a Java application, a DynamoDB-hosted database, and a set of RESTful microservices which collectively allow institutions to maintain accurate and up-to-date author publication lists for thousands of people. This software is optimized for disambiguating authorship in PubMed and, optionally, Scopus.
+
+ReCiter rapidly and accurately identifies articles, including those at previous affiliations, by a given person. It does this by leveraging institutionally maintained identity data (e.g., departments, relationships, email addresses, year of degree, etc.) With the more complete and efficient searches that result from combining these types of data, individuals at institutions can save time and be more productive. Running ReCiter daily, one can ensure that the desired users are the first to learn when a new publication has appeared in PubMed.
+
+ReCiter is freely available and open source under the Apache 2.0 license. https://github.com/wcmc-its/ReCiter
+
+For our presentation, we will demonstrate:
+* How to install ReCiter
+* How to load ReCiter with identity data
+* How to run ReCiter
+* Its API outputs
+* How ReCiter integrates with a third-party interface for capture feedback, feedback which is fed back into ReCiter to further improve accuracy"
+  speakers: ["PaulAlbert", "SarbajitDutta", "MichaelBales", "JieLin"]
 -
   id: 2
-  title: "Hands on with the Dimensions API"
-  description: "This workshop will offer a hands on opportunity to work with the newly released Dimensions API. Dimensions is a unique linked research knowledge system linking and standardizing publications, clinical trials, patents, and funded grants awards metadata across hundreds of data sources globally.
-Working with Jupyter notebooks, workshop participants will be given the opportunity to work through a number of use cases including:
-* How to produce VIVO RDF from the Dimensions API
-* How to create collaboration diagrams based on Dimensions API searches
-* Approaches to creating your own metrics with multiple research sources
-* An approach to research demographic analysis
-The workshop will be limited to 20.
-This workshop is intended for:
-Researchers intending on using the Dimensions API as part of their research
-Institutions using or considering a Dimensions subscription"
-  speakers: ["SimonPorter"]
--
-  id: 3
-  title: "VIVO Product Evolution: Exploring New Technologies"
-  description: "The VIVO code base has grown over 15 years to more than half a million lines of Enterprise Java code. Experience has shown a steep learning curve for new developers especially front end developers, and difficulty in integrating newer web development technologies and approaches. Is there an opportunity to experiment with new technologies and techniques that are easier for new developers to dive into? The VIVO Product Evolution group is leading an effort to turn this opportunity into a reality. The vision is to prototype an agile web/mobile application that showcases the researchers, units, and scholarly works of an institution with their branding.
-This workshop will be a working session for the VIVO Product Evolution group, but also an occasion to engage with other interested VIVO community members. The workshop will include updates and discussion involving the group leadership and current subgroups, lightning talks exploring new technologies and methods, and breakout sessions for the subgroups.
-The current subgroups:
-* Representing VIVO Data
-* Functional requirements
-* Implementing the presentation layer
-Technologies, standards, and approaches under evaluation:
-* JSON and JSON-LD
-* SOLR and ElasticSearch
-* GraphQL
-* Schema.org as well as other scholarly information and data models (CERIF, CASRAI, COAR, CD2H)
-* Javascript Frameworks (React, Angular, Vue, etc)
-* Modern Agile principles"
-  speakers: ["AlexViggio","PaulAlbert","RichardOutten"]
--
-  id: 4
-  title: "Exploring Research Information Citizenship in an Institutional Context"
-  description: "Creating an institutional research profiling system requires herculean acts of data corralling from multiple internal institutional systems. Within an institution, the knowledge that you need resides in HR, Finance, Grants, Publication management, and Student Systems to name a few. Getting access to this information requires multiple negotiations with many institutional stakeholders. This process requires extreme patience on your part to explain to internal stakeholders why information collected for one purpose can also be used for another.
-When you do get access to the information that you need, in many cases it is not in the format that you would ideally like. The titles of projects can be in ALL CAPS, HR position titles can be truncated, dollar amount for grants that do not reflect the external amount for the award.
-How do we turn this situation around? How do we increase the awareness of the data stewards of HR, Finance, and Student Systems that they are research information stewards too? Within an institutional context, how can we define what it is to be a research information citizen?
-Building on a similar exercise held at Pidapalooza earlier this year, participants at this workshop will aim to identify what the shared understanding and norms surrounding how we handle and communicate the research information within an institution should be. In doing so, it is hoped that we can take the first step towards baking research profiling into the reasons that institutions collect information in the first place."
-  speakers: ["SimonPorter","BrianTurner"]
--
-  id: 101
-  title: "ERNIE: A Knowledge Platform for Research Assessment"
-  description: "Data mining coupled to network analysis has been successfully used as a digital methodology to study research collaborations and knowledge flow associated with drug development. To enable a broad range of quantitative studies based on this approach, we have developed Enhanced Research Network Information Environment (ERNIE), a scalable cloud-based knowledge platform that integrates free data drawn from public sources as well as licensed data from commercially available ones. ERNIE is presented as an accessible template for repositories that can be used to support expert qualitative assessments, while offering burden reduction and access to integrated data. Analytical workflows in ERNIE are partially automated to enable expert input at critical stages. To facilitate adoption, reuse and extensibility, ERNIE was built with open source tools and its modular design enables the facile addition, deletion, or substitution of data sources. ERNIE is cloud-based and consists of a PostgreSQL database in the CentOS 7.4 Linux environment, with additional virtual machines providing access to Solr 7.1, Spark, and neo4j. The volume of data in ERNIE is roughly 4 Tb and is refreshed weekly through automated ETL processes. Interactive users have access to Python, SQL, R, Java, Jupyter notebook, and standard Linux utilities. To demonstrate the capabilities of ERNIE, we report the results of seven case studies that span opioid addiction, pharmacogenomics, target discovery, behavioral interventions, and drug development. In these studies, we mine and analyze data from policy documents, regulatory approvals, research grants, bibliographic and patent databases, and clinical trials, to document collaborations and identify influential research accomplishments."
-  speakers: ["SametKesercia","AvonDavey","AlexanderPico","DmitriyKorobskiy","GeorgeChacko"]
--
-  id: 102
-  title: "Improving Integration: Elements, DSpace, and VIVO at Duke University"
-  description: "At Duke University, we have worked to implement Symplectic Elements in a way that not only bolsters VIVO (Scholars@Duke), but also tightly integrates with a variety of university initiatives, and aims to meet the needs of individuals and a number of institutional partners, as well as the university overall. We'll share how we have fine-tuned our Elements implementation to support these goals. Now in our fifth year with Elements, we have recently completed a new wave of improvements to our implementation. Particularly, we have revisited how Elements integrates with VIVO, DSpace, Altmetrics, and ORCID. In this presentation, we'll discuss how these technologies have helped create a research systems feedback loop that has opened the door for new investments. We will demonstrate some of these new features and discuss how they have been received by the Duke community, as well as plans for future enhancements. We will cover everything from optimizing data loads to promoting open access to defining research impact. We'll also discuss our ongoing considerations for user experience and data stewardship."
-  speakers: ["DamarisMurry","PaoloMangiafico"]
-#  presentation: "https://doi.org/10.6084/m9.figshare.5271907.v1"
-#  place: "C-200 Weill Auditorium"
-#  complexity: "Beginner"
--
-  id: 105
-  title: "Scholars@Cornell: A Journey from Data in Peace to Data in Use"
-  description: "In 2016, the Scholars@Cornell project was initiated aiming to advance the visibility and accessibility of Cornell scholarship and to preserve them for future generations. However, in data life cycle, data preservation and providing access to the recorded data is not the final stage. Data stored in a database is merely a record and can be of use only if human experience and insight is applied to it, data analysis is performed and data is transformed into a knowledge. The faculty and publication data is capable of revealing much more about patterns and dynamics of scholarship and the institution. Such data can support universities in their systems for managing faculty information, scholar's websites, faculty reporting and strategic decisions in general. We explore the scholarship data from the lens of a scholar, academic unit and an institutions. Unlike systems that provide web pages of researcher profiles using lists and directory-style metaphors, our work explores the power of graph analytics and infographics for navigating a rich semantic graph of scholarly data.
-We believe that the scholarship data, accessible in RDF format through VIVO webpages, is not easy to reuse, specifically by the software developers who have limited knowledge of semantic technologies and the VIVO data model. In Scholars@Cornell, the scholarship data is open for reuse in different ways. The data can be accessed via Data Distribution API in RDF or in JSON format. The infographics built using D3 javascript libraries can be embedded on different institutional websites. Additionally, new web applications can be developed that use scholarship knowledge graph, showcasing research areas and expertise. In this presentation, I will present an overview of the project, lessons learnt and will emphasis on data reuse and data analysis. I will discuss about our journey, how we moved from counting list items to connected graph, from data list views to data analysis and from data in peace to data in use."
-  speakers: ["MuhammadJaved","JimBlake","TimWorrall"]
--
-  id: 106
-  title: "VIVO: Research Engagement & Impact"
-  description: "Following similar programs in Europe, as part of the National Innovation and Science Agenda launched in 2015, the Australian Government included a measure to introduce a national research engagement and impact (REI) assessment. This assessment examines how Australian universities are translating their research into economic, social and other benefits and encourage greater collaboration between universities, industries and other end-users of research. A pilot program was run in 2017, with a national roll-out in 2018.
-Up to this point, researchers have not normally collected the type of data required to support the REI assessment reporting – case studies written in accessible, easily understood language that highlight the real-word impact of the research, with details on engagement with collaborators and beneficiaries, along with quantification of the impact/engagement and evidence to support the overall story. While various software solutions are now available to assist in this data collection, management and submission process, UOW wanted to utilize resources already available and familiar to the UOW research community as part of the overall REI initiative. As such, we undertook a project to extend UOW Scholars (the UOW VIVO implementation) to provide:
-* an intuitive interface for researchers to create and share Impact Stories (mini case studies) directly within their existing Scholars’ profiles
-* reporting functionality for the REI team to discover new impact stories from UOW Scholars that had potential to become the basis of full case studies for the REI assessment submission
-* showcase the impact stories directly within the researcher profile to UOW Scholars’ visitors
-The project involved development work to integrate the new data points within VIVO and a suitable user interface to allow creation and maintenance of the impact stories. The process was supported by a promotional competition – entrants were required to update their profile and include at least one impact story. We extended our in-house VIVO data manager tool (developed to perform nightly updates from our publication management system and provide reporting capabilities on the VIVO data) to provide high level reports for the REI team.
-Overall, the project was a success – UOW Scholars now includes 61 impact stories from 55 researchers across 33 fields of research. The integration of impact stories within UOW Scholars has helped support the overall REI initiative – allowing researchers to understand and participate in the process in a tangible manner. Going forward, we plan to better promote the impact stories and examine the data for potential visualisations and reporting opportunities.
-This talk will discuss:
-* the process of extending VIVO (ontology, API and user interface development) to cap Impact Stories
-* the development of Impact Stories and their structure
-* development of reporting capabilities within the in-house VIVO data manager application
-* user support and promotional activities"
-  speakers: ["KeithBrophy"]
--
-  id: 107
-  title: "Pushing publication records from Scholars@Cornell to ORCID"
-  description: "Cornell University Libraries is developing a closer integration between its VIVO implementation and ORCID. The Scholars-ORCID Profile Update Service (SOPUS) is a pair of locally-developed applications that let faculty members push their publications from Scholars@Cornell to their ORCID profile.
-The Scholars@Cornell project collects publication data from a variety of sources using Symplectic Elements. This data is collated, curated and merged into “uber-records” using a suite of locally-developed software. The uber-records are transformed into RDF and are published on the Scholars@Cornell website. Faculty members then have the option of pushing their publication data from Scholars to ORCID.
-The SOPUS web service (SOPUS-WS) allows a faculty member to navigate from their Scholars profile page to their ORCID record, creating a chain of authorization so their publication data can be pushed to ORCID. When additional data is entered into Scholars, a batch process using the SOPUS command line application (SOPUS-CL) will update the ORCID records of all faculty members with active authorizations.
-SOPUS begins with an upgrade to the existing VIVO-ORCID integration toolkit. This upgraded toolkit is de-coupled from the VIVO application and joined with its own persistence layer to store long-lasting authorization tokens and transaction histories. The result is then wrapped in two activation layers, so it can be used as either an interactive web service or a command-line application.
-In this session, we will demonstrate the interactive authorization process (SOPUS-WS) and the batch update process (SOPUS-CL). We will discuss the user experience, the software components, and the data elements. We will show how these processes are integrated with VIVO, and discuss how other sites can add these processes to their own VIVO installations."
-  speakers: ["JimBlake","MuhammadJaved"]
--
-  id: 108
-  title: "Two ways to integrate Publons peer review data in VIVO"
-  description: "Publons (www.publons.com) is a rapidly growing online community where scholars track their peer review activity. More than 320,000 researchers have joined the site since its launch in 2012 in order to capture and highlight peer reviews, which have been traditionally undervalued when assessing the full breadth of scholarly activity. In this session, we will present on integrating Publons data into VIVO two different ways: as a javascript widget and via data ingest using the Publons’ API and Python scripts.
-The Publons widget, currently in a limited release as a demo, allows a VIVO site to easily embed Publons data via a line of javascript. Enabling the widget requires the addition of a data property to the site’s local ontology to capture Publons IDs and editing a single Freemarker template. Once enabled, the widget will appear on the page for any person with a Publons ID. The widget shows a visual representation of the person’s recent peer review activity. The widget also links to the full Publons’ profile.
-A more comprehensive integration of Publons data can also be achieved using the Publons’ API, Python scripts, and ontology extensions. A full ingest of Publons data enables peer review activity to be integrated throughout VIVO, i.e. on both a person’s page, on journal pages, and (when made available by publishers) on individual article records.
-Publons was acquired by Clarivate in 2017, joining a portfolio of services that includes Web of Science and InCites. Instructions and code for the above are available at https://www.github.com/Clarivate-SAR."
+  title: "Open source tools to populate VIVO with Web of Science data"
+  description: "The Web of Science (WoS) is a trusted source for publication and citation metadata of scholarly works dating back to 1900. The multidisciplinary database covers all areas of science, as well as social sciences, and the arts and humanities. WoS is comprised of works published in over 20,000 journals, as well as books and conferences. In 2019, the Clarivate Web of Science Group will release a new RESTful API that makes accessing and reusing citation metadata easier than ever. In this workshop, participants will be introduced to the new WoS APIs, the metadata available, and the new API registration process. Workshop participants will also gain hands-on experience using two Python script libraries, wos2vivo and incites2vivo. wos2vivo is an open source Python library for easily querying the Web of Science for your institution’s publications in bulk and transforming the data into VIVO-compatible linked data. incites2vivo will add indicator flags from InCites, such as if a publication is a Hot Paper, Industry Collaboration, International Collaboration, or Open Access. Lastly, workshop attendees will learn how to embed dynamically updated citation counts for their publications on their VIVO. 
+
+This technical workshop is appropriate for both beginning and advanced users. Please bring a laptop with Python installed. While a subscription is required for access to the Web of Science, all participants will be provided with temporary API credentials for the workshop. ORCID: https://orcid.org/0000-0002-7908-1987 "
   speakers: ["BenjaminGross"]
 -
-  id: 1091
-  title: "Community approaches to open data at scale (Part 1)"
-  description: "The integrity of ‘the scholarly record’ is predicated on the accuracy and availability of the information describing that record. The value of this information (high quality metadata) is often underestimated by those who stand to benefit most from its use and reuse---publishers and authors.
-This moderated panel session will bring multiple perspectives together to discuss the scholarly record broadly defined, the value of the relationships among different kinds of research objects, and the extent to which workarounds, ingenuity and a possibly unreasonable degree of discussion are required to address and remediate the shortfalls in how metadata is created and distributed.
-Topics addressed will include the communication surrounding the value of rich, interlinked metadata; the necessity of variety in schema, standards and workflows,and the tradeoffs inherent in aggregating and distributing open data."
-  speakers: ["JenniferKemp","JudyRuttenberg","ToddVision","ClareDean"]
+  id: 3
+  title: "euroCRIS and VIVO: Bringing Technologies and Communities Closer"
+  description: "What makes current research information (CRIS) systems different from other research information systems used around the world? And what does this mean for VIVO? This workshop introduces CRISs to VIVO users in both the US, Europe and beyond. 
+
+We’ll compare institutional goals for managing research information and show how they drive the selection of tools, platforms and systems as well as public implementations of these platforms. We’ll explore a number of VIVO implementations that consume and display CRIS data brilliantly. 
+
+And we’ll get an update on the collaboration between euroCRIS and the VIVO community to map and load CERIF data to VIVO. 
+
+Workshop agenda:
+*. Introduction to CRISs:
+** How CRISs differ from other systems like repositories and grants systems (pre-award and post-award) 
+** CRIS use cases in Europe (for reporting, for management support, for generating profiles and CV’s, for managing and archiving research data, and more)
+*. Pairing VIVO and CRISs: the benefits and challenges of creating and maintaining VIVOs based on institutional CRIS implementations
+*. Promoting and facilitating interoperability: using standards to make the exchange of data between CRIS and VIVO easier and more efficient. Update on: the  CERIF2VIVO mapping project."
+  speakers: ["Pablo de Castro", "Anna Guillaumet", "Michele Minnielli", "Ed Simons", "Julia Trimmer"]
 -
-  id: 1092
-  title: "Community approaches to open data at scale  (Part 2)"
-  description: "The integrity of ‘the scholarly record’ is predicated on the accuracy and availability of the information describing that record. The value of this information (high quality metadata) is often underestimated by those who stand to benefit most from its use and reuse---publishers and authors.
-This moderated panel session will bring multiple perspectives together to discuss the scholarly record broadly defined, the value of the relationships among different kinds of research objects, and the extent to which workarounds, ingenuity and a possibly unreasonable degree of discussion are required to address and remediate the shortfalls in how metadata is created and distributed.
-Topics addressed will include the communication surrounding the value of rich, interlinked metadata; the necessity of variety in schema, standards and workflows,and the tradeoffs inherent in aggregating and distributing open data."
-  speakers: ["JenniferKemp","JudyRuttenberg","ToddVision","ClareDean"]
+  id: 4
+  title: "Introduction to VIVO"
+  description: "VIVO is an open source tool based on linked open data concepts for connecting and publishing a wide range of research information within and across institutions. The goal of this workshop is to introduce new community members to the VIVO project and software. The workshop will consist of three sections: 1. A summary of VIVO’s history and what it does, 2. How it works, and 3. Where the project is heading. Part 1 will include a background of the VIVO project, how institutions and organizations are currently using it, how institutional stakeholders are involved, what benefits it offers to researchers, to institutions, and to the global community. Part 2 will include a high level discussion about how VIVO works and introduce the concepts of Resource Description Framework, Ontology, Vitro, Triple Pattern Fragments, how VIVO is managed, and how to feed downstream systems. Finally, part 3 will introduce you to next-gen VIVO initiatives such as, decoupling of the architecture, the next version of the ontology, the VIVO Scholar, VIVO Combine, the internationalization efforts, and the VIVO Search. 
+You’ll learn how to find the right resources as a new VIVO implementer including data sources, team members, governance models, and support structures. This workshop brings best practices and “lessons learned” from mature VIVO projects to new implementations. We’ll help you craft your messages to different stakeholders, so you’ll leave this workshop knowing how to talk about VIVO to everyone from your provost to faculty members to web developers."
+  speakers: ["Violeta Ilik", "Benjamin Gross", "Michael Conlon"]
 -
-  id: 110
-  title: "Profiles Research Networking Software: Group Profiles"
-  description: "Profiles Research Networking Software (RNS) is a free open source semantic web application which uses the VIVO ontology to generate searchable online profiles of an organization’s investigators (http://profiles.catalyst.harvard.edu). This poster describes a new feature called Group Profiles, which creates separate pages in the Profiles RNS website for centers, laboratories, projects, or other groups of people. This allows a group to share information about itself on the Profiles RNS website and link to the profile pages of its members.
-Group Profiles was developed as a collaboration between the Harvard Profiles RNS team and Christopher Shanahan and Chris Dorney from the Boston University Clinical Translational Science Institute (CTSI). Phase 1 of the Group Profiles project includes the following functionality:
-1) Membership. Managers of Group Profile pages can affiliate individuals within the Profiles RNS website as members of the group. The list of members are shown on the Group Profile page; and, the groups a person is affiliated with are shown on his or her profile page in a My Groups module.
-2) Custom Page Layout. Within the Profiles RNS framework, Group Profiles are a distinct object class, which means they can have different content modules and page layout than person profile pages.
-3) Custom Modules. Certain Group Profile modules enable authorized group managers to post content directly to the Group Profile pages. Other modules pull content from member profile pages to display on the Group Profile page. The current list of modules include: (a) Photo (group logo, picture, etc.); (b) Welcome, About Us, and Contact text; (c) Open Social Gadgets (e.g., links to other groups or external websites); and (d) Publications.
-4) Security. Group Profiles utilize the Profiles RNS security model, which enables group managers to control whether content is visible to the public or restricted to certain users.
-5) Search. Group Profile page content is searchable through the website and the Profiles RNS APIs.
-6) Open Data. Group Profile page content is integrated into the Profiles RNS semantic web architecture so that it can be exchanged with other applications (like VIVO) via linked open data.
-We plan to expand the functionality of Group Profiles in the future and hope that other institutions also contribute new modules."
-  speakers: ["NickBrown","GriffinWeber","ChristopherShanahan","ChristopherDorney","PeterFlynn"]
+  id: 5
+  title: "Opening Address"
+  description: ""
+  place: "Crystal Ball"
+  speakers: ["VioletaIlik", "Natasa", "MikeConlon", "Ruben"]
+-
+  id: 6
+  title: "Herbert Van De Sompel Keynote: Collecting the Organisational Scholarly Record"
+  description: "The invitation to present a keynote at the VIVO Conference and the goal of 
+the VIVO platform, as stated on the DuraSpace site, to create an 
+integrated record of the scholarly work of an organisation reminded me 
+of various efforts that I have been involved in over the past years that
+ had similar goals. EgoSystem (2014) attempted to gather information 
+about postdocs that had left the organisation, leaving little or no 
+contact details behind. Autoload (2017), an operational service, 
+discovers papers by organisational researchers in order to upload them 
+in the institutional repository. myresearch.institute (2018), an 
+experiment that is still in progress, discovers artefacts that 
+researchers deposit in web productivity portals and subsequently 
+archives them. More recently, I have been involved in thinking about the
+ future of NARCIS, a portal that provides an overview of research 
+productivity in The Netherlands. The approach taken in all these efforts
+ share a characteristic motivated by a desire to devise scalable and 
+sustainable solutions: let machines rather than humans do the work. In 
+this talk, I will provide an overview of these efforts, their 
+motivations, the challenges involved, and the nature of success (if any)."
+  place: "Crystal Ball"
+  speakers: ["HerbertVanDeSompel"]
+
+-
+  id: 7
+  title: "Knowlege organization systems and Linked Data: meaning and identifiers"
+  description: "In this talk we discuss the characteristics of Linked Data-based resource discovery and its limitations in finding content by direct processing of information resources -- in comparison to the solution provided through content metadata supported by knowledge organization systems (KOS) such as thesauri, classification and subject descriptors. KOS are traditional information discovery tools that determine the meaning and control ambiguities of language, hence they are often referred to as controlled vocabularies. They are used by libraries as well as by publishers and bookshops. However, most of KOSs are designed for and used in traditional information environments and are often not readily accessible by programs. 
+Semantic technologies such as linked data offer solutions for expressing KOS in a more formalized and machine-understandable way. They provide a way of uniquely identifying and contextualizing semantically meaningful units irrespective of their possible linguistic or symbolic representations. This “unique identification” (URI) is the key element of linked data technology: anything that can be identified can be linked. 
+The publishing of KOSs as linked data has become the most important form of sharing and using controlled vocabularies in the Web environment. This is also a solution for accessing the meaning and knowledge stored in the collections indexed by KOS (both directly or indirectly). As more and more KOSs are being published as linked data and more and more collection metadata containing KOS concepts join the linked data cloud, some obstacles to linking collection metadata and KOSs have become more obvious. Human knowledge is in constant flux and KOSs develop over time to embrace new terminology and new fields of knowledge. These changes affect unique identifiers used in KOS and consequently all links between KOS and resource collections."
+  speakers: ["RonaldSiebes", "AidaSlavic", "AndreaScharnhorst"]
+-
+  id: 8
+  title: "Conference Identity: persistent identifiers for conferences"
+  description: "Conferences are an essential part of scholarly communication. However, like researchers and organizations they suffer from the disambiguation problem, when the same acronym or the conference name refers to very different conferences. In 2017, Crossref and DataCite started a working group on conference and project identifiers. The group includes various publishers,  A&I service providers, and other interested stakeholders. The group participants have drafted the metadata specification and gathered the feedback from the community.
+In this talk, we would like to update the VIVO participants with where we stand with the PIDs for conferences, conference series and Crossmark for proceedings and are inviting the broader community to comment.
+Read the CrossRef post for more info about the group:
+https://www.crossref.org/working-groups/conferences-projects/"
+  speakers: ["AliaksandrBirukou", "PatriciaFeeney"]
+-
+  id: 9
+  title: "Update on VIVO Scholar"
+  description: "The VIVO Scholar Task Force is creating a new, read-only front-end for VIVO. Come hear an update about the work on VIVO Scholar so far.  Task force representatives will demo components and answer questions.
+* Learn how five universities have worked together to reach the current stage of VIVO Scholar.
+* Review the new profile and search pages.
+* Watch the quick and easy GraphQL queries.
+* See how sharing data makes your VIVO essential.
+
+For more info on VIVO Scholar, see the Task Force page on the VIVO wiki."
+  speakers: ["Paul Albert, Greg Burton, Sarbajit Dutta, Don Elsborg, Hans Harlacher, Damaris Murry, Robert Nelson, Ralph O'Flinn, Richard Outten, Harry Thakkar, Julia Trimmer, Jim Wood, and Alex Viggio"]
+-
+  id: 10
+  title: "A Platform to Support Science of Translational Science Research"
+  description: "There are numerous sources of metadata regarding research activity that Clinical and Translational Science Award (CTSA) hubs currently duplicate effort in acquiring, linking and analyzing. The Science of Translational Science (SciTS) project provides a shared data platform for hubs to collaboratively manage these resources, and avoid redundant effort. In addition to the shared resources, participating CTSA hubs are provided private schemas for their own use, as well as support in integrating these resources into their local environments.
+
+This project builds upon multiple components completed in the first phase of the Center for Data to Health (CD2H), specifically: a) data aggregation and indexing work of research profiles and their ingest into and improvements to CTSAsearch by Iowa (http://labs.cd2h.org/search/facetSearch.jsp); b) NCATS 4DM, a map of translational science; and c) metadata requirements analysis and ingest of from a number of other CD2H and CTSA projects, including educational resources from DIAMOND and N-lighten, development resources from GitHub, and data resources from DataMed (bioCADDIE) and DataCite. This work also builds on other related work on data sources, workflows, and reporting from the SciTS team, including entity extraction from the acknowledgement sections of PubMed Central papers, disambiguated PubMed authorship, ORCiD data and integrations, NIH RePORT, Federal RePORTER, and other data sources and tools. 
+
+Early activities for this project include:
+* Configuration of a core warehouse instance
+* Population of the warehouse from the above-mentioned sources
+* Configuration of local schemas for each CTSA hub and other interested parties
+* Creation for example solutions for ingest/extraction using JDBC, GraphQL, SPARQL, and tools such as teiid (an open source data federation platform)."
+  speakers: ["David Eichmann, Kristi Holmes"]
+-
+  id: 11
+  title: "A Reference implementation for publishing persistent records for awards and prizes"
+  description: "Prizes are important indicators of esteem in research, and they deserve a persistent primary record of their own.  
+
+ * Award citation information is needed throughout the sector, all the time
+
+To name a few examples, institutions aggregate prizes from their alumni over time to build a story about the minds they have educated, and how welcoming their research environment is to support creativity. Prizes are built into university rankings and accreditation processes.  To tell these stories easily, award citation information needs to be easily available.
+
+* Award citations should be richly described records
+
+An award citation is more than just a date, award, and link to a person and awarding body. A citation links to the research that it acknowledges. Upon acceptance award, often an occasional speech is recorded. The best way to capture award citations in all of the richness they deserve is to establish normative metadata practices based around the minting of a persistent identifier.
+
+* Award citations are the historical signposts through which society understands research progress. These signposts deserve a permanent digital record.
+
+* Creating transparency around on prizes can help improve research culture
+
+At their best, prizes recognise a diversity of research achievement in society from literature to physics and everything in between. It has also been observed that prizes are being awarded to a concentrated set of elite researchers. By making prize awardee information more discoverable, more informed decisions about what prizes to award, and who to award them to can be made.
+
+* The flow of prize information through the research systems is currently significantly hampered. It needs fixing.
+
+Wikidata is perhaps the best secondary source of prize information.  Consider how it gets there. What information does it loose along the way?  A significant amount work could be reduced by building information flows around the authority that persistent records provide.
+
+To begin to address these issues, we have built an open source awards publishing reference implementation. This implementation is  based on on xPub - a Journal submission and peer review platform from the Collaborative Knowledge Foundation. Finalised award records are then published to figshare, with associated metadata pushed to wikidata."
+  speakers: ["SimonPorter"]
+-
+  id: 12
+  title: "From CRIS to RPS - discovering research potential form research management systems; Omega-PSIR Experience"
+  description: "CRIS systems are becoming a mandatory element of University Information ecosystems. CRIS provides significant amenities for reporting routines for research councils, national authorities, employee evaluation, academic degrees communities and provide valuable insights for university management.  Properly implemented (in terms of Organization)  CRIS system becomes a source of complete and reliable data going far beyond projects and publications thus providing more profiling capabilities than for instance crowd-based systems like ResearchGate.
+
+Developing OMEGA-PSIR CRIS system at Warsaw University of Technology, which is now free and Open  System used in 20+ Universities in Poland we thought about research visibility at the same priority as reporting. By applying Text Mining, Artificial Intelligence, external ontologies but also organizational regimes, we obtained a robust profiling systems that allows searching for experts, modelling  and visualising research teams, intelligent discipline matching, multi-purpose and multi-source researchers rankings, and many others. 
+
+We would like to share our experiences in building a robust  RPS system that relies on complete and reliable data, basing on 20+ deployments of Omega-PSIR Open Software in Poland "
+  speakers: ["JakubKoperwas", "ŁukaszSkonieczny", "WacławStruk", "HenrykRybiński"]
 -
   id: 111
   title: "Engaging Faculty with their Profiles in Scholars@TAMU"
@@ -387,12 +412,10 @@ Discussion about data loading techniques people use; what works well, and what w
 -
   id: 902
   title: "Coffee Break"
-  place: "JB Duke Atrium"
   service: true
 -
   id: 903
   title: "Lunch (included)"
-  place: "JB Duke Marketplace"
   service: true
 -
   id: 904
