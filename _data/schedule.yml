@@ -1,199 +1,173 @@
 -
-  date: "2018-06-06"
-  dateReadable: "Wednesday June 6"
+  date: "2019-09-04"
+  dateReadable: "Wednesday September 4"
   tracks:
-    - {title: "Meeting Room C", color: "#03a9f4"}
-    - {title: "Jeffries Meeting Room", color: "#e91e63"}
+    - {title: "Princess Milica", color: "#90be4e"}
+    - {title: "Princess Ksenija", color: "#e91e63"}
+    - {title: "Board Room Ana", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "07:00",
-    	endTime: "08:30",
-    	sessionIds: [901]
-    }
-    - {
-    	startTime: "08:30",
-    	endTime: "11:30",
-    	sessionIds: [1,2]
-    }
-    - {
-        startTime: "11:30",
-        endTime: "13:00",
-        sessionIds: [903]
+    	startTime: "08:00",
+    	endTime: "12:00",
+    	sessionIds: [1,3, 4]
     }
     - {
     	startTime: "13:00",
-    	endTime: "16:00",
-    	sessionIds: [3,4]
-    }
-    - {
-    	startTime: "17:00",
-    	endTime: "19:00",
-    	sessionIds: [804]
-    }
-    - {
-    	startTime: "18:30",
-    	endTime: "20:30",
-    	sessionIds: [904]
+    	endTime: "17:00",
+    	sessionIds: [1000,2,904]
     }
 -
-  date: "2018-06-07"
-  dateReadable: "Thursday June 7"
+  date: "2019-09-05"
+  dateReadable: "Thursday September 5"
   tracks:
-    - {title: "Ballroom ABC", color: "#90be4e"}
-    - {title: "Ballroom DE", color: "#03a9f4"}
-    - {title: "Meeting Room C", color: "#e91e63"}
+    - {title: "Crystal Ball A", color: "#90be4e"}
+    - {title: "Crystal Ball B", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "07:00",
-    	endTime: "17:00",
-    	sessionIds: [900]
-    }
-    - {
-    	startTime: "07:00",
-    	endTime: "08:30",
-    	sessionIds: [901]
-    }
-    - {
     	startTime: "08:30",
-    	endTime: "09:30",
-    	sessionIds: [801]
+    	endTime: "09:00",
+    	sessionIds: [5]
     }
     - {
-    	startTime: "9:30",
-    	endTime: "09:55",
-    	sessionIds: [130,107,133]
+    	startTime: "09:00",
+    	endTime: "10:00",
+    	sessionIds: [6]
     }
     - {
-        startTime: "10:00",
-        endTime: "10:25",
+    	startTime: "10:00",
+    	endTime: "10:30",
     	sessionIds: [902]
     }
     - {
-        startTime: "10:30",
-        endTime: "10:55",
-    	sessionIds: [1091,108,131]
+    	startTime: "10:30",
+    	endTime: "11:00",
+    	sessionIds: [7, 10]
     }
     - {
         startTime: "11:00",
-        endTime: "11:25",
-    	sessionIds: [1092,112,102]
+        endTime: "11:30",
+    	sessionIds: [8, 11]
     }
     - {
-    	startTime: "11:30",
-    	endTime: "13:00",
+        startTime: "11:30",
+        endTime: "12:00",
+    	sessionIds: [9, 12]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "13:30",
+    	sessionIds: [13]
+    }
+    - {
+    	startTime: "13:30",
+    	endTime: "14:30",
     	sessionIds: [903]
     }
     - {
-    	startTime: "13:00",
-    	endTime: "13:55",
-    	sessionIds: [802]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "14:25",
-    	sessionIds: [101,129,303]
-    }
-    - {
     	startTime: "14:30",
-    	endTime: "14:55",
-    	sessionIds: [111,125,302]
+    	endTime: "15:00",
+    	sessionIds: [1,14]
     }
     - {
     	startTime: "15:00",
-    	endTime: "15:25",
+    	endTime: "15:30",
     	sessionIds: [902]
     }
     - {
     	startTime: "15:30",
-    	endTime: "15:55",
-    	sessionIds: [106,114,301]
+    	endTime: "16:00",
+    	sessionIds: [15,16]
     }
     - {
     	startTime: "16:00",
-    	endTime: "16:25",
-    	sessionIds: [110,123,300]
+    	endTime: "16:30",
+    	sessionIds: [17,18]
     }
     - {
     	startTime: "16:30",
-    	endTime: "16:55",
-    	sessionIds: [119,105,300]
+    	endTime: "17:00",
+    	sessionIds: [19,20]
     }
     - {
     	startTime: "17:30",
     	endTime: "19:00",
     	sessionIds: [805]
     }
-    - {
-    	startTime: "18:00",
-    	endTime: "19:00",
-    	sessionIds: [304]
-    }
-    - {
-    	startTime: "19:00",
-    	endTime: "21:00",
-    	sessionIds: [806]
-    }
-    - {
-    	startTime: "21:00",
-    	endTime: "23:00",
-    	sessionIds: [807]
-    }
 -
-  date: "2018-06-08"
-  dateReadable: "Friday June 8"
+  date: "2019-09-06"
+  dateReadable: "Friday September 6"
   tracks:
-    - {title: "Ballroom ABC", color: "#90be4e"}
-    - {title: "Ballroom DE", color: "#03a9f4"}
-    - {title: "Meeting Room C", color: "#e91e63"}
+    - {title: "Crystal Ball A", color: "#90be4e"}
+    - {title: "Crystal Ball B", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "07:00",
-    	endTime: "12:00",
-    	sessionIds: [900]
-    }
-    - {
-    	startTime: "07:00",
-    	endTime: "08:30",
-    	sessionIds: [901]
-    }
-    - {
     	startTime: "08:30",
-    	endTime: "09:30",
-    	sessionIds: [803]
+    	endTime: "09:00",
+    	sessionIds: [21]
     }
     - {
-    	startTime: "9:30",
-    	endTime: "09:55",
-    	sessionIds: [124,115,305]
+    	startTime: "09:00",
+    	endTime: "10:00",
+    	sessionIds: [22]
     }
     - {
-        startTime: "10:00",
-        endTime: "10:30",
+    	startTime: "10:00",
+    	endTime: "10:30",
     	sessionIds: [902]
     }
     - {
-        startTime: "10:30",
-        endTime: "10:55",
-    	sessionIds: [126,120,300]
+    	startTime: "10:30",
+    	endTime: "11:00",
+    	sessionIds: [23,24]
     }
     - {
         startTime: "11:00",
-        endTime: "11:25",
-    	sessionIds: [117,134,300]
+        endTime: "11:30",
+    	sessionIds: [25,26]
     }
     - {
         startTime: "11:30",
-        endTime: "11:55",
-    	sessionIds: [808]
+        endTime: "12:00",
+    	sessionIds: [27,28]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "13:30",
+        startTime: "12:00",
+        endTime: "13:30",
     	sessionIds: [903]
     }
     - {
-        startTime: "13:30",
-        endTime: "TBD",
-    	sessionIds: [809]
+    	startTime: "13:30",
+    	endTime: "14:30",
+    	sessionIds: [29]
     }
-    
+    - {
+    	startTime: "14:30",
+    	endTime: "15:00",
+    	sessionIds: [30,31]
+    }
+    - {
+    	startTime: "15:00",
+    	endTime: "15:30",
+    	sessionIds: [902]
+    }
+    - {
+    	startTime: "15:30",
+    	endTime: "16:00",
+    	sessionIds: [32,33]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "16:30",
+    	sessionIds: [34,35]
+    }
+    - {
+    	startTime: "16:30",
+    	endTime: "17:00",
+    	sessionIds: [36,37]
+    }
+    - {
+    	startTime: "17:00",
+    	endTime: "17:15",
+    	sessionIds: [808]
+    }  
+ 
