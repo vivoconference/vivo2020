@@ -31,3 +31,64 @@
   ribbon:
     - {abbr: "INVITED", title: "Invited Speaker"}
   rockstar: true
+-
+  id: "PaulAlbert"
+  name: "Paul"
+  surname: "Albert"
+  company: "Weill Cornell Medicine"
+-
+  id: "SarbajitDutta"
+  name: "Sarbajit"
+  surname: "Dutta"
+  company: "Weill Cornell Medicine"
+-
+  id: "MichaelBales"
+  name: "Michael"
+  surname: "Bales"
+  company: "Weill Cornell Medicine"
+-
+  id: "JieLin"
+  name: "Jie"
+  surname: "Lin"
+  company: ""
+-
+  id: "BenjaminGross"
+  name: "Benjamin"
+  surname: "Gross"
+  company: "Clarivate Analytics"
+-
+  id: "PabloDeCastro"
+  name: "Pablo"
+  surname: "de Castro"
+  company: ""
+-
+  id: "AnnaGuillaumet"
+  name: "Anna"
+  surname: "Guillaumet"
+  company: "SIGMA"
+-
+  id: "MicheleMinnielli"
+  name: "Michele"
+  surname: "Minnielli"
+  company: ""
+-
+  id: "JuliaTrimmer"
+  name: "Julia"
+  surname: "Trimmer"
+  company: "Duke University"
+-
+  id: "EdSimons"
+  name: "Ed"
+  surname: "Simons"
+  company: ""
+-
+  id: "VioletaIlik"
+  name: "Violeta"
+  surname: "Ilik"
+  company: "Columbia University"   
+-
+  id: "MichaelConlon"
+  name: "Michael"
+  surname: "Conlon"
+  company: "VIVO Project"  
+    
