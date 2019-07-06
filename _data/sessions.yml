@@ -21,7 +21,7 @@ For our presentation, we will demonstrate:
   title: "Open source tools to populate VIVO with Web of Science data"
   description: "The Web of Science (WoS) is a trusted source for publication and citation metadata of scholarly works dating back to 1900. The multidisciplinary database covers all areas of science, as well as social sciences, and the arts and humanities. WoS is comprised of works published in over 20,000 journals, as well as books and conferences. In 2019, the Clarivate Web of Science Group will release a new RESTful API that makes accessing and reusing citation metadata easier than ever. In this workshop, participants will be introduced to the new WoS APIs, the metadata available, and the new API registration process. Workshop participants will also gain hands-on experience using two Python script libraries, wos2vivo and incites2vivo. wos2vivo is an open source Python library for easily querying the Web of Science for your institution’s publications in bulk and transforming the data into VIVO-compatible linked data. incites2vivo will add indicator flags from InCites, such as if a publication is a Hot Paper, Industry Collaboration, International Collaboration, or Open Access. Lastly, workshop attendees will learn how to embed dynamically updated citation counts for their publications on their VIVO. 
 
-This technical workshop is appropriate for both beginning and advanced users. Please bring a laptop with Python installed. While a subscription is required for access to the Web of Science, all participants will be provided with temporary API credentials for the workshop. ORCID: https://orcid.org/0000-0002-7908-1987 "
+This technical workshop is appropriate for both beginning and advanced users. Please bring a laptop with Python installed. While a subscription is required for access to the Web of Science, all participants will be provided with temporary API credentials for the workshop. "
   speakers: ["BenjaminGross"]
 -
   id: 3
@@ -38,19 +38,19 @@ Workshop agenda:
 ** CRIS use cases in Europe (for reporting, for management support, for generating profiles and CV’s, for managing and archiving research data, and more)
 *. Pairing VIVO and CRISs: the benefits and challenges of creating and maintaining VIVOs based on institutional CRIS implementations
 *. Promoting and facilitating interoperability: using standards to make the exchange of data between CRIS and VIVO easier and more efficient. Update on: the  CERIF2VIVO mapping project."
-  speakers: ["Pablo de Castro", "Anna Guillaumet", "Michele Minnielli", "Ed Simons", "Julia Trimmer"]
+  speakers: ["PabloDeCastro", "AnnaGuillaumet", "MicheleMinnielli", "EdSimons", "JuliaTrimmer"]
 -
   id: 4
   title: "Introduction to VIVO"
   description: "VIVO is an open source tool based on linked open data concepts for connecting and publishing a wide range of research information within and across institutions. The goal of this workshop is to introduce new community members to the VIVO project and software. The workshop will consist of three sections: 1. A summary of VIVO’s history and what it does, 2. How it works, and 3. Where the project is heading. Part 1 will include a background of the VIVO project, how institutions and organizations are currently using it, how institutional stakeholders are involved, what benefits it offers to researchers, to institutions, and to the global community. Part 2 will include a high level discussion about how VIVO works and introduce the concepts of Resource Description Framework, Ontology, Vitro, Triple Pattern Fragments, how VIVO is managed, and how to feed downstream systems. Finally, part 3 will introduce you to next-gen VIVO initiatives such as, decoupling of the architecture, the next version of the ontology, the VIVO Scholar, VIVO Combine, the internationalization efforts, and the VIVO Search. 
 You’ll learn how to find the right resources as a new VIVO implementer including data sources, team members, governance models, and support structures. This workshop brings best practices and “lessons learned” from mature VIVO projects to new implementations. We’ll help you craft your messages to different stakeholders, so you’ll leave this workshop knowing how to talk about VIVO to everyone from your provost to faculty members to web developers."
-  speakers: ["Violeta Ilik", "Benjamin Gross", "Michael Conlon"]
+  speakers: ["VioletaIlik", "BenjaminGross", "MichaelConlon"]
 -
   id: 5
   title: "Opening Address"
   description: ""
   place: "Crystal Ball"
-  speakers: ["VioletaIlik", "Natasa", "MikeConlon", "Ruben"]
+  speakers: ["VioletaIlik", "Natasa", "MichaelConlon", "Ruben"]
 -
   id: 6
   title: "Herbert Van De Sompel Keynote: Collecting the Organisational Scholarly Record"
@@ -100,7 +100,7 @@ https://www.crossref.org/working-groups/conferences-projects/"
 * See how sharing data makes your VIVO essential.
 
 For more info on VIVO Scholar, see the Task Force page on the VIVO wiki."
-  speakers: ["Paul Albert, Greg Burton, Sarbajit Dutta, Don Elsborg, Hans Harlacher, Damaris Murry, Robert Nelson, Ralph O'Flinn, Richard Outten, Harry Thakkar, Julia Trimmer, Jim Wood, and Alex Viggio"]
+  speakers: ["PaulAlbert", "GregBurton", "SarbajitDutta", "DonElsborg", "HansHarlacher", "DamarisMurry", "RobertNelson", "RalphOFlinn", "RichardOutten", "HarryThakkar", "JuliaTrimmer", "JimWood", "AlexViggio"]
 -
   id: 10
   title: "A Platform to Support Science of Translational Science Research"
@@ -149,266 +149,250 @@ Developing OMEGA-PSIR CRIS system at Warsaw University of Technology, which is n
 We would like to share our experiences in building a robust  RPS system that relies on complete and reliable data, basing on 20+ deployments of Omega-PSIR Open Software in Poland "
   speakers: ["JakubKoperwas", "ŁukaszSkonieczny", "WacławStruk", "HenrykRybiński"]
 -
-  id: 111
-  title: "Engaging Faculty with their Profiles in Scholars@TAMU"
-  description: "The Texas A&M University (TAMU) Libraries recently launched the beta version of Scholars@TAMU (https://scholars.library.tamu.edu/), a faculty profile system that showcases TAMU research, supports the creation of interdisciplinary research teams, and allows anyone to search through the range of Texas A&M expertise. The system is based on a member-supported, open-source, semantic-web software (i.e., VIVO). The Libraries’ team has developed a research information ecosystem for publishing data to Scholars@TAMU. The ecosystem broadly consists of three parts: data source, data editor, and public facing layer. This presentation mainly covers the editor part that allows faculty engage with their profiles. In addition, marketing materials of Scholars@TAMU will be shared with the audience.
-The development team implemented our own profile editor that allows faculty to interact with various data sources. While Symplectic Elements is the primary data source for scholarly publications, the system pulls data from other campus sources as well (e.g., TAMU faculty, HR database, awards, teaching activities, institutional repositories, and ORCID). The team uses the features in the editor to allow faculty to engage with their information in an iterative process between the faculty and the libraries’ scholarly communication staff. The team then uses the editor to tie it all together and publish the data to VIVO. We believe that faculty engagement with their profiles increases quality of the data in Scholars@TAMU. Currently 39% of current profile owners ever accessed and updated their profiles."
-  speakers: ["DongJoonLee","DougHahn","EthelMejia","BruceHerbert","MichaelBolton"]
--
-  id: 112
-  title: "VIVO-DE: Collaborative ontology editing & management with VoCol"
-  description: "It is not sufficient to translate the labels of the VIVO-ISF ontology to adopt VIVO to the needs of German research institutions. There is a need for an ontology extension that is tailored to the specifics of the German academic landscape, especially with regard to language and (academic) culture. In order to involve as many stakeholders as possible, a collaborative approach to ontology management is needed. Basing the corresponding workflows solely on Git is an option, which is currently chosen by the German VIVO community (VIVO-DE). However, there is a demand for more user-friendly ways to work together.
-There is a small number of tools which are specifically developed for collaborative ontological work. One of them is VoCol. In this poster we would like to describe possible use cases for VoCol in the VIVO-DE context, challenges we anticipate, and our suggestions how to face them in the future.
-VoCol has been originally developed at Fraunhofer Institute IAIS in Bonn and from 2018 on will be evolved in collaboration by Fraunhofer IAIS and the Technische Informationsbibliothek (TIB) – German National Library of Science and Technology in Hannover. It is based on Open Source software such as Java libraries and the Jena Fuseki SPARQL server, and requires nothing from the user but a standard Git-based repository. The application serves as a frontend in order to facilitate collaborative ontology development. It supports the Semantic Web standards OWL and SKOS, and features various functionalities such as a Turtle editor, a syntax validation routine, options for an automated documentation, tools for ontology visualization, evolution reports, content negotiation, and a SPARQL endpoint.
-VoCol is currently being tested at the TIB and by other VIVO-DE community members with the goal to assess its suitability for collaborative editing and management of the KDSF-VIVO-Alignment and VIVO-DE-Extension vocabularies.
-Despite the aforementioned benefits of VoCol, there is still room for improvement, for example regarding performance and a more intuitive user guidance. Moreover, VoCol could be taken to the next level by adding more functionalities such as more sophisticated structural validation and verification routines, and alignment tools that allow to establish mappings between several vocabularies."
-  speakers: ["AnnaKasprzik","TatianaWalther","ChristianHauschke"]
--
-  id: 113
-  title: "Challenges and opportunities of using VIVO as a reporting tool"
-  description: "Due to a number of state and federal regulations and other obligations, publicly funded institutions in Germany have to fulfil a variety of reporting duties. One example of such a regulation is the guideline for transparency in research in the German federal state Lower Saxony. This guideline frames, which information about third party founded research projects has to be made publicly available by the universities in Lower Saxony. Besides the federal bodies, there are also German governmental and European funding agencies like Leibniz Association, European Commission, German Research Foundation (DFG, Deutsche Forschungsgemeinschaft) which demand reports about staff, research activities, infrastructure, and other information.
-Compliance with certain standards is another key feature for reporting. For example, the German Science Council asks research institutions to collect research information according to defined standardized criteria (Research Core Data Set, KDSF). The TIB transformed the data model of the KDSF to make it usable in VIVO. CERIF is another standard of high importance for German research institutions.
-The Technische Informationsbibliothek (TIB) – German National Library of Science and Technology has decided to use VIVO for reporting. In the scope of VIVO-KDSF project, an internal VIVO is going to be used for generation of reports in accordance with the KDSF. This poses some technical and ontological challenges to a standard out-of-the-box VIVO.
-To allow the use of VIVO in such a context, it has to comply to a set of laws, rules and regulations, e.g. regarding privacy, and protection of employees. These require some information to be visible only to specific user groups. Furthermore, to achieve a high quality of research information, there is a need for validating and editing workflows. To establish these workflows, some developmental work on VIVO has to be done. This includes amongst others an advanced role and rights management and a tool to track changes and who's responsible for them.
-On the technical side, for report production a reporting module integrated into VIVO is needed. For now VIVO is not technically geared for reporting, as its basic goal focuses on information representation in the web. VIVO provides a SPARQL query editor which can be used for reports, but it requires deep knowledge of SPARQL and the VIVO data model. a convenient reporting component should include a user interface which can be intuitively operated by administrative staff, normally not familiar with SPARQL. The user interface should offer a number of options to set a single report and offer export of data in different formats like CSV and PDF. Visualization of data in charts and diagrams has to be provided as well.
-This poster describes the developments (to be) conducted at the TIB, and the challenges, it has been facing concerning the use of VIVO for reporting."
-  speakers: ["ChristianHauschke","TatianaWalther"]
--
-  id: 114
-  title: "Building an Nimble User Interface for VIVO"
-  description: "After a year of development and testing, Brown University rolled out a new frontend to VIVO in December 2017. The goals of the new frontend were twofold: an improved, more modern user experience, and easier customization and enhancements. The Brown team accomplished this by creating a standalone Ruby on Rails frontend, decoupling the user-facing application from the VIVO backend. Decoupling the frontend and the backend permits easier and more frequent updates to the user experience, while allowing the VIVO application to stay in place as is. This preserves the core features of VIVO, like semantic data and RDF publishing facilities. The new approach enables Brown to build a modern user experience on top of semantic data without having to compromise either.
-In this presentation, Brown’s lead VIVO developers will review the new frontend application and the overall project architecture. They will follow up with a description of the project rollout, including obstacles encountered and solutions. This will lead into an analysis of the current state of the project: ongoing and future enhancements to the frontend, and how they are facilitated by the new architecture. New features that are already or soon to be available include data visualizations and mobile-friendly design. The presentation concludes with plans for future development at Brown, and recommendations for how this model can be adopted by the general VIVO community."
-  speakers: ["StevenMccauley","HectorCorrea","JeanRainwater"]
--
-  id: 115
-  title: "Uberization Module: A life saver for the manually entered dirty citation data in faculty reporting tool"
-  description: "Cornell University is a decentralized institution where every college and school uses its own means and procedures to record their faculty’s publications. Few of them rely on institutional repositories such as Digital Commons from bepress; while, others use faculty reporting tools such as Activity Insight from Digital Measures or Symplectic Elements from Digital Science. In this presentation, I will discuss a case study of College of Agriculture and Life Sciences (CALS) that currently use Activity Insight (AI) for their faculty reporting needs.
-Every year during faculty reporting season, faculty report their research contributions of the past one year. In College of Agriculture and Life Sciences (CALS), different strategies are used to collect publication data from faculty. Faculty can either i) provide their up to date CVs and an admin staff from the college may read the CVs and manually enter publications data in the reporting system, ii) faculty can copy/paste publications list from their CVs and enter them as a single text blob in a free text template provided by the CALS administration, or iii) faculty can themselves log in to the reporting system and enter their publications in a publication template form. In all three options, publications are entered manually into the faculty reporting system. Such manually entered data is prone to errors and many examples have been found where manually entered citation data do not reflect the truth. Some of the noticed errors include incorrect journal name, incorrect ISSN/EISSN numbers, mistakes in DOIs, incorrect list/order of authors etc. Such dirty citation data cannot be used for data analysis or future strategic discussions. In Scholars@Cornell project, we use uberization module to clean such dirty data.
-First, we load dirty publication data from Activity Insight (AI) to Symplectic Elements as an institutional feed. In cases where the loaded publication is already harvested by Symplectic Elements via upstream sources (such as WoS, Pubmed, Scopus), the AI publication become another record in the existing publication object. In scenarios where the AI publication is the first record in Elements, one may re-run the search for the faculty so that the citation data for the same publication is harvested from upstream sources as well. Once step two is completed, next step is to extract publication objects from Elements, merging data from different sources (i.e., one record from each source) and creating a single record – “uber record” for each article. For creation of an uber record, we ranked the citation data sources based on the experience and intuition of two senior Cornell librarians and started with the metadata from the source they considered best. The uberization module merges the citation data from different publication records (including AI record) in a way that it creates a single record which is clean and comprises best of the best citation data. After passing through the data validation, uber records are transformed into an RDF graph and loaded into Scholars@Cornell."
-  speakers: ["MuhammadJaved","JosephMcEnerney"]
--
-  id: 117
-  title: "Using VIVO for a Research Intelligence System for Stanford University"
-  description: "Stanford University is a large research institution, with over $1.6 billion in sponsored research. Along with other sources of funding, this produces an enormous amount of research. The results of this work are published in journals or books, presented at conferences, taught in classes and workshops, and captured in data sets. In order to help Stanford work towards new opportunities and fulfill its mission, we seek to build a system that helps understand and catalog this research output, capture it in preservable form, and understand how it is interconnected.
-Stanford currently maintains separate systems for tracking researchers, grants, publications and projects, but it has no system for combining this information and further tracking and managing its research output: the tangible artifacts of articles, data, books and projects that advance human knowledge. RIALTO is a system that is designed to close that loop, helping provide a holistic picture of the University’s activity and impact, while also eliminating waste through inefficient, duplicate data entry and opportunity costs stemming from lack of information.
-We are seeking to use VIVO as the system that underlies RIALTO, leveraging the work already done in linked data storage, ontologies and overall architecture. We are also seeking to leverage the and contribute to work around building novel reporting user interfaces and visualizations on top of the core VIVO codebase.
-Work on this system will take place at Stanford in the spring of 2018. This work will include the installation of a core VIVO, the building of connectors to our citation database, biographical database and a limited amount of funding information. We also intend to build a user interface with several reports based on use cases gathered from across Stanford. At VIVO 2018, we intend to discuss the results of our initial work, including use cases gathered, technical progress to date, lessons learned, and future directions."
-  speakers: ["PeterMangiafico","TomCramer"]
--
-  id: 119
-  title: "User perceptions, feedback, and stories: Potential pathways for exploring user needs"
-  description: "User needs and requirements are one of the fundamental areas where we can engage the VIVO community in order to better understand how the VIVO software can evolve to provide improved services to its users. We propose a panel highlighting examples of obtaining researcher and faculty feedback on VIVO using both informal and formal user-centered methods. We will share what we have done to gather input from users, how this work has informed or could inform our design and development for our individual VIVO instances, and how our different use cases and user stories could help inform future directions for VIVO. We will encourage discussion about what others in the VIVO community or related research information management communities see as potentially important directions for design and development.
-EarthCollab is a National Science Foundation EarthCube grant-funded project which seeks to use VIVO to model and interlink information about GeoScience projects, data, and contributors. Feedback and evaluations from researchers and faculty on VIVO instances developed as part of this project were obtained through multiple methods, including an in-person one-day workshop, a survey, usability testing, a focus group, and task-oriented user sessions and interviews with scientific stakeholders. This set of feedback helped inform the design of the project’s two VIVO instances and shed light on some of the ontological needs for the project. We will provide a summary of approaches and results of our work to date.
-The German National Library of Science and Technology (TIB) has used multiple methods to research user needs in research information systems. We conducted a study about user behavior with regard to research information systems using semi-structured interviews with 30 scientists from both universities and non-university research institutions. Additionally, we conducted a survey, which included CRIS related questions, of 1,460 researchers about the information and publication behavior of researchers in science and technology. Furthermore, the TIB hosted the 2nd VIVO workshop with 40 participants from various German-speaking universities and institutions. Part of this workshop was devoted to having participants discuss and prioritize future work in VIVO development. The report from this workshop states that “Improved functionalities for research reporting are heavily desired here.” We will discuss the overall results from this in addition to other feedback and impressions we have received from institutions in Germany who are exploring the use of VIVO.
-The Scholars@Duke team holds quarterly (previously monthly) user group meetings where they engage with the Scholars and Elements user communities. Additionally, the team holds annual faculty focus group lunches to solicit faculty feedback, conducts usability testing with faculty and power users, engages in multiple meetings with faculty members and researchers one-on-one, and regularly demonstrates the Scholars application to researchers and faculty. The Scholars team also leverages user metrics from Google Analytics and Tableau to augment end user feedback to further inform our design decisions. As part of this panel, we will discuss the multiple approaches used to gather feedback and how this feedback, and user metrics, informed design or spurred development directions."
-  speakers: ["HudaKhan","EricaJohns","MatthewMayernik","DonStott","BenjaminGross","ChristianHauschke","LamontCannon"]
--
-  id: 120
-  title: "The SHACL Awakens: A funny thing happened on the way to implementing a metadata application profile in Vitro"
-  description: "Translation of an ontology into an application’s display and editing interactions requires going beyond what the ontology expresses to consider how information modeled ontologically will make sense to end-users. For instance, within the VIVO application, the interface has the ability to enable different display or editing interactions based on the context within which a given ontology property appears. VIVO and Vitro utilize several methods of application-level configuration to enable encoding these interaction-specific decisions separately from the ontology. Metadata application profiles are software-independent specifications for defining expectations for how the metadata or an ontology should be used in certain contexts. These application profiles encode information that parallels some of the aspects of Vitro or VIVO application-level configurations. In this presentation, we will discuss the process and the results of the work we did for converting metadata application profiles specified in the Shapes Constraint Language (SHACL) into the VitroLib prototype, which extends Vitro. We will discuss how the translations appear in the interface and the opportunities and challenges around using application level configurations in this manner.
-We developed the VitroLib prototype tool to explore how to enable library catalogers to create and edit linked data to describe library resources such as books and recorded music. This prototype development was part of the Mellon Foundation-funded Linked Data For Libraries Labs (LD4L-Labs) and Linked Data For Production (LD4P) projects, which explore aspects of transitioning library services to the use of linked open data. LD4L-Labs and LD4P participants, including music catalogers, used SHACL to define metadata application profiles for Audio works. The SHACL standard makes it possible to formally specify how ontology properties are expected to behave, and has uses for both validating data and for designing forms for entering data.
-In addition to discussing how we converted SHACL into VitroLib, we will also touch on custom form streamlining and how this work intersects with the SHACL translations. Using a software-independent method to specify form and user interface interactions has several benefits: (a) catalogers and metadata experts can specify their interaction expectations for Vitro-based tools such as VitroLib or VIVO without the expertise of a software expert, (b) communities who develop these interaction expectations can easily share them within and beyond the VIVO community, and (c) easing the translation process to application configuration can support further adoption of these profiles within the VIVO and Vitro communities. As VitroLib relies on Vitro in an analogous way to VIVO, the work we have done to customize and extend Vitro to fit cataloging needs in the bibliographic metadata domain has potentially direct implications or correlations with VIVO architectural needs and potential evolution."
-  speakers: ["HudaKhan","StevenFolsom","JasonKovari","DeanKrafft","SimeonWarner","MichelleFutornick"]
--
-  id: 123
-  title: "VIVO Community Development - Aligning Efforts"
-  description: "In the context of VIVO, “the value of making scholarly data open, found, and consumed” is predicated on a solid foundation of vibrant and sustainable core software, as well as a community aligned on strategic initiatives.
-This session will discuss specific ways that the community is evolving in order to be more inclusive, more effective, and more focused as we move towards a revitalized VIVO platform."
-  speakers: ["AndrewWoods","HudaKhan"]
--
-  id: 124
-  title: "VIVO Research Analytics Platform - global data meets local demands"
-  description: "The rising interest in advanced research analytics at university leadership level calls for innovative solutions to keep up with demand. The Technical University of Denmark has started the development of a VIVO-based Research Analytics Platform (VIVO RAP) and has recently released the first two modules of the service. VIVO RAP imports data from the Web of Science (WoS) and draws on the InCites API. It runs as an internal university service, but the software is available as open source on GitHub and may be used and adapted by anyone.
-The VIVO RAP – to be launched in April 2018 – initially features a university collaboration and a university publication module. Reports analyzing the university’s global collaboration support the university leadership in understanding the overall collaboration landscape and the nature and impact of the individual collaborations – at university as well as department levels. This may aid in identifying existing collaborations to be strengthened or new ones to be initiated – and thus ultimately strengthen the research.
-For all university affiliated publications, complete metadata is imported from WoS and converted to linked VIVO data with the necessary ontology extensions. While WoS features good control of organizational entities at the university level (Organization Enhanced), this is not the case at the university department or other sub-organizational levels. As precision at this level is essential for the VIVO RAP analytics, a mapping method was developed to automatically assign publications to the right department – a local “Department Enhanced”.
-The presentation will:
-• Review the motivation for the project, the “before” situation, the chosen architecture and its main components, the development and testing approaches
-• Demonstrate the resulting services of the version 1 release – with primary focus on the collaboration analytics module
-• Review the plans for the coming version 2 release, later this year
-• Review the WoS/InCites API, functionality, technical specs and mission in the Clarivate portfolio
-• Stipulate the plans for the coming years, including new modules and functionalities, new data sets and types, new development partnerships within the VIVO community."
-  speakers: ["ChristinaSteensboe","KarenHytteballeIbanez","MogensSandfaer","RobPritchett","BenjaminGross"]
--
-  id: 125
-  title: "An Open Architecture for Extensible Expertise Profiling and Discovery"
-  description: "As the VIVO community begins to explore the nature of its next generation of platform, it is  useful to consider a wide range of architectures and technologies. This is particularly true in the  area of research profiling, as there is a key need to expand the current model beyond the historical focus of grants and publications and include other forms of scholarly and professional works. This presentation focuses on moving beyond ‘research profiling,’ adopting a more inclusive notion of ‘expertise profiling and discovery.’ Expanding our notion of expertise also requires expanding our sources of data regarding that expertise, as well as how management of those data can be integrated into a unified user experience, while minimizing the effort necessary to maintain those data. The presentation will focus on the following three areas, with brief demonstrations of how each can be achieved.
-An ontology-derived core. As presented in my VIVO-2017 presentation, we have a running prototype of a VIVO-ISF-compliant platform synthesized from the OWL ontology and an exemplar triplestore (the OpenVIVO data dump). This Tomcat - Java Server Pages - JSP Tag Library stack completely encapsulates the core SPARQL interaction with the triplestore in generated code, allowing developers to concentrate on the user interface level.
-Dynamic blending of data from multiple sources. The OpenVIVO data include numerous DOIs referring to slide decks and posters deposited in FigShare. I’ll show how those DOIs can be readily recognized and used to dynamically embed the FigShare artifacts into the relevant presentation page, supporting both direct browsing and click-through to the FigShare site. This feature serves as an example of extending the user interface through direct connection at run-time with an external resource.
-Reformulation of external-derived data as optional modules. The primary target population for the Center for Data to Health (CD2H) is the informatics community within the Clinical and Translational Science Award (CTSA) consortium. This community is heavily invested in multiple shared software systems, many of which are open source. I will discuss our work in identification and modeling of relevant users, organizations and repositories in GitHub and how that data - through the use of a sameAs assertion between an OpenVIVO person URI and a GitHub login can be used to mesh GitHub metadata into our VIVO-ISF-compliant prototype, without modification of the core tag libraries. This feature serves as an example of modular composition of components at the user interface level.
-As one of the leads for the People, Expertise and Attribution Working Group within the newly-created NIN-NCATS Center for Data to Health (https://ctsa.ncats.nih.gov/cd2h/), I invite the VIVO community to engage with us in exploring how we can jointly take these concepts to fruition in the near future."
-  speakers: ["DavidEichmann"]
--
-  id: 126
-  title: "Growing a Community of Loyal and Excited Users: Actionable Techniques and Strategies to Promote, Grow, and Maintain an Engaging Community"
-  description: "Developing an immersive and identifiable visual brand is an essential component to growing a community of loyal and excited users. Fortunately, understanding the key ingredients to developing your visual brand has never been as straightforward thanks to an abundance of online resources and tools. In this session, we’ll dive into actionable techniques and strategies to promote, grow, and maintain an engaging community.
-• Better understand the significance of marketing in content
-• Recognize design trends that prioritize engagement and better align call to actions
-• Identify opportunities to streamline messaging and production processes
-• Examine visual and interactive signals to build trust in the experience and product"
-  speakers: ["MitchellMelkonian","JuliaTrimmer"]
--
-  id: 129
-  title: "Research Networking Data as Metrics: The Choice of Controls Matters"
-  description: "Several institutions are exploring new methods to evaluate the impact of pilot funding programs within their institutions. Common approaches include assessing the resulting number of publications and grant awards received by funded teams. The South Carolina Clinical and Translational Research Institute, a Clinical and Translational Science Award (CTSA) funded entity at the Medical University of South Carolina (MUSC), has awarded pilot funding to many investigators over the past several years. At MUSC, we have implemented the Harvard Profiles Research Networking Software (RNS). RNS data provide unique opportunities for clean, disambiguated bibliometric data that can be leveraged for network analysis, albeit limited to currently affiliated faculty at a single institution. Naturally, newly enrolled faculty will not have many intra-institutional collaborators, and this number grows during the faculty’s tenure at the institution. Moreover, publications that acknowledge the CTSA resulting from pilot funding constitute a small fraction of the total RNS publications. Here we explore various methods for overcoming these limitations.
-One of the metrics we are examining is team formation as impacted by pilot funding. We are using the number of unique co-authors on publications or degree centrality as a proxy measure for increased team science. Given the above-mentioned limitations, in order to compare pilot funded individuals with their peers, several variables have to be considered to level the playing field between the two groups. We examined several variables to assess their correlation with degree centrality, including the time in years since the individual’s first publication at MUSC, the number of total publications for an individual, and the number of publications for an individual since arrival at MUSC. We also examined the interaction between pilot funding and these variables using multi-variate linear regression.
-The correlation coefficients were all positive for: time in years since first MUSC publication (0.71), number of total publications (0.13), and number of publications since arrival at MUSC (0.38), with p-values <0.0001 for all the models. However, the adjusted r-squared values were 0.19, 0.29 and 0.56 respectively, revealing best fit for the regression model between degree centrality and the number of publications for an individual since arrival at MUSC when using RNS data. Adding the binary variable of whether an individual was pilot funded (n=75) or not, also had a significant positive impact on degree centrality, p-value=0.003.
-Given the limitations of using RNS data from a single institution, we believe controlling for the right variables will overcome some of the limitations. Therefore, network analysis using RNS data may yield meaningful insights in assessing the impact of funding on collaborative work. Future work involves looking at the impact of other variables on the analysis, such as faculty rank, and trend over time. We also intend to examine inter-departmental publications as a proxy for interdisciplinarity."
-  speakers: ["JihadObeid","DayanRanwala","TamiCrawford","PerryHalushka"]
--
-  id: 130
-  title: "VIVO and the Center for Data to Health (CD2H)"
-  description: "Formed in late 2017 by a grant from the NIH National Center for Advancing Translational Sciences (NCATS), the National Center for Data to Health (CD2H) is charged with supporting a vibrant and evolving collaborative informatics ecosystem for the Clinical and Translational Science Awards (CTSA) Program and beyond. The CD2H harnesses and expands an ecosystem for translational scientists to discover and share their software, data, and other research resources within the CTSA Program network. The CD2H also creates a social coding environment for translational science institutions, leveraging the community-driven DREAM challenges as a mechanism to stimulate innovation. Collaborative innovation also serves as a strong foundation to support mechanisms to facilitate training, engagement, scholarly dissemination, and impact in translational science.
-Both VIVO and the CD2H share a common heritage in large, multi-site, collaborative community-driven activities. Indeed, community engagement across a diverse array of professionals is at the core of both groups. The planned work by CD2H in expertise modeling will generate natural extensions to the existing VIVO-ISF ontologies, and will demonstrate the value of a modular approach to ontologies in representing the many contributions and activities in scholarship. We are particularly interested in the collaborative development of new frameworks that can mutually benefit both communities, and will support open workgroups in the areas described below."
-  speakers: ["DavidEichmann","KristiHolmes","MelissaHaendel"]
--
-  id: 131
-  title: "Functional requirements for an updated user interface"
-  description: "Under the umbrella of the “Product Evolution Task Force,” a group of implementation sites has committed to creating a new and appealing user interface for VIVO.
-A number of members on this task force have championed a deliberative approach, one that is driven by use cases and the real-world needs of institutions. The question of what the VIVO user interface should look like and how it should function is being tackled by the Functional Requirements subgroup. Our process was as follows:
-- Identify a “Hierarchy of Needs” as well as a canonical set of widely-invoked use cases
-- Identify a set of usability heuristics for assessing user interfaces
-- Collect existing approaches
-- Use usability heuristics to assess solutions already in production at VIVO, Profiles RNS, and other sites
-- Provide guidance to the User Interface development subgroup
-For this presentation, we will present some feedback on existing sites as well as some mockups of an updated user interface for VIVO."
-  speakers: ["PaulAlbert","MichaelBales"]
--
-  id: 133
-  title: "ORNG is Not Dead"
-  description: "UCSF continues to expand Profiles functionality with custom-made features requested by university stakeholders. Our latest ORNG enabled extensions include:
-Student Projects
-Clinical Trials
-Mentee Career Paths
-The Clinical Trials extension is of particular importance, as it is one of the primary features behind the UC Wide Profiles that will include all UC schools with biomedical campuses (UCSF, UCSD, UCLA, UC Irvine and UC Davis). With this extension, researchers will be able to find collaborators with relevant experience to participate in cross-institutional trials. The participating UC's have received an administrative supplemental grant to build this functionality, of which ORNG has been a key enabler."
-  speakers: ["BrianTurner","EricMeeks"]
--
-  id: 134
-  title: "Researcher Profiles for UC Health and Beyond"
-  description: "The five University of California CTSAs received a grant to implement UC Health-wide Profiles and Clinical Trials Sites. UCSF is building this system and plans to be in production within a few weeks. The system is a single platform housing all the researcher in a common data store, while supporting institutional level branding not only for look and feel but for URL as well. We feel that this is important as researchers at, for example, UCSD, will be more compelled to trust and support a site with a ucsd.edu domain than one that is owned by ucsf. Numerous challenges have been encountered in producing this system, not limited to:
-1) Getting buy in and support from the key individuals as well as 'worker bees' at the various institutions.
-2) Finding a business model that will allow us to continue to run this system after the grant completes.
-3) Finding compelling use cases that justify having a large single system versus independent sites.
-4) Very many technical and operational challenges due to scale, branding, and overall complexity."
-  speakers: ["BrianTurner","EricMeeks"]
--
-  id: 221
-  title: "Research Graph VIVO Cloud Pilot"
-  description: " This poster will report the process, findings, and next steps of the Research Graph VIVO Cloud Pilot, a collaboration between DuraSpace and Research Graph.
-Many VIVO implementers find collecting, mapping, and loading data into VIVO to be quite difficult. For example, data on publications, grants, and datasets produced by an institution’s faculty can be difficult to find and disambiguate. Understanding the ontologies used to describe data in VIVO and mapping faculty data to those ontologies involves a steep learning curve. Also, transforming the data to a linked data format, such as VIVO RDF, has proven difficult for most implementers due to gaps in skills and knowledge. These barriers have prevented organizations from joining the VIVO community and adopting the technology that enables access, discovery, and analysis of scholarship data.
-Research Graph is an integrated network of information about researchers, their publications, grants, and datasets, across global research infrastructures such as ORCID, DataCite, CERN, CrossRef, and funders such as National Institutes of Health (NIH). For example, when provided “seed data,” such as a simple list of researchers, Research Graph will identify publications, grants, and/or datasets related to those researchers and represent the information in a graph. These are referred to as “first order” connections. Research Graph is also capable of identifying and linking collaborators of the people in the “first order” data and linking their publications, grants and datasets. These collaborator links are referred to as “second order” connections.
-A recent collaboration between VIVO and Research Graph developed a repeatable process for using seed data to build first and second order graphs, and to export, transform, and load those graphs in VIVO RDF format to a hosted VIVO instance. We believe 1) Repositories and Research Institutes, 2) Semantic Web Sites of government and research organizations, and 3) Current VIVO Sites that wish to enrich and augment their data can benefit from the collaboration between VIVO and Research Graph. The Cloud Pilot will have participants representing these three types of organizations.
-The project will determine the value and potential of a long-term collaboration between VIVO and Research Graph in the form of new services that could reduce barriers for organizations that want to find, disambiguate, transform, and map research data."
-  speakers: ["HeatherGreerKlein"]
--
-  id: 222
-  title: "In Search of the Golden Query: Using Dimensions Data in VIVO"
-  description: "Gathering data for a VIVO implementation is known to be a chore -- publications, grants, and datasets can be difficult to identify and disambiguate. For VIVO sites, the “golden query” is easily stated: “Find all the works of my institution for time period x.” If sites were able to execute the golden query, they could get all the works of their people on a timely basis. Combining these works with local data such as positions, courses taught, photos, overviews, and contact information would lead to a fully populated VIVO with minimal effort. For years, VIVO sites have been harvesting data from a wide variety of sources in search of the golden query. Dimensions is a new licensed product of Digital Science, that organizes and presents information on scholarly works. Dimensions contains information on people, publications, grants, clinical trials, and data sets. Dimensions has an API that can be used to gather and return data using the Dimensions Search Language (DSL). Using DSL, queries can be written to find the works of scholars at institutions in specified time periods. In this poster, we demonstrate the use of DSL queries from Python which are then transformed to VIVO RDF. The software can be found at https://github.com/mconlon17/vivo-dimensions Has the golden query been found? Stop by our poster to find out."
-  speakers: ["MichaelConlon","SimonPorter"]
--
-  id: 216
-  title: "Information security challenges in VIVO - adapting the BSI IT security catalog standards"
-  description: "According to the Global Application and Network Security Report 2007-2018, cyber attacks spiked by 40 percent in the year 2017 and half of the surveyed companies reported financially motivated cyber attacks on them. Concerning information security, BSI - the German federal institute for information security developed an advisory catalog for IT security in Germany. The catalog highlights the necessary policies and strategies for IT infrastructures to adopt in order to meet the requirements of the modern day world information security and standardization. A study of the catalog revealed that VIVO lacks implementation of some of the key security features like a) browser session expiration b) secure and salted password hashing and c) exclusive labeling of external URLs and adding tooltips to forms, fields, and buttons. Furthermore, there are some suggestions that institutions who use VIVO or plan to use it, should take into consideration. This poster/presentation focuses on the security-related technical challenges and their possible solutions the TIB Hannover needs to implement in VIVO to meet the standards of the BSI IT security catalog."
-  speakers: ["MartinBarber","QaziAsimIjazAhmad","ChristianHauschke"]
--
-  id: 235
-  title: "Understanding Duke Research Based on Large-Scale Faculty Publication Records"
-  description: "Collaboration is essential at all stages of the scientific process at Duke. However, at such a large, diverse university, finding collaborators and analyzing past collaborations can be a cumbersome process. This project seeks to ease these challenges. We expand upon current visualizations on the Scholars@Duke website and provide new data visualizations for greater insight into collaboration. Primarily, this includes analysis of scholars based on similarity in the topics of past publications, determined from titles and keywords associated with each publication."
-  speakers: ["EskoBrummel","JohnBehart"]
--
-  id: 300
-  title: "Unconference"
-  description: "Sign up link and more info at http://vivoconference.org/news/unconference"
-  speakers: [""]
--
-  id: 301
-  title: "Unconference: OpenHarvester"
-  description: "In addition to the APIs of large abstract and indexing sources, there are a number of open APIs available to search, harvest and download citation metadata. Few of these citation APIs are CrossRef, PubMed and DBLP APIs. 
-I will discuss OpenHarvester - an interactive tool that process result sets, harvested using CrossRef, DBLP and PubMed APIs, and uses a simple algorithm that refines the result set using a recursive approach. In future, other APIs such as Scopus, Web of Science and Dimensions APIs, may also be included. This is a preliminary work. The prototype works in two (separate) steps i.e., first, downloading potential publications for a person from a database and second, processing the result set and claiming the precise publications. Claimed publications can then be saved in RDF (or CSV) and pushed to a VIVO instance. 
-Cornell is interested in collaboration and partnership with people and organizations that share the similar interests. In addition, we would like to collaborate with the teams of existing products, such as ReCiter from Weill Cornell and Harvard API to find People and Publication etc."
-  speakers: ["MuhammadJaved"]
--
-  id: 302
-  title: "Unconference: Author Disambiguation"
-  description: "We would like to provide an update on our project, ReCiter.
-We would also like to hear from others about what features or functionalities would be interesting to you."
-  speakers: ["PaulAlbert","SarbajitDutta"]
--
-  id: 303
-  title: "Unconference: VIVO Vagrant - next steps"
-  description: "We have a virtual machine for prototyping VIVO.
-What works and doesn’t work? What are the next steps for maintaining this in the vivo-community repository."
-  speakers: ["DonElsborg"]
--
-  id: 304
-  title: "Unconference: Linking VIVOs"
-  description: "A lot of work has been done by VIVO developers over the last several years on linking people on seperate VIVO instances.  
-What went right? What went wrong? What can we do to move this forward? Are there solutions already out there we can bring in and use?"
-  speakers: ["RalphOFlinn"]
--
-  id: 305
-  title: "Unconference: Assessment of Vitro Data Loading"
-  description: "“Rialto” is (will be…) a scholarship & research output and impact data aggregator and dashboard for the campus to use.
-As part of our assessment of what kind of back-end to use, we are in the process of doing a number of load tests, exploring and testing the various ways to get data into Vitro.
-https://github.com/sul-dlss/rialto/wiki/Performance-Assssment
-Discussion about data loading techniques people use; what works well, and what works not-so-well."
-  speakers: ["JoshGreben"]
--
-  id: 801
-  title: "Opening Session and Weber Keynote"
+  id: 13
+  title: "Invited Speaker:  Anastasia Dimou"
   description: ""
-  place: "Ballroom ABC"
-  speakers: ["GriffinWeber"]
+  speakers: ["AnastasiaDimou"]
+  place: "Crystal Ball"
 -
-  id: 802
-  title: "Fransen Keynote and Unconference Kickoff"
+  id: 14
+  title: "Results of VIVO Community Feedback Survey"
+  description: "In early 2018, the VIVO Leadership group brought together parties from across the broader VIVO community to Duke University to discuss critical aspects of VIVO as both a product and a community.  At the meeting, a number of working groups were created to do deeper work on a set of focus areas to help inform the VIVO leadership in taking steps toward the future growth of VIVO.  One group was tasked with understanding the current perception of VIVO's governance and structure from effectiveness, to openness and inclusivity, to make recommendations to the VIVO Leadership group concerning key strengths to preserve and challenges that needed to be addressed.
+
+This session will report on the results of a survey run by the Governance and Structure Working Group in late 2018.  We will engage with the audience to get reactions to the results, ensure that interpretations make sense to the wider group and discuss the next stages in finalising publication of the overall report of the committee."
+  speakers: ["MichaelConlon", "KristiHolmes", "DanielWHook", "DeanBKrafft", "MarkPNewton", "JuliaTrimmer"]
+-
+  id: 15
+  title: "Converis as a VIVO data source: Improvements and directions"
+  description: "Converis supports comprehensive tracking and support across the entire research lifecycle, including grant, award, and publication management. Built-in integrations with the Web of Science and InCites make it easy to manage your organization’s research activity. Converis is a powerful upstream tool to manage a confluence of data for a VIVO site. In this presentation, we will present improvements made to the Converis application in Converis 6, as well as improvements in the works. We will also discuss enhancements to the Converis to VIVO connector that allows VIVO to be automatically fed by an upstream Converis data source."
+  speakers: ["MiguelGarcia", "BenjaminGross"]
+-
+  id: 16
+  title: "Engaging Faculty in Scholars@Duke"
+  description: "Your VIVO needs updated information.
+* Updated data means more traffic: visits and pageviews.
+* More traffic encourages faculty to update their information. 
+Does this sound familiar?
+
+If you’re wondering how to build up this positive feedback loop for your institution’s VIVO, join us to review Duke University’s best practices for creating a “buzz” around Scholars@Duke. We’ll talk about:
+* Crafting effective messages
+* Choosing the right communications channels
+* Hosting events that attract faculty
+* Boosting SEO (or trying to)
+* Learning from users and measuring success
+
+And we'll give updates on our plans to launch a redesigned site, create a video series to build awareness, and improve strategic planning through analytics."
+  speakers: ["JuliaTrimmer", "HansHarlacher", "LamontCannon"]
+-
+  id: 17
+  title: "DTU RAP - University analytics based on VIVO and Web of Science data"
+  description: "At the Technical University of Denmark VIVO is used as an internal research analytics platform providing the university’s researchers and research managers with easy-to-use analytical views on research output, impact, collaboration, etc. VIVO – combined with a good data source – provides a platform for high-quality, high-specificity and high-integrity analytics under the university’s own control. 
+
+In the latest release, Web of Science data is supplemented with advanced indicators from InCites, and the triple store with a relational database management system and an elaborate caching system to achieve attractive response times. The WoS data is enhanced by local mapping/normalization of research department names, enabling department-level analytics.
+
+The DTU RAP is developed in collaboration between the university, the IT-consultants Vox Novitas and Ontocale and Clarivate Analytics, producer of WoS and InCites. All software is available as open source for anyone with similar needs and similar access to data."
+  speakers: ["ChristinaSteensboe", "KarenHytteballeIbanez", "MogensSandfaer", "FranckFalcoz", "BrianLowe", "BenjaminGross"]
+-
+  id: 18
+  title: "Scholars@TAMU"
+  description: "Texas A&M University Libraries has been using VIVO in production since 2015.  In that time, we have come up with many creative solutions to meet the needs of our users.  In early 2019, we began developing a replacement front end for the VIVO interface to formally address campus demands here at Texas A&M University.  
+Initial requirements:    
+*	Align the technology stack as much as possible with the existing VIVO stack to assist with implementation by others if they choose especially smaller libraries. 
+*	The majority of the front end is customizable by others.
+*	Read only UI.  No updating back to the triple store.  
+*	All data is retrieved via a REST API endpoint using Spring Data for Apache Solr.
+*	100% Search Engine Optimization.  IE:  A person / crawler can disable JavaScript and still have the same experience.  Server side, and Client side rendering if needed. 
+
+A demo of current work can be found here.
+https://demos.library.tamu.edu/scholars-ui/"
+  speakers: ["WilliamSWelling", "DongJoonLee", "DouglasHahn", "JasonSavell", "KevinADay", "EthelMejia", "BruceEHerbert"]
+-
+  id: 19
+  title: "Making VIVO vivid - Embedding social media content in VIVO@UOS"
+  description: "VIVO at Osnabrück University is used to present scholarly activity especially third-party funded research projects to the interested public to improve transparency in research funding. In the early stage of development, the VIVO content was limited to research project key facts (e.g. abstract, related/selected publications, external project links, keywords) mainly extracted from the operational finance systems that is not intended to be used for presentation purposes. As VIVO strengths lay in searching, browsing and visualizing scholar activity for the wider public, the searchable content should not be limited to complex academic language as it is used in project abstracts or publications, a nonacademic person would not search for.
+
+Science goes Public - For more than 10 years the event series “Osnabrück Knowledge Forum” tries to make research more accessible. Every year, public is called upon to challenge Osnabrück University Professors by sending questions about any kinds of science topics to be answered within 4 minutes lightning talks in a precise, clear and entertaining way in front of the interested public. This »evening of knowledge» and its findings are showcased in a variety of media such as film sequences on YouTube or as an image brochure for University guests (PDF). All these formats do not connect content to researchers as VIVO connects researchers, projects or organizations with each other. 
+
+In this presentation, we will show how social media content could be used to enrich research projects, researcher profils and research topics to make VIVO (even more) vivid!"
+  speakers: ["SonjaSchulze", "DominikFeldschnieders", "KathrinSchnieders", "ManuelSchwarz", "MarcoSeegers"]
+-
+  id: 20
+  title: "What Do Faculty Think About Researcher Profiles, Metrics, and Fair Research Assessment? A Case Study from a Research University in the Southeastern United States"
+  description: "How to best disseminate one’s research and get credit for one’s work? How to best and fairly assess the quality and impact of a given individual, group, or institution’s research? These are questions with which many are struggling, from individual researchers to departments, to a global world of research institutions. Recently, the Faculty Senate and University Libraries surveyed the faculty of our large, public research university to explore their perspective on these questions and more. In this presentation we present a summary of results from 501 respondents (out of 4451 faculty in total) representing different types of faculty (both within and outside of tenured and tenure-track positions), at different ranks, and from different disciplines. Results shared will indicate trends within the faculty on topics such as, the current most commonly used profile systems (top 5: Google Scholar, ORCID ID, LinkedIn, Elements (internal system), and ResearchGate); which profile systems are used most for: networking and connecting with colleagues (top 3: LinkedIn, Twitter, and ResearchGate), tracking research impact metrics (top 3: Google Scholar, ORCID, Elements (internal system)), showcasing one’s work to increase visibility (top 3:Google Scholar, ResearchGate, self-published sites); what types of research metrics are relied on (top 3: journal reputation (separate from impact factor), number of publications, and citation counts to individual works); the perceived fairness of evaluation by level of review (e.g., department, college, and university levels) and how they differ; and summaries of qualitative responses to questions such as why faculty rely on certain profile systems or research metrics, and perspectives on how fair research evaluation could be accomplished, within or across disciplines. Results will be summarized at the institutional level with breakout analysis of results from some disciplinary fields or other subsets.
+
+For us, these results from faculty across a range of disciplines will help inform institutional policy and practice discussions about research tracking and evaluation, such as a responsible research assessment policy. Results will also inform our in-process implementation of an institutional researcher profiles systems, and training offerings on disseminating research and assessing its impact. As movements such as DORA (Declaration on Research Assessment) and the Leiden Manifesto for Research Metrics demonstrate, faculty, institutions, and funders are re-examining the way metrics are used and methods for demonstrating impact. This presentation on a university-wide survey that includes summary data and the survey questions used offers an example that could be adapted and repeated elsewhere to gauge current practices and faculty perspectives on how to change or move forward with research assessment across a range of disciplines and levels within a large, research institution."
+  speakers: ["RachelAMiles", "AmandaMacDonald", "NathanielDPorter", "VirginiaPannabecker","JimAKuypers"]
+-
+  id: 21
+  title: "Second Day Opening Address"
   description: ""
-  place: "Ballroom ABC"
-  speakers: ["JanFransen"]
+  place: "Crystal Ball A"
+  speakers: []  
 -
-  id: 803
-  title: "Kibbe Keynote and Unconference Kickoff"
-  description: ""
-  place: "Ballroom ABC"
-  speakers: ["WarrenKibbe"]
+  id: 22
+  title: "Enabling a Socially-Aware Scholarly Ecosystem"
+  description: "What are some of the sociotechnical constraints and the
+effects of contemporary scholarly communication? How can we appropriate
+the Open Web Platform to facilitate an actor-centric scholarly
+ecosystem? In this talk, we discuss designing decentralised and
+socially-aware systems as well as their effects and artifacts."
+  speakers: ["SarvenCapadisli"]
 -
-  id: 804
-  title: "Welcome Reception"
-  place: "Meeting Room B"
+  id: 23
+  title: "Using Campus Needs Involving Tenure & Promotion, Interdisciplinary Collaborations, and Institutional Research to Drive the Evolution of VIVO at Texas A&M University."
+  description: "Texas A&M has strategic initiatives focused on academic reputation and interdisciplinary research.  The Scholars@TAMU team used campus needs associated with these initiatives to drive the evolution of the Texas A&M implementation of VIVO and associated library services.  Our focus on meeting campus needs has led to strong faculty engagement with Scholars@TAMU as well as Provost and Dean buy-in for our programs.  We discuss the strategic framework that guided Scholars@TAMU development and implementation.  This framework may help provide a roadmap for future VIVO development as well as VIVO implementations at diverse universities."
+  speakers: ["BruceEHerbert", "DongJoonLee", "DouglasHahn", "EthelMejia"]
+-
+  id: 24
+  title: "National Open Science Analytics in VIVO"
+  description: "The OPERA project (Open Research Analytics) is developing a pilot VIVO with data for all 8 Danish universities. The key data come from the Dimensions database, but data from the Danish national bibliometric and open access indicators are also integrated. This pilot VIVO will facilitate national research analytics including its dimensions of openness – using open concepts, open software and data that are as open as possible. 
+
+This joint experimental platform will be used to explore aspects such as: publication output and impact, Open Science efforts, funding patterns, subject fields, gender patterns and both established and potential collaboration patterns within and outside Denmark as well as with partners in industry. Network analyses and visualizations will be integrated in the VIVO platform to complement more traditional analytics and visual elements and to support new ways of perceiving numbers, patterns and potentials. 
+
+The Dimensions VIVO is a collaboration between Danish universities, the IT consultants Vox Novitas and Ontocale and Digital Science, the producer of Dimensions."
+  speakers: ["KarenHIbanez", "ChristinaSteensboe", "NikolineDLauridsen", "FranckFalcoz", "BrianLowe", "MarianneGauffriau", "AdrianPrice", "AnneLHøj", "KirstenKKruuse", "SimonPorter"]
+-
+  id: 25
+  title: "Smithsonian Profiles: Experiences and Challenges of Implementing VIVO in a Non-University Setting"
+  description: "The Smithsonian Institution began planning a VIVO implementation in 2015 and in August 2018, launched Smithsonian Profiles to the public. The Smithsonian is a research institution that comprises a network of 19 museums, 8 research centers, and the National Zoo. In addition to public programs and exhibits, staff conduct research in a wide range of domains, with over 700 scholars and their sponsored fellows authoring over 2500 publications every year. For over 10 years, the Smithsonian Libraries has been collecting and managing these publications using a home-grown system called Smithsonian Research Online, which now feeds into Smithsonian Profiles. This presentation will discuss Smithsonian Profiles and its role at the Smithsonian Institution, and will touch on the data systems it interacts with both internally and externally. There will also be a focus on the challenges presented by implementing VIVO in a non-university setting, including policy and accessibility considerations, and issues with defining identifying eligible from a pool of hundreds."
+  speakers: ["KristinaHeinricy", "AlvinHutchinson", "SuzannePilsk"]
+-
+  id: 26
+  title: "Curated Data Visualization and Reporting from VIVO"
+  description: "VIVO by default offers some data visualizations, which might be limited or lacking user needs in the scope of analytics and reporting. Often institutes using VIVO has to rely on manual information gathering for basic analytics and reporting despite the required information being present in their VIVO instance. The inclusion of Elasticsearch driver, for indexing, in VIVO enables institutions to directly use the data from VIVO for custom applications. The open-source tool Kibana, which is a plugin for Elasticsearch, is a platform for building curated visualizations and dashboards on the data in Elasticsearch indexes. This presentation highlights how custom fields from VIVO could be indexed in Elasticsearch and how interactive dashboards could be created in Kibana for data analytics and reporting purposes. Furthermore, the possibility of including curated dashboards from Kibana into VIVO would also be discussed."
+  speakers: ["QaziAsimIjazAhmad", "GrahamTriggs", "ChristianHauschke"]
+-
+  id: 27
+  title: "SIGMA CRIS, an implementation of VIVO in Spain"
+  description: "The growing complexity of the digital research environments and specially with the advance  of the OpenScience that includes not only the OpenAccess, but OpenData, and the need to make the data FAIR, has highlighted the importance of evolving the way we search and visualize the research results with powerful tools. In this way, when the scientific information is correctly stored in the CRIS, it must also be easy to search and find, and must guide the discovery of the information.
+
+This is one of the goals of the SIGMA Strategic Plan for the Research area that, since the beginning of 2018, is working to improve the search tools and results for the scientific production of the researchers of an institution.
+
+This project began by evaluating the best ontology to translate the current data model for SIGMA CRIS, to a semantic model. To do this, we analyzed some of the semantic engines that exist and finally we decided to test the VIVO solution. 
+
+We found that VIVO ontology fits more than 80% with the Spanish model for Research and took into account that VIVO is an OpenSource software supported by members and an ontology to represent the scholarship that is used by relevant universities, highly positioned in the international rankings and, finally, we also value the large community of members behind VIVO and Duraspace.
+
+For these reasons, SIGMA decided to join the DuraSpace community at the beginning of 2018, participating in the governance of the VIVO project. During this time SIGMA has collaborated with VIVO to define the 2019 Roadmap of the product, having now a calendar of sprints scheduled to carry out what was agreed in the Product direction. This calendar it’s aligned by the SIGMA side with its strategic plan.
+
+So, we have now an adapted SIGMA ontology based on the VIVO ontology and some tools that we will show in this presentation as examples of the VIVO ontology and tools, adapted to the Spanish science model."
+  speakers: ["AnnaGuillaumet"]
+-
+  id: 28
+  title: "A new (editing) frontend for VIVO"
+  description: "A couple of years ago at Brown University we wrote a new frontend for the public interface of our VIVO installation. This new frontend provided a modern look and feel for searching and displaying information on Researchers at Brown[1] and was well received by researchers and the public in general. This year we are focusing on adding an editing interface to this application to allow researchers to easily add or update the information on their VIVO profile including publications, research statements, collaborators, appointments, and so on. 
+
+In this presentation we'll show the general architecture of our VIVO installation, including the different services and applications that interact with it, we'll discuss the challenges during the development of the new editing features, and some of the gains that our approach has given us.
+
+The new editing interface is built on top of the Ruby on Rails application that we built for the public interface a couple of years ago. This application interacts with a typical REST API service that communicates with VIVO to submit the changes to the triplestore. 
+
+One of the lessons that we've learned during our years using VIVO has been that we can preserve Linked Data in the backend (as VIVO natively does) while at the same time provide traditional REST API endpoints to allow other applications, written in a variety of programming languages, to consume and in this case update the information. This approach has the advantage that we can run sophisticated SPARQL queries against the triplestore (for example to generate networks graphs of collaborators to power visualizations) while at the same time isolate client applications written in Python and Ruby from the triplestore and RDF complexities, and instead, expose the data to those applications in ways that they can easily consume, for example via a REST API passing JSON back and forth.
+
+[1] https://vivo.brown.edu/"
+  speakers: ["HectorCorrea", "StevenMcCauley"]
+-
+  id: 29
+  title: "Semantic Cross-Site Search for VIVO"
+  description: "For more than a decade, VIVO sites have been creating semantic data regarding scholarship that could be used to change how scholarly work is found and how expertise is assessed and compared.  
+Previous work has attempted to centrally collect and normalize semantic data for search purposes.  Other effort has used federated search across sites to provide simple access to profiles. Can we now consider how best to create a semantic cross-site search capability?
+
+Panelists will discuss the following questions:
+
+What is semantic search and how might it differ from other search paradigms?
+Should the approach be centralized, in which semantic data is brought together to a single provider of search functionality, decentralized in which data remains at rest and search functionality is localized, or should other approaches be considered?
+What are the roles for ontology, data and software provisioning in semantic search?
+How might technologies such as TPF, GraphQL, Schema.org, Solid, and others be leveraged?
+What is needed to create a semantic cross-site search capability for VIVO?"
+  speakers: ["MichaelConlon", "RubenVerborgh", "HerbertVanDeSompel", "SarvenCapadisli", "VioletaIlik"]
+  place: "Crystal Ball A"
+-
+  id: 30
+  title: "VIVO Core Technology: the Year in Review, the Year Ahead"
+  description: "The diversity, energy and innovation in the VIVO community is inspirational. Community initiatives are strong, as are contributions back to the core application. One of the VIVO project's primary objectives is to channel, where appropriate, community effort into the core application towards agreed upon outcomes. We are delighted to say that this has been happening!
+
+This presentation will not attempt to detail all of the technical efforts over the past year, but will highlight a range of advancements and milestones accomplished since the previous VIVO conference. In the context of reviewing the year’s activity, this session is also intended to solicit feedback from attendees on technical and community initiatives and processes. 
+
+At the end of 2018, the VIVO Leadership Group collected input from the community and created a \"Statement of VIVO's Product Direction for 2019\". This statement details four strategic initiatives:
+* Modernize the presentation layer of VIVO 
+* Decouple the architecture 
+* VIVO Combine
+* VIVO Search
+
+Following the publication of this statement, an architecturally-minded team representing distinct VIVO stakeholder constituencies was gathered for the purpose of developing architectural approaches required to address the direction of the project. The primary goal of the two-day face-to-face meeting was to assess and document a plan for improving the VIVO application architecture towards enabling and realizing the technical efforts defined in the \"Statement of VIVO's Product Direction for 2019\". 
+
+This presentation will include a detailed status of the completed as well as planned development activities following from the decisions of the architectural meeting."
+  speakers: ["AndrewWoods", "BrianLowe", "BenjaminGross"]
+-
+  id: 31
+  title: "Our Scholarly Work: How To Maintain Shared Records"
+  description: "Duke University's VIVO-based implementation, Scholars@Duke, has become an essential tool for the maintenance and dissemination of scholarly work within our institution.  In addition to VIVO, Scholars@Duke includes user-friendly editing options that make it easy for collaborators to co-maintain a single scholarly public record.  Before any records are sent to VIVO, our in-house editor, Profile Manager, along with Symplectic Elements, work together to create workflows that manage the rights and display preferences of multiple collaborators on a single record.   
+
+In this presentation, I'll go through some of the solutions we've implemented regarding attribution, individual privacy concerns, conflicts in display preferences, and representing a project over time.  I'll give examples from publication, artistic work, course, grant, and advisee records.  I'll also give suggestions for weighing the benefits of shared records against its complexities."
+  speakers: ["DamarisMurry"]
+-
+  id: 32
+  title: "UI Statecharts: Community Collaboration to Define Robust User Interfaces"
+  description: "The VIVO community has long promoted the value of modeling the domain of scholarship in a form that is independent of a particular software implementation.  The VIVO ontology is the product of a collaborative effort to define a shared understanding of the semantics behind the complex graphs of scholarly activity that different research networking systems might choose to process internally in different ways.  As research networking software projects such as VIVO begin to develop the next generation of decoupled, dynamic and responsive user interfaces, there is an opportunity to consider a similar kind of collaborative modeling approach to define robust UIs whose behavior can be reasoned about and tested separately from a concrete software implementation.
+
+Statecharts were first described by David Harel in 1987 as an extension of finite state machines and state diagrams[1], but have recently gained traction in the web UI development community[2].  With UI statecharts, the representation of the features, behavior, and possible effects of different UI interactions is decoupled from the code that actually implements the behavior.  This can lead to a number of potential benefits, such as validating that software properly implements community requirements, opening up aspects of development to contributors who may not be experts in particular web UI frameworks, and automatically generating more robust, testable and bug-free code. In this presentation we will examine the principles of UI statecharts and consider their application to community development of research networking software.
+
+REFERENCES 
+[1] Harel, David. Statecharts: A Visual Formalism For Complex Systems. (1987). Science of Computer Programming, 8(3), 231-274. DOI: 10.1016/0167-6423(87)90035-9.
+[2] „Welcome to the world of statecharts.” https://statecharts.github.io/ . Retrieved 29 April 2019."
+  speakers: ["AndreiTudor"]
+-
+  id: 33
+  title: "A Framework for Researcher Engagement in RIMSs and its Operationalization in a VIVO-based System"
+  description: "Research information management systems (RIMSs) use different approaches to collecting and curating research identity information: manual curation by information professionals or users, automated data mining and curation scripts (aka bots); and some combination of the above. Assuring the quality of information is one of the critical ethical issues of information systems. Although data curation by professionals usually produces the highest quality results, it is costly and may not be scalable. RIMSs may not have enough resources to control the quality of large-scale information often batch harvested and aggregated from the Web and various databases of different scope and coverage. RIMSs are in great need of researchers to contribute and curate their research identity data. 
+
+This presentation reports the findings of a collaborative study about researcher participation in RIMSs. The presenters of this study developed a theoretical framework for researcher participation in RIMSs (Stvilia, Wu, & Lee, 2019). The framework is grounded in empirical research and can guide the design of RIMSs by defining typologies of researcher activities in RIMSs, related motivations, levels of participation, and metadata profiles. RIMS managers and scholarly communications librarians can use the framework to assemble RIMS service and metadata profiles that are tailored to the researcher’s context. Likewise, the framework can guide the construction of communication messages personalized to the researcher’s priorities and her or his motivations for engaging in a specific activity, which will enhance the researcher’s engagement with the RIMS. In addition, this presentation discusses how the framework can be operationalized in practice using the case of Scholars@TAMU, a VIVO-based RIMS at Texas A&M University.
+
+Reference
+Stvilia, B., Wu, S., & Lee, D. J. (2019). A framework for researcher participation in research information management systems. The Journal of Academic Librarianship. 45(3), 195-202. doi:10.1016/j.acalib.2019.02.014"
+  speakers: ["DongJoonLee", "BesikiStvilia", "ShuhengWu"]
+-
+  id: 34
+  title: "Internationalization: a major driver of growth for VIVO"
+  description: "We see the first VIVO conference to be held in Europe as a very positive sign of the worldwide attention the VIVO platform has attained. In this regard, we strongly believe a complete VIVO internationalization (i18n) is critical to reach a major adoption at an international level. We are certain it is a major driver of growth for VIVO, as many institutions need to have support for languages other than English. The VIVO i18n internationalization task force has established the roadmap to achieve this goal. However, a critical mass of stakeholders is essential for it to become a development priority.
+This presentation is meant as an exchange to gather the community and create a synergistic involvement in the internationalization of the VIVO platform."
+  speakers: ["RachidBelkouch", "PierreRoberge"]
+-
+  id: 35
+  title: "VIVO/Vitro as a platform for joint curation of a cultural heritage encyclopedia"
+  description: "The EU funded COURAGE project collected the methods and memories for cultural opposition in the socialist era (cc. 1950-1990), and built a registry for preserving data about culture as a form of opposition. The outcomes of the project include learning material, online exhibition, a public browseable interface and an open SPARQL endpoint. The heart of the software environment is a Vitro instance, which provides easily re-usable and connected data for the specific extensions implementing the virtual exhibition, the learning platform and other satellite services.
+Data was input and curated by historians, social scientists and other researchers from humanities. The Vitro code base had to be extended and sometimes overriden to comply with the requirements of the project. For example, editing rights had to be granted based on the edited data context, and a workflow for quality management had to be added to the system. The analysis of collected data has been helped by various statistical pages using SPARQL queries.
+Although the project has ended, we are still catching up with ideas to connect our registry with more and more services in the field."
+  speakers: ["AndrásMicsik", "TamásFelker"]
+-
+  id: 36
+  title: "VIVO Ontology Version 2"
+  description: "A second version of the VIVO ontology.  We propose to develop a consistent, sufficient, BFO based ontology for representing scholarship. By consistent, we mean the ontology uses a single approach to representation.  Using a single approach, we expect to simplify the ontology -- patterns are reused and complexity reduced. By sufficient, we mean we cover the domain of scholarship at the level necessary to represent and use information about scholarship.  The ontology is informed by its applications. By BFO-based, we mean we commit to an approach to representation based on the Basic Formal Ontology.  The approach is well-understood and well-adopted in the ontology community. The domain of the ontology is well-defined and stable.
+
+Why a new ontology, and why now? The original work on the VIVO ontology began in 2007 at Cornell.  The 2009 NIH grant significantly expanded the ontology.  The 2013 CTSA Connect effort significantly re-engineered the ontology attempting to bring the ontology to standards current at the time, and introducing BFO as an upper level ontology, but the effort was never completed, and introduction of the new ontology (VIVO version 1.6) was not accompanied by sufficient tooling, training, and time to manage the community change.  Since 2013, the ontology has essentially been frozen.  As development seeks to create an interface between the ontology and the presentation software, there is an opportunity to create an ontology that is independent of the software and can be mapped to it.
+
+Benefits of a new ontology.  The new ontology will:
+Add to our ability to represent all of scholarship, including the arts, peer review, new research outputs, research impact, and global needs
+Adopt current ontological best practice including tooling, OBO Principles, focus on the domain of scholarship and expertise, and use only those ontologies that are aligned
+Use simple, consistent representations supporting ontological reasoning
+Be appropriate for use by any project seeking to build and use research graphs
+
+How and when.  A new ontology could be developed in three phases by the Ontology Interest Group of the VIVO Project, working in collaboration with other projects, ontologists, developers, and community members.  All are welcome to join the effort.  A second phase would be necessary for refinement, testing, and tooling for adoption.  A third phase is need for community change management, mapping to presentation data structures, testing, and training.  The existing ontology (version 1.x) will continue to be supported indefinitely."
+  speakers: ["MichaelConlon", "VioletaIlik", "BrianLowe", "ChristianHauschke", "MarijaneWhite", "MuhammadJaved", "NaomiBraun"]
+-
+  id: 37
+  title: "A Library of Queries and Reports - introducing the Vitro Query Tool"
+  description: "The rich semantic data captured in a VIVO instance (or any other application built on a Vitro core) presents a fantastic opportunity to surface knowledge about connected resources. However, the query interfaces within VIVO (or Vitro) are quite limited - other than a full text search, information is presented only in ways that have been baked into the UI. A SPARQL endpoint can be enabled for richer semantic queries, but this comes at a cost - the user needs to understand, or have access to a library of pre-written SPARQL queries, you can't combine queries (a SELECT over a CONSTRUCTed source), and there is a risk of badly written SPARQL queries having an impact on the system performance.
+
+With the Vitro Query Tool, we build upon the work of Cornell, using their DataDistributor as an API for storing and running a library of queries. To make this more accessible, we initially created a user interface allowing authorised users the ability to view and create queries using the DataDistributor building blocks, before extending this with the ability to schedule the execution of queries and distribute the results (e.g. via email). In utilising the existing DataDistributor, not only do we provide a means of creating a library of queries and reports for users to execute or receive, but it also allows the data to be exposed via API endpoints that can be ingested by other applications or used by visualisations within the application."
+  speakers: ["GrahamTriggs", "QaziAsimIjazAhmad", "ChristianHauschke"]
 -
   id: 805
-  title: "Poster Reception"
-  place: "JB Duke Atrium and Gallery"
-  description: ""
--
-  id: 806
-  title: "Explore Durham (Group Dinners)"
-  place: "Sign up at http://bit.ly/VIVO18signups"
-  description: "Sign up at http://bit.ly/VIVO18signups"
--
-  id: 807
-  title: "Late Night Social"
-  place: "JB Duke Lobby Lounge and Club Room"
-  description: ""      
+  title: "Poster Session"
+  description: ""  
 -
   id: 808
   title: "Closing Session"
-  place: "Ballroom ABC"
+  place: "Crystal Ball A"
   description: ""  
--
-  id: 809
-  title: "Friday afternoon activities"
-  place: "Sign up at http://bit.ly/VIVO18signups"
-  description: "Sign up at http://bit.ly/VIVO18signups"
--
-  id: 900
-  title: "Registration and Sponsors"
-  place: "JB Duke Atrium"
-  service: true
--
-  id: 901
-  title: "Breakfast (included)"
-  place: "JB Duke Marketplace"
-  service: true
 -
   id: 902
   title: "Coffee Break"
@@ -419,6 +403,8 @@ Discussion about data loading techniques people use; what works well, and what w
   service: true
 -
   id: 904
-  title: "Dinner (included for hotel guests)"
-  place: "JB Duke Marketplace"
+  title: "Leadership Group Meeting"
   service: true
+-
+  id: 1000
+  title: "  "
