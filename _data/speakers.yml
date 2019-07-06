@@ -31,64 +31,357 @@
   ribbon:
     - {abbr: "INVITED", title: "Invited Speaker"}
   rockstar: true
--
-  id: "PaulAlbert"
-  name: "Paul"
-  surname: "Albert"
-  company: "Weill Cornell Medicine"
--
-  id: "SarbajitDutta"
-  name: "Sarbajit"
-  surname: "Dutta"
-  company: "Weill Cornell Medicine"
--
-  id: "MichaelBales"
-  name: "Michael"
-  surname: "Bales"
-  company: "Weill Cornell Medicine"
--
-  id: "JieLin"
-  name: "Jie"
-  surname: "Lin"
-  company: ""
--
-  id: "BenjaminGross"
-  name: "Benjamin"
-  surname: "Gross"
-  company: "Clarivate Analytics"
--
-  id: "PabloDeCastro"
-  name: "Pablo"
-  surname: "de Castro"
-  company: ""
--
-  id: "AnnaGuillaumet"
-  name: "Anna"
-  surname: "Guillaumet"
-  company: "SIGMA"
--
-  id: "MicheleMinnielli"
-  name: "Michele"
-  surname: "Minnielli"
-  company: ""
--
-  id: "JuliaTrimmer"
-  name: "Julia"
-  surname: "Trimmer"
-  company: "Duke University"
--
-  id: "EdSimons"
-  name: "Ed"
-  surname: "Simons"
-  company: ""
--
-  id: "VioletaIlik"
-  name: "Violeta"
-  surname: "Ilik"
-  company: "Columbia University"   
--
-  id: "MichaelConlon"
-  name: "Michael"
-  surname: "Conlon"
-  company: "VIVO Project"  
-    
+- id: PaulAlbert
+  name: Paul
+  surname: Albert
+  company: Weill Cornell Medicine
+- id: SarbajitDutta
+  name: Sarbajit
+  surname: Dutta
+  company: Weill Cornell Medicine
+- id: MichaelBales
+  name: Michael
+  surname: Bales
+  company: Weill Cornell Medicine
+- id: JieLin
+  name: Jie
+  surname: Lin
+  company: ''
+- id: BenjaminGross
+  name: Benjamin
+  surname: Gross
+  company: Clarivate Analytics
+- id: PabloDeCastro
+  name: Pablo
+  surname: de Castro
+  company: ''
+- id: AnnaGuillaumet
+  name: Anna
+  surname: Guillaumet
+  company: ''
+- id: MicheleMinnielli
+  name: Michele
+  surname: Minnielli
+  company: ''
+- id: EdSimons
+  name: Ed
+  surname: Simons
+  company: ''
+- id: JuliaTrimmer
+  name: Julia
+  surname: Trimmer
+  company: Duke University
+- id: VioletaIlik
+  name: Violeta
+  surname: Ilik
+  company: ''
+- id: MichaelConlon
+  name: Michael
+  surname: Conlon
+  company: VIVO Project
+- id: NatasaPopovic
+  name: Natasa
+  surname: Popovic
+  company: ''
+- id: RubenVerborgh
+  name: Ruben
+  surname: Verborgh
+  company: ''
+- id: RonaldSiebes
+  name: Ronald
+  surname: Siebes
+  company: ''
+- id: AidaSlavic
+  name: Aida
+  surname: Slavic
+  company: ''
+- id: AndreaScharnhorst
+  name: Andrea
+  surname: Scharnhorst
+  company: ''
+- id: AliaksandrBirukou
+  name: Aliaksandr
+  surname: Birukou
+  company: ''
+- id: PatriciaFeeney
+  name: Patricia
+  surname: Feeney
+  company: ''
+- id: GregBurton
+  name: Greg
+  surname: Burton
+  company: ''
+- id: DonElsborg
+  name: Don
+  surname: Elsborg
+  company: University of Colorado Boulder
+- id: HansHarlacher
+  name: Hans
+  surname: Harlacher
+  company: ''
+- id: DamarisMurry
+  name: Damaris
+  surname: Murry
+  company: Duke University
+- id: RobertNelson
+  name: Robert
+  surname: Nelson
+  company: ''
+- id: RalphOFlinn
+  name: Ralph
+  surname: O'Flinn
+  company: The University of Alabama at Birmingham
+- id: RichardOutten
+  name: Richard
+  surname: Outten
+  company: Duke University
+- id: HarryThakkar
+  name: Harry
+  surname: Thakkar
+  company: ''
+- id: JimWood
+  name: Jim
+  surname: Wood
+  company: ''
+- id: AlexViggio
+  name: Alex
+  surname: Viggio
+  company: University of Colorado Boulder
+- id: David Eichmann, Kristi Holmes
+  name: 'David '
+  surname: Eichmann,  Kristi  Holmes
+  company: ''
+- id: SimonPorter
+  name: Simon
+  surname: Porter
+  company: Digital Science
+- id: JakubKoperwas
+  name: Jakub
+  surname: Koperwas
+  company: ''
+- id: ŁukaszSkonieczny
+  name: Łukasz
+  surname: Skonieczny
+  company: ''
+- id: WacławStruk
+  name: Wacław
+  surname: Struk
+  company: ''
+- id: HenrykRybiński
+  name: Henryk
+  surname: Rybiński
+  company: ''
+- id: KristiHolmes
+  name: Kristi
+  surname: Holmes
+  company: Northwestern University
+- id: DanielWHook
+  name: Daniel
+  surname: W Hook
+  company: ''
+- id: DeanBKrafft
+  name: Dean
+  surname: B Krafft
+  company: ''
+- id: MarkPNewton
+  name: Mark
+  surname: P Newton
+  company: ''
+- id: MiguelGarcia
+  name: Miguel
+  surname: Garcia
+  company: ''
+- id: LamontCannon
+  name: Lamont
+  surname: Cannon
+  company: Duke University
+- id: ChristinaSteensboe
+  name: Christina
+  surname: Steensboe
+  company: Technical University of Denmark
+- id: KarenHytteballeIbanez
+  name: Karen
+  surname: Hytteballe Ibanez
+  company: Technical University of Denmark
+- id: MogensSandfaer
+  name: Mogens
+  surname: Sandfaer
+  company: Technical University of Denmark
+- id: FranckFalcoz
+  name: Franck
+  surname: Falcoz
+  company: ''
+- id: BrianLowe
+  name: Brian
+  surname: Lowe
+  company: ''
+- id: WilliamSWelling
+  name: William
+  surname: S Welling
+  company: ''
+- id: DongJoonLee
+  name: Dong Joon
+  surname: Lee
+  company: Texas A&M University
+- id: DouglasHahn
+  name: Douglas
+  surname: Hahn
+  company: ''
+- id: JasonSavell
+  name: Jason
+  surname: Savell
+  company: ''
+- id: KevinADay
+  name: Kevin
+  surname: A Day
+  company: ''
+- id: EthelMejia
+  name: Ethel
+  surname: Mejia
+  company: Texas A&M University
+- id: BruceEHerbert
+  name: Bruce
+  surname: E Herbert
+  company: ''
+- id: SonjaSchulze
+  name: Sonja
+  surname: Schulze
+  company: ''
+- id: DominikFeldschnieders
+  name: Dominik
+  surname: Feldschnieders
+  company: ''
+- id: KathrinSchnieders
+  name: Kathrin
+  surname: Schnieders
+  company: ''
+- id: ManuelSchwarz
+  name: Manuel
+  surname: Schwarz
+  company: ''
+- id: MarcoSeegers
+  name: Marco
+  surname: Seegers
+  company: ''
+- id: RachelAMiles
+  name: Rachel
+  surname: A Miles
+  company: ''
+- id: AmandaMacDonald
+  name: Amanda
+  surname: Mac Donald
+  company: ''
+- id: NathanielDPorter
+  name: Nathaniel
+  surname: D Porter
+  company: ''
+- id: VirginiaPannabecker
+  name: Virginia
+  surname: Pannabecker
+  company: ''
+- id: JimAKuypers
+  name: Jim
+  surname: A Kuypers
+  company: ''  
+- id: KarenHIbanez
+  name: Karen
+  surname: H Ibanez
+  company: ''
+- id: NikolineDLauridsen
+  name: Nikoline
+  surname: D Lauridsen
+  company: ''
+- id: MarianneGauffriau
+  name: Marianne
+  surname: Gauffriau
+  company: ''
+- id: AdrianPrice
+  name: Adrian
+  surname: Price
+  company: ''
+- id: AnneLHøj
+  name: Anne
+  surname: L Høj
+  company: ''
+- id: KirstenKKruuse
+  name: Kirsten
+  surname: K Kruuse
+  company: ''
+- id: KristinaHeinricy
+  name: Kristina
+  surname: Heinricy
+  company: ''
+- id: AlvinHutchinson
+  name: Alvin
+  surname: Hutchinson
+  company: ''
+- id: SuzannePilsk
+  name: Suzanne
+  surname: Pilsk
+  company: ''
+- id: QaziAsimIjazAhmad
+  name: Qazi Asim Ijaz
+  surname: Ahmad
+  company: Technische Informationsbibliothek (TIB) û German National Library of Science
+    and Technology
+- id: GrahamTriggs
+  name: Graham
+  surname: Triggs
+  company: ''
+- id: ChristianHauschke
+  name: Christian
+  surname: Hauschke
+  company: Technische Informationsbibliothek (TIB) û German National Library of Science
+    and Technology
+- id: HectorCorrea
+  name: Hector
+  surname: Correa
+  company: Brown University
+- id: StevenMcCauley
+  name: Steven
+  surname: Mc Cauley
+  company: ''
+- id: AndrewWoods
+  name: Andrew
+  surname: Woods
+  company: DuraSpace
+- id: AndreiTudor
+  name: Andrei
+  surname: Tudor
+  company: ''
+- id: BesikiStvilia
+  name: Besiki
+  surname: Stvilia
+  company: ''
+- id: ShuhengWu
+  name: Shuheng
+  surname: Wu
+  company: ''
+- id: RachidBelkouch
+  name: Rachid
+  surname: Belkouch
+  company: ''
+- id: PierreRoberge
+  name: Pierre
+  surname: Roberge
+  company: ''
+- id: AndrásMicsik
+  name: András
+  surname: Micsik
+  company: ''
+- id: TamásFelker
+  name: Tamás
+  surname: Felker
+  company: ''
+- id: MarijaneWhite
+  name: Marijane
+  surname: White
+  company: ''
+- id: MuhammadJaved
+  name: Muhammad
+  surname: Javed
+  company: Mastercard
+- id: NaomiBraun
+  name: Naomi
+  surname: Braun
+  company: ''  

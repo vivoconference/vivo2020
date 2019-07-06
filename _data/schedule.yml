@@ -1,5 +1,5 @@
 -
-  date: "2018-09-04"
+  date: "2019-09-04"
   dateReadable: "Wednesday September 4"
   tracks:
     - {title: "Princess Milica", color: "#90be4e"}
@@ -17,7 +17,7 @@
     	sessionIds: [1000,2,904]
     }
 -
-  date: "2018-09-05"
+  date: "2019-09-05"
   dateReadable: "Thursday September 5"
   tracks:
     - {title: "Crystal Ball A", color: "#90be4e"}
@@ -94,7 +94,7 @@
     	sessionIds: [805]
     }
 -
-  date: "2018-09-06"
+  date: "2019-09-06"
   dateReadable: "Friday September 6"
   tracks:
     - {title: "Crystal Ball A", color: "#90be4e"}

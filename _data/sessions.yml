@@ -49,8 +49,8 @@ You’ll learn how to find the right resources as a new VIVO implementer includi
   id: 5
   title: "Opening Address"
   description: ""
-  place: "Crystal Ball"
-  speakers: ["VioletaIlik", "Natasa", "MichaelConlon", "Ruben"]
+  place: "Crystal Ball A"
+  speakers: ["VioletaIlik", "NatasaPopovic", "MichaelConlon", "RubenVerborgh"]
 -
   id: 6
   title: "Herbert Van De Sompel Keynote: Collecting the Organisational Scholarly Record"
@@ -153,7 +153,7 @@ We would like to share our experiences in building a robust  RPS system that rel
   title: "Invited Speaker:  Anastasia Dimou"
   description: ""
   speakers: ["AnastasiaDimou"]
-  place: "Crystal Ball"
+  place: "Crystal Ball A"
 -
   id: 14
   title: "Results of VIVO Community Feedback Survey"
@@ -230,13 +230,14 @@ For us, these results from faculty across a range of disciplines will help infor
   speakers: []  
 -
   id: 22
-  title: "Enabling a Socially-Aware Scholarly Ecosystem"
+  title: "Invited Speaker: Enabling a Socially-Aware Scholarly Ecosystem"
   description: "What are some of the sociotechnical constraints and the
 effects of contemporary scholarly communication? How can we appropriate
 the Open Web Platform to facilitate an actor-centric scholarly
 ecosystem? In this talk, we discuss designing decentralised and
 socially-aware systems as well as their effects and artifacts."
   speakers: ["SarvenCapadisli"]
+  place: "Crystal Ball A"
 -
   id: 23
   title: "Using Campus Needs Involving Tenure & Promotion, Interdisciplinary Collaborations, and Institutional Research to Drive the Evolution of VIVO at Texas A&M University."
