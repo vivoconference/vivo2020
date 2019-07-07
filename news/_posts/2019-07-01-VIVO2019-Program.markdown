@@ -7,7 +7,7 @@ isStaticPost: false
 
 #### Announcing the VIVO 2019 Program
 
-[VIVO 2019 Conference Planing Task Force](https://wiki.duraspace.org/display/VIVO/VIVO+Conference+Planning+Task+Force) is very pleased to announce the presentations and speakers for the Tenth Annual VIVO Conference. Please visit our website for details. [LINK COMING UP]
+[VIVO 2019 Conference Planing Task Force](https://wiki.duraspace.org/display/VIVO/VIVO+Conference+Planning+Task+Force) is very pleased to announce the presentations and speakers for the Tenth Annual VIVO Conference. Please visit [our website for details](http://vivoconference.org/schedule/). 
 Our keynote speaker is [Herbert Van de Sompel](https://en.m.wikipedia.org/wiki/Herbert_Van_de_Sompel) and our invited speakers are [Anastasia Dimou](https://twitter.com/natadimou) and [Sarven Capadisli](http://csarven.ca/#i).
 
 The Call for Posters and Demos is open until July 16th - [**submit your poster or demo abstract**](https://forms.gle/xLGyGsdT58jJBmMc7). The poster/demo session lets you share your work in an informal, relaxed setting and chat with individual community members. Attendees will view and discuss your work during the poster/demo reception.
