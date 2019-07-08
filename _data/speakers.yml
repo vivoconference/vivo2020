@@ -46,27 +46,27 @@
 - id: JieLin
   name: Jie
   surname: Lin
-  company: ''
+  company: Weill Cornell Medicine
 - id: BenjaminGross
   name: Benjamin
   surname: Gross
-  company: Clarivate Analytics
+  company: Web of Science Group
 - id: PabloDeCastro
   name: Pablo
   surname: de Castro
-  company: ''
+  company: University of Strathclyde
 - id: AnnaGuillaumet
   name: Anna
   surname: Guillaumet
-  company: ''
+  company: SIGMA
 - id: MicheleMinnielli
   name: Michele
   surname: Minnielli
-  company: ''
+  company: DuraSpace
 - id: EdSimons
   name: Ed
   surname: Simons
-  company: ''
+  company: Radboud University Nijmegen
 - id: JuliaTrimmer
   name: Julia
   surname: Trimmer
@@ -74,7 +74,7 @@
 - id: VioletaIlik
   name: Violeta
   surname: Ilik
-  company: ''
+  company: Columbia University
 - id: MichaelConlon
   name: Michael
   surname: Conlon
@@ -82,35 +82,35 @@
 - id: NatasaPopovic
   name: Nataša
   surname: Popović
-  company: ''
+  company: University of Montenegro
 - id: RubenVerborgh
   name: Ruben
   surname: Verborgh
-  company: ''
+  company: Gent University
 - id: RonaldSiebes
   name: Ronald
   surname: Siebes
-  company: ''
+  company: DANS
 - id: AidaSlavic
   name: Aida
   surname: Slavic
-  company: ''
+  company: UDC Consortium
 - id: AndreaScharnhorst
   name: Andrea
   surname: Scharnhorst
-  company: ''
+  company: Royal Netherlands Academy of Arts and Sciences
 - id: AliaksandrBirukou
   name: Aliaksandr
   surname: Birukou
-  company: ''
+  company: Springer Nature
 - id: PatriciaFeeney
   name: Patricia
   surname: Feeney
-  company: ''
+  company: Crossref
 - id: GregBurton
   name: Greg
   surname: Burton
-  company: ''
+  company: Duke University
 - id: DonElsborg
   name: Don
   surname: Elsborg
@@ -118,7 +118,7 @@
 - id: HansHarlacher
   name: Hans
   surname: Harlacher
-  company: ''
+  company: Duke University
 - id: DamarisMurry
   name: Damaris
   surname: Murry
@@ -126,7 +126,7 @@
 - id: RobertNelson
   name: Robert
   surname: Nelson
-  company: ''
+  company: Duke University
 - id: RalphOFlinn
   name: Ralph
   surname: O'Flinn
@@ -138,19 +138,19 @@
 - id: HarryThakkar
   name: Harry
   surname: Thakkar
-  company: ''
+  company: Duke University
 - id: JimWood
   name: Jim
   surname: Wood
-  company: ''
+  company: Duke University
 - id: AlexViggio
   name: Alex
   surname: Viggio
   company: University of Colorado Boulder
-- id: David Eichmann, Kristi Holmes
-  name: 'David '
-  surname: Eichmann,  Kristi  Holmes
-  company: ''
+- id: DavidEichmann
+  name: David
+  surname: Eichmann
+  company: University of Iowa
 - id: SimonPorter
   name: Simon
   surname: Porter
@@ -158,19 +158,19 @@
 - id: JakubKoperwas
   name: Jakub
   surname: Koperwas
-  company: ''
+  company: Warsaw University of Technology
 - id: ŁukaszSkonieczny
   name: Łukasz
   surname: Skonieczny
-  company: ''
+  company: Warsaw University of Technology
 - id: WacławStruk
   name: Wacław
   surname: Struk
-  company: ''
+  company: Warsaw University of Technology
 - id: HenrykRybiński
   name: Henryk
   surname: Rybiński
-  company: ''
+  company: Warsaw University of Technology
 - id: KristiHolmes
   name: Kristi
   surname: Holmes
@@ -178,19 +178,19 @@
 - id: DanielWHook
   name: Daniel
   surname: W Hook
-  company: ''
+  company: Digital Science
 - id: DeanBKrafft
   name: Dean
   surname: B Krafft
-  company: ''
+  company: Cornell University
 - id: MarkPNewton
   name: Mark
   surname: P Newton
-  company: ''
+  company: Boston University
 - id: MiguelGarcia
   name: Miguel
   surname: Garcia
-  company: ''
+  company: Web of Science Group
 - id: LamontCannon
   name: Lamont
   surname: Cannon
@@ -214,11 +214,11 @@
 - id: BrianLowe
   name: Brian
   surname: Lowe
-  company: ''
+  company: Ontocale
 - id: WilliamSWelling
   name: William
   surname: S Welling
-  company: ''
+  company: Texas A&M University
 - id: DongJoonLee
   name: Dong Joon
   surname: Lee
@@ -226,15 +226,15 @@
 - id: DouglasHahn
   name: Douglas
   surname: Hahn
-  company: ''
+  company: Texas A&M University
 - id: JasonSavell
   name: Jason
   surname: Savell
-  company: ''
+  company: Texas A&M University
 - id: KevinADay
   name: Kevin
   surname: A Day
-  company: ''
+  company: Texas A&M University
 - id: EthelMejia
   name: Ethel
   surname: Mejia
@@ -242,83 +242,83 @@
 - id: BruceEHerbert
   name: Bruce
   surname: E Herbert
-  company: ''
+  company: Texas A&M University
 - id: SonjaSchulze
   name: Sonja
   surname: Schulze
-  company: ''
+  company: Osnabrück University
 - id: DominikFeldschnieders
   name: Dominik
   surname: Feldschnieders
-  company: ''
+  company: Osnabrück University
 - id: KathrinSchnieders
   name: Kathrin
   surname: Schnieders
-  company: ''
+  company: Osnabrück University
 - id: ManuelSchwarz
   name: Manuel
   surname: Schwarz
-  company: ''
+  company: Osnabrück University
 - id: MarcoSeegers
   name: Marco
   surname: Seegers
-  company: ''
+  company: Osnabrück University
 - id: RachelAMiles
   name: Rachel
   surname: A Miles
-  company: ''
+  company: Virginia Tech
 - id: AmandaMacDonald
   name: Amanda
   surname: Mac Donald
-  company: ''
+  company: Virginia Tech
 - id: NathanielDPorter
   name: Nathaniel
   surname: D Porter
-  company: ''
+  company: Virginia Tech
 - id: VirginiaPannabecker
   name: Virginia
   surname: Pannabecker
-  company: ''
+  company: Virginia Tech
 - id: JimAKuypers
   name: Jim
   surname: A Kuypers
-  company: ''  
+  company: Virginia Tech  
 - id: KarenHIbanez
   name: Karen
   surname: H Ibanez
-  company: ''
+  company: Technical University of Denmark
 - id: NikolineDLauridsen
   name: Nikoline
   surname: D Lauridsen
-  company: ''
+  company: Technical University of Denmark
 - id: MarianneGauffriau
   name: Marianne
   surname: Gauffriau
-  company: ''
+  company: Technical University of Denmark
 - id: AdrianPrice
   name: Adrian
   surname: Price
-  company: ''
+  company: Technical University of Denmark
 - id: AnneLHøj
   name: Anne
   surname: L Høj
-  company: ''
+  company: Technical University of Denmark
 - id: KirstenKKruuse
   name: Kirsten
   surname: K Kruuse
-  company: ''
+  company: Technical University of Denmark
 - id: KristinaHeinricy
   name: Kristina
   surname: Heinricy
-  company: ''
+  company: Smithsonian Libraries
 - id: AlvinHutchinson
   name: Alvin
   surname: Hutchinson
-  company: ''
+  company: Smithsonian Libraries
 - id: SuzannePilsk
   name: Suzanne
   surname: Pilsk
-  company: ''
+  company: Smithsonian Libraries
 - id: QaziAsimIjazAhmad
   name: Qazi Asim Ijaz
   surname: Ahmad
@@ -327,7 +327,8 @@
 - id: GrahamTriggs
   name: Graham
   surname: Triggs
-  company: ''
+  company: Technische Informationsbibliothek (TIB) û German National Library of Science
+    and Technology
 - id: ChristianHauschke
   name: Christian
   surname: Hauschke
@@ -340,7 +341,7 @@
 - id: StevenMcCauley
   name: Steven
   surname: Mc Cauley
-  company: ''
+  company: Brown University
 - id: AndrewWoods
   name: Andrew
   surname: Woods
@@ -348,35 +349,35 @@
 - id: AndreiTudor
   name: Andrei
   surname: Tudor
-  company: ''
+  company: Ontocale
 - id: BesikiStvilia
   name: Besiki
   surname: Stvilia
-  company: ''
+  company: Florida State University
 - id: ShuhengWu
   name: Shuheng
   surname: Wu
-  company: ''
+  company: City University of New York
 - id: RachidBelkouch
   name: Rachid
   surname: Belkouch
-  company: ''
+  company: Université du Québec à Montréal
 - id: PierreRoberge
   name: Pierre
   surname: Roberge
-  company: ''
+  company: Université du Québec à Montréal
 - id: AndrásMicsik
   name: András
   surname: Micsik
-  company: ''
+  company: Institute for Computer Science and Control, Hungarian Academy of Sciences
 - id: TamásFelker
   name: Tamás
   surname: Felker
-  company: ''
+  company: Institute for Computer Science and Control, Hungarian Academy of Sciences
 - id: MarijaneWhite
   name: Marijane
   surname: White
-  company: ''
+  company: Oregon Health and Science University
 - id: MuhammadJaved
   name: Muhammad
   surname: Javed
@@ -384,4 +385,4 @@
 - id: NaomiBraun
   name: Naomi
   surname: Braun
-  company: ''  
+  company: University of Florida  
