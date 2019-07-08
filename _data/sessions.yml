@@ -150,8 +150,8 @@ We would like to share our experiences in building a robust  RPS system that rel
   speakers: ["JakubKoperwas", "ŁukaszSkonieczny", "WacławStruk", "HenrykRybiński"]
 -
   id: 13
-  title: "Invited Speaker:  Anastasia Dimou"
-  description: ""
+  title: "Invited Speaker:  Knowledge graph generation for research management"
+  description: "The Semantic Web captures knowledge by making, among others, research data discoverable, accessible and understandable in the long term by increasing their sherability, extensibility and reusability. However, the process of extracting, structuring, and organizing knowledge from one or multiple heterogeneous data sources to construct knowledge-intensive systems has proven to be easier said than done. During this talk, I will elaborate on knowledge graph generation from heterogeneous data sources, as well as on the assessment of not only the knowledge graphs but also the rules that generate a knowledge graph and on the refinement of both rules and knowledge graphs."
   speakers: ["AnastasiaDimou"]
   place: "Crystal Ball A"
 -
