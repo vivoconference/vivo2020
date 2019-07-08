@@ -113,7 +113,7 @@ Early activities for this project include:
 * Population of the warehouse from the above-mentioned sources
 * Configuration of local schemas for each CTSA hub and other interested parties
 * Creation for example solutions for ingest/extraction using JDBC, GraphQL, SPARQL, and tools such as teiid (an open source data federation platform)."
-  speakers: ["David Eichmann, Kristi Holmes"]
+  speakers: ["DavidEichmann", "KristiHolmes"]
 -
   id: 11
   title: "A Reference implementation for publishing persistent records for awards and prizes"
