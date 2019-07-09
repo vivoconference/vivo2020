@@ -14,7 +14,7 @@
  group: "Gold Sponsors"
  elements:
   - {name: "TAMU", description: "Texas A&M University", link: "https://www.tamu.edu", imageUrl: "TAM-Stack.png"}
-  - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "WebOfScienceGroup_Wordmark_RGB_Black.png"}
+  - {name: "Clarivate", description: "Clarivate Analytics", link: "http://www.webofsciencegroup.com", imageUrl: "WebOfScienceGroup_Wordmark_RGB_Black.png"}
 
 -
   group: "Bronze Sponsors"
