@@ -91,7 +91,7 @@ Read the CrossRef post for more info about the group:
 https://www.crossref.org/working-groups/conferences-projects/"
   speakers: ["AliaksandrBirukou", "PatriciaFeeney"]
 -
-  id: 9
+  id: 11
   title: "Update on VIVO Scholar"
   description: "The VIVO Scholar Task Force is creating a new, read-only front-end for VIVO. Come hear an update about the work on VIVO Scholar so far.  Task force representatives will demo components and answer questions.
 * Learn how five universities have worked together to reach the current stage of VIVO Scholar.
@@ -115,7 +115,7 @@ Early activities for this project include:
 * Creation for example solutions for ingest/extraction using JDBC, GraphQL, SPARQL, and tools such as teiid (an open source data federation platform)."
   speakers: ["DavidEichmann", "KristiHolmes"]
 -
-  id: 11
+  id: 9
   title: "A Reference implementation for publishing persistent records for awards and prizes"
   description: "Prizes are important indicators of esteem in research, and they deserve a persistent primary record of their own.  
 
@@ -330,7 +330,7 @@ This presentation will include a detailed status of the completed as well as pla
 In this presentation, I'll go through some of the solutions we've implemented regarding attribution, individual privacy concerns, conflicts in display preferences, and representing a project over time.  I'll give examples from publication, artistic work, course, grant, and advisee records.  I'll also give suggestions for weighing the benefits of shared records against its complexities."
   speakers: ["DamarisMurry"]
 -
-  id: 32
+  id: 37
   title: "UI Statecharts: Community Collaboration to Define Robust User Interfaces"
   description: "The VIVO community has long promoted the value of modeling the domain of scholarship in a form that is independent of a particular software implementation.  The VIVO ontology is the product of a collaborative effort to define a shared understanding of the semantics behind the complex graphs of scholarly activity that different research networking systems might choose to process internally in different ways.  As research networking software projects such as VIVO begin to develop the next generation of decoupled, dynamic and responsive user interfaces, there is an opportunity to consider a similar kind of collaborative modeling approach to define robust UIs whose behavior can be reasoned about and tested separately from a concrete software implementation.
 
@@ -379,7 +379,7 @@ Be appropriate for use by any project seeking to build and use research graphs
 How and when.  A new ontology could be developed in three phases by the Ontology Interest Group of the VIVO Project, working in collaboration with other projects, ontologists, developers, and community members.  All are welcome to join the effort.  A second phase would be necessary for refinement, testing, and tooling for adoption.  A third phase is need for community change management, mapping to presentation data structures, testing, and training.  The existing ontology (version 1.x) will continue to be supported indefinitely."
   speakers: ["MichaelConlon", "VioletaIlik", "BrianLowe", "ChristianHauschke", "MarijaneWhite", "MuhammadJaved", "NaomiBraun"]
 -
-  id: 37
+  id: 32
   title: "A Library of Queries and Reports - introducing the Vitro Query Tool"
   description: "The rich semantic data captured in a VIVO instance (or any other application built on a Vitro core) presents a fantastic opportunity to surface knowledge about connected resources. However, the query interfaces within VIVO (or Vitro) are quite limited - other than a full text search, information is presented only in ways that have been baked into the UI. A SPARQL endpoint can be enabled for richer semantic queries, but this comes at a cost - the user needs to understand, or have access to a library of pre-written SPARQL queries, you can't combine queries (a SELECT over a CONSTRUCTed source), and there is a risk of badly written SPARQL queries having an impact on the system performance.
 
