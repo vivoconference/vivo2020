@@ -13,6 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "VIVO Conference 2019"
+redirect_to: "http://vivoconference.org/vivo2019/"
 email: "conference@vivoweb.org"
 description: "10th Annual International VIVO Conference"
 baseurl: ""
