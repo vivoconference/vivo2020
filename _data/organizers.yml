@@ -1,5 +1,5 @@
 - 
-  group: "Main organizer"
+  group: ""
   elements: 
     - {name: "VIVO Project", description: "VIVO Project - Open source semantic web academic profiles", link: "http://vivoweb.org", imageUrl: "vivo-web-small-v2.png"}
 #- 
