@@ -10,4 +10,4 @@ This site is built using [Zeppelin](https://github.com/gdg-x/zeppelin) a Jekyll 
 
     bundle exec jekyll start
     
-to obtain a local copy of the site running at `localhost:4000`
+to start a local copy of the site running at `localhost:4000`
