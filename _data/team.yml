@@ -1,64 +1,58 @@
 - 
-  id: "VioletaIlik"
-  name: "Violeta"
-  surname: "Ilik"
-  company: "Columbia University Libraries"
-  title: "Conference Chair"
-  thumbnailUrl: vilikforce.jpg
+  id: "MikeConlon"
+  name: "Mike"
+  surname: "Conlon"
+  title: "Organizing Committee Facilitator"
+  company: "University of Florida"
+  thumbnailUrl: MikeConlon.jpg
+  ribbon: 
+    - {abbr: "team", title: "Organizing Committee"}
+  social: 
+    - {name: "twitter", link: "https://twitter.com/mconlon17"}
+    - {name: "vivo", link: "http://vivo.ufl.edu/individual/mconlon"}
   team: true
-#-
-#  id: "PaulAlbert"
-#  name: "Paul"
-#  surname: "Albert"
-#  company: "Weill Cornell Medicine"
-#  title: "Conference Vice-Chair"
-#  thumbnailUrl: PaulAlbert.png
-#  team: true
 - 
-  id: "RubenVerborgh"
-  name: "Ruben"
-  surname: "Verborgh"
-  company: "IDLab, Ghent University – IMEC"
-  title: "Program Chair"
-  thumbnailUrl: ruben-large.jpg
-  subTeam: true
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
-#- 
-#  id: "EricMeeks"
-#  name: "Eric"
-#  surname: "Meeks"
-#  title: "Program Vice-Chair"
-#  thumbnailUrl: EricMeeks.jpg
-#  subTeam: true
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
+  id: "AnnaGuillmet"
+  name: "Anna"
+  surname: "Guillamet"
+  title: "Organizing Committee Member"
+  company: "Sigma"
+  thumbnailUrl: AnnaGuillamet.jpg
+  ribbon: 
+    - {abbr: "team", title: "Organizing Committee"}
+  team: true
 - 
-  id: "NatasaPopovic"
-  name: "Nataša"
-  surname: "Popović"
-  title: "LOC Chair"
-  company: "Faculty of Medicine, University of Montenegro"
-  thumbnailUrl: NPopovic.jpg
-  locTeam: true
-#  ribbon: 
-#    - {abbr: "VIVO", title: "VIVO Project"}
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
-#- 
-#  id: "MikeConlon"
-#  name: "Mike"
-#  surname: "Conlon"
-#  title: "VIVO Project Director"
-#  thumbnailUrl: MikeConlon.jpg
-#  ribbon: 
-#    - {abbr: "VIVO", title: "VIVO Project"}
-#  social: 
-#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-#    - {name: "site", link: "http://olostan.name/"}
+  id: "ChristianHauschke"
+  name: "Christian"
+  surname: "Hauschke"
+  title: "Organizing Committee Member"
+  company: "TIB Hannover"
+  thumbnailUrl: ChristianHauschke.jpg
+  ribbon: 
+    - {abbr: "team", title: "Organizing Committee"}
+  team: true
+- 
+  id: "RalphOflinn"
+  name: "Ralph"
+  surname: "O'Flinn"
+  title: "Organizing Committee Member"
+  company: "University of Alabama, Birmingham"
+  thumbnailUrl: RalphOflinn.jpg
+  ribbon: 
+    - {abbr: "team", title: "Organizing Committee"}
+  team: true
+- 
+  id: "MicheleMinielli"
+  name: "Michele"
+  surname: "Minielli"
+  title: "Organizing Committee Member"
+  company: "LYRASIS"
+  thumbnailUrl: MicheleMinielli.jpg
+  ribbon: 
+    - {abbr: "team", title: "Organizing Committee"}
+    - {abbr: "lyrasis", title: "LYRASIS"}
+  team: true
+  lyrasis: true
 #- 
 #  id: "GrahamTriggs"
 #  name: "Graham"
@@ -89,6 +83,56 @@
 #  duraspace: true
 #  ribbon: 
 #    - {abbr: "DuraSpace", title: "DuraSpace"}
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+#- 
+#  id: "VioletaIlik"
+#  name: "Violeta"
+#  surname: "Ilik"
+#  company: "Columbia University Libraries"
+#  title: "Conference Chair"
+#  thumbnailUrl: vilikforce.jpg
+#  team: true
+#-
+#  id: "PaulAlbert"
+#  name: "Paul"
+#  surname: "Albert"
+#  company: "Weill Cornell Medicine"
+#  title: "Conference Vice-Chair"
+#  thumbnailUrl: PaulAlbert.png
+#  team: true
+#- 
+#  id: "RubenVerborgh"
+#  name: "Ruben"
+#  surname: "Verborgh"
+#  company: "IDLab, Ghent University – IMEC"
+#  title: "Program Chair"
+#  thumbnailUrl: ruben-large.jpg
+#  subTeam: true
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+#- 
+#  id: "EricMeeks"
+#  name: "Eric"
+#  surname: "Meeks"
+#  title: "Program Vice-Chair"
+#  thumbnailUrl: EricMeeks.jpg
+#  subTeam: true
+#  social: 
+#    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+#    - {name: "site", link: "http://olostan.name/"}
+#- 
+#  id: "NatasaPopovic"
+#  name: "Nataša"
+#  surname: "Popović"
+#  title: "LOC Chair"
+#  company: "Faculty of Medicine, University of Montenegro"
+#  thumbnailUrl: NPopovic.jpg
+#  locTeam: true
+#  ribbon: 
+#    - {abbr: "VIVO", title: "VIVO Project"}
 #  social: 
 #    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
 #    - {name: "site", link: "http://olostan.name/"}

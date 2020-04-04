@@ -47,10 +47,10 @@ c4sponsorsUrl: "news/sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/talk-proposals", text: "Proposals"}
- - {permalink: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register"}
+ - {permalink: "https://www.eventbrite.com/myevent?eid=97993221363", text: "Register"}
 # - {permalink: "/attend/", text: "Attend"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Speakers"}
+# - {permalink: "/schedule/", text: "Program"}
+# - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/news/sponsorship", text: "Sponsor"}
  - {permalink: "/news/", text: "News"}
 #rightNavigationButtons:
@@ -190,7 +190,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: ""
+aboutUs: "VIVO 2020 is organized by the people here with help from many others.  We want to thank LYRASIS and all the members of the VIVO Community -- you are the best!"
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"

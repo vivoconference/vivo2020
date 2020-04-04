@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Announcing the VIVO 2019 Program"
+date:   20120-06-20
+isStaticPost: false
+---
+
+#### Announcing the VIVO 2019 Program
+
+[VIVO 2019 Conference Planing Task Force](https://wiki.duraspace.org/display/VIVO/VIVO+Conference+Planning+Task+Force) is very pleased to announce the presentations and speakers for the Tenth Annual VIVO Conference. Please visit [our website for details](http://vivoconference.org/schedule/). 
+Our keynote speaker is [Herbert Van de Sompel](https://en.m.wikipedia.org/wiki/Herbert_Van_de_Sompel) and our invited speakers are [Anastasia Dimou](https://twitter.com/natadimou) and [Sarven Capadisli](http://csarven.ca/#i).
+
+The Call for Posters and Demos is open until July 16th - [**submit your poster or demo abstract**](https://forms.gle/xLGyGsdT58jJBmMc7). The poster/demo session lets you share your work in an informal, relaxed setting and chat with individual community members. Attendees will view and discuss your work during the poster/demo reception.
+For detailed information visit the VIVO Conference site: http://vivoconference.org/news/CfP-and-Second-Early-Bird-Registration
+
+Second Early Bird Registration ends on July 29, 2019. [**Register**](https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050) at these rates by the deadline and save $50:
+
+
+* Second Early Bird Academic / Non-Profit / Govt - $250
+* Second Early Bird Industry / For-Profit - $300
+* Students - $99
+* Local Attendees - $50
+
+Book your room at the conference venue hotel, [Hilton](https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html), or book your room using online sources like [booking.com](https://www.booking.com/) and [similar websites](http://www.ustanzadan.me/en/rent-a-stan/) that offer affordable luxury residential apartment accommodation located a short distance (3–5 blocks) from the conference hotel.
+
+We look forward to seeing you in Podgorica, Montenegro!
