@@ -57,9 +57,9 @@ navigationLinks:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "colossus.jpg"
+heroImage: "network.png"
 heroTitle: " 11th Annual International VIVO Conference "
-eventDate: " June 18-19, 2020 &sdot; On-line "
+eventDate: " June 16-18, 2020 &sdot; On-line "
 # typeoutTextValues: '"", "11th Annual ", "International "'
 # typeoutFallback: "11th Annual International"
 heroButtons:
