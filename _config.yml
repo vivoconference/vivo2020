@@ -58,10 +58,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "network.png"
-heroTitle: " 11th Annual International VIVO Conference "
-eventDate: " June 16-18, 2020 &sdot; On-line "
-# typeoutTextValues: '"", "11th Annual ", "International "'
-# typeoutFallback: "11th Annual International"
+heroTitle: "<typeout> VIVO Conference 2020"
+eventDate: " June 16-18 &sdot; On-line "
+typeoutTextValues: '"", "11th Annual ", "International "'
+typeoutFallback: "11th Annual International"
 heroButtons:
 # - {link: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register today!"}
  - {permalink: "/talk-proposals/", text: "Call For Proposals"}
