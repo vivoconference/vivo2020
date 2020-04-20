@@ -5,48 +5,47 @@ date:   2020-04-05
 isStaticPost: false
 ---
 
-#### VIVO 2019 Call for Proposals is now open!
+# VIVO 2020 Call for Proposals is now open!
+## Present your work and ideas at VIVO 2020
 
+Do you help make scholarly data open, found, and consumed? Do you have fresh ideas or new work you want to share with us? We’d love to hear from you! The VIVO conference covers a broad range of topics surrounding research information systems. VIVO 2020 will be an online, virtual conference, which leads to some new formats. We encourage submissions from people who are new to the VIVO community, and formats that work well online.
 
-**Present your work and ideas at VIVO 2019**
+## Possible formats
 
-Do you help make scholarly data open, found, and consumed? Do you have fresh ideas or new work you want to share with us? We’d love to hear from you! The VIVO conference covers a broad range of topics surrounding research information systems. With VIVO 2019, we are widening the scope of talks to target a broader audience of people working in this space.
+We are planning two session lengths:
+* presentations (20 minutes)
+* lightning talks (6 minutes)
 
-Share your talk proposal before ~~14 April~~ May 15, 2019 [through **OpenReview**](https://openreview.net/group?id=vivoconference.org/VIVO/2019/Conference).
+Your presentation or lightning talk may take the form of a demonstration (screen share in Zoom), a panel discussion, an interview, a virtual poster (single slide), a brainstorming session, an interactive survey session, or other.
 
-This list of planned featured topics might inspire you.
+## Proposal and review process
 
-Focus topics and trends:
+1. **Before May 15, 2020:** [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2020/Conference), where it will be publicly visible. The proposal should be submitted as an abstract of 150 - 350 words.
+2. Share the OpenReview link of your proposal on social media and your networks, and invite people to comment and engage.
+3. Keep an eye on the interactions, and reply when meaningful.
+4. **Between the date of submission and May 22:** Assigned reviewers start posting reviews from 15 May until May 31; they will become visible immediately and you can react to them. 
+5. **On May 25:** You are notified about acceptance.
+6. Between 1 June and 9 June the VIVO Conference task force members decide on the final program.  The program will be available on the conference web site June 9.
 
-* Decentralizing and federating research (meta)data
-* Identity and information linking across VIVO and/or other systems
-* Finding information across different systems
-* Data ownership, provenance, validation, truth assessment, and linking
-* Aligning personal and institutional scholarly communication
+## Archiving and DOI
 
-Scholarly communication topics:
+The VIVO conference requires that your work be publically available from a repository of your choice.  Your repository must assign your work a DOI and must make your work open and freely available to all.  We recommend your work be licensed using a Creative Commons license. Repositories that provide that will allow you to satisfy these requirements include figshare and Zenodo.
 
-* Measuring the impact of scholarly works
-* Embedding and linking data inside of scholarly works
-* Promoting open data and transparency in scholarship
-* Evaluating the impact of scholarship in or across various disciplines
-
-System topics:
-
-* Evaluating and choosing research information systems
-* Taking your research system to the next level
+## Featured topics
+###  Focus topics and trends
+* Persistent identifiers of interest in scholarship
+* Open data sources
+* Non-traditional scholarly outputs and activities
+###  Ontology-related topics
+* Ontologies of interest in the representation of scholarship
+* Ontological communities and best practices
+* Ontology development
+### Technical topics
+* VIVO software development, technical implementation
 * Experiences with research systems other than VIVO
-* Enabling international systems and global scholarship
-
-Use cases:
-
+### VIVO experience
 * Success stories and lessons learned from implementation and maintenance
-* Collaborative research and team science
+* Subject based research information systems
 * Visualizations, social networks, and recommendation engines
-* Leveraging the VIVO open source community and Duraspace in your institution
-* Using VIVO to “stand  on the shoulders of giants”
-
-This year, we will be following an open review process, in which proposals are public. 
-In addition to regular reviews, any member from the public can comment and engage in conversations with the authors and others. 
-We encourage you to comment on each other’s proposals, in order to come to new insights and collaborations.
-
+* User stories, user acceptance, information behaviour
+* Use cases of Vitro outside the VIVO scenario
