@@ -64,7 +64,7 @@ eventDate: " June 16-18, 2020 &sdot; On-line "
 # typeoutFallback: "11th Annual International"
 heroButtons:
 # - {link: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register today!"}
- - {link: "/talk-proposals/", text: "Call For Proposals"}
+ - {permalink: "/talk-proposals/", text: "Call For Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
