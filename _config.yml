@@ -47,7 +47,7 @@ c4sponsorsUrl: "news/sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/talk-proposals", text: "Proposals"}
- - {permalink: "https://www.eventbrite.com/myevent?eid=97993221363", text: "Register"}
+# - {permalink: "https://www.eventbrite.com/myevent?eid=97993221363", text: "Register"}
 # - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
