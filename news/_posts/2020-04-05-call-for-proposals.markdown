@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VIVO 2020 Call for Proposals is now open!"
-date:   2020-04-05
+date:   2020-04-20
 isStaticPost: false
 ---
 
@@ -32,17 +32,21 @@ Your presentation or lightning talk may take the form of a demonstration (screen
 The VIVO conference requires that your work be publically available from a repository of your choice.  Your repository must assign your work a DOI and must make your work open and freely available to all.  We recommend your work be licensed using a Creative Commons license. Repositories that provide that will allow you to satisfy these requirements include figshare and Zenodo.
 
 #### Featured topics
+
 #####  Focus topics and trends
 * Persistent identifiers of interest in scholarship
 * Open data sources
 * Non-traditional scholarly outputs and activities
+
 #####  Ontology-related topics
 * Ontologies of interest in the representation of scholarship
 * Ontological communities and best practices
 * Ontology development
+
 ##### Technical topics
 * VIVO software development, technical implementation
 * Experiences with research systems other than VIVO
+
 ##### VIVO experience
 * Success stories and lessons learned from implementation and maintenance
 * Subject based research information systems
