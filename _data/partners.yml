@@ -1,7 +1,12 @@
+-
+  group: "Institutional Supporters"
+  elements:
+    - {name: "TIB", description: "Leibniz Information Centre for Science and Technology University Library", link: "https://www.tib.eu", imageUrl: "TIB_Logo_en.png"}
+    - {name: "SIGMA", description: "SIGMA", link: "https://www.sigmaaie.org/en", imageUrl: "sigma.png"}
 #-
 #  group: "Platinum Sponsors"
 #  elements:
-#     - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
+#    - {name: "Digital Science", description: "Digital Science", link: "https://www.digital-science.com/", imageUrl: "digital_science_cmyk_wbg002.jpg", width: "120px"}
 #    - {name: "Clarivate", description: "Clarivate Analytics", link: "http://clarivate.com", imageUrl: "crv_logo_rgb_pos.png"}
 #    - {name: "Elsevier", description: "Elsevier", link: "https://www.elsevier.com/research-intelligence", imageUrl: "ElsevierLogo.png"}
 #    - {name: "Intelligent Medical Objects", description: "Intelligent Medical Objects", link: "https://www.e-imo.com", imageUrl: "IMO-Logo.png"}
@@ -22,15 +27,6 @@
 #    - {name: "Crossref", description: "Crossref", link: "https://www.crossref.org", imageUrl: "crossref-logo-200.svg"}
 #    - {name: "GreenSight", description: "GreenSight", link: "https://www.greensightdata.com/", imageUrl: "GreenSight_Logo.png"}
 #    - {name: "Ontocale", description: "Ontocale", link: "https://ontocale.com/", imageUrl: "ontocale.png"}
-
--
-  group: "Institutional Supporters"
-  elements:
-#    - {name: "UniversityMontenegro", description: "The School of Medicine at University of Montenegro", link: "https://www.ucg.ac.me", imageUrl: "ugg.png"}
-#    - {name: "ClinicalCenterMontenegro", description: "Clinical Center of Montenegro", link: "http://www.kccg.me", imageUrl: "kccg_logot.png"}
-#    - {name: "PublicHealthMontenegro", description: "Institute of Public Health of Montenegro", link: "http://www.ijzcg.me", imageUrl: "headbglogo.png"}
-    - {name: "TIB", description: "Leibniz Information Centre for Science and Technology University Library", link: "https://www.tib.eu", imageUrl: "TIB_Logo_en.png"}
-    - {name: "SIGMA", description: "SIGMA", link: "https://www.sigmaaie.org/en", imageUrl: "sigma.png"}
 
 #    - {name: "TAMU", description: "Texas A&M University", link: "https://www.tamu.edu", imageUrl: "TAM-Stack.png"}
 #    - {name: "GeorgeWashington", description: "The George Washington University", link: "https://www.gwu.edu", imageUrl: "gw.png"}
