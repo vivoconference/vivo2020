@@ -41,7 +41,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # c4pButton: "Register today!"
 # c4pText: "VIVO conference registration is open. Workshops are included at no extra cost."
 # c4pUrl: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050"
-c4sponsorsUrl: ""
+# c4sponsorsUrl: ""
 
 # Navigation
 navigationLinks:
