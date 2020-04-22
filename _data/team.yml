@@ -12,12 +12,12 @@
     - {name: "vivo", link: "http://vivo.ufl.edu/individual/mconlon"}
   team: true
 - 
-  id: "AnnaGuillmet"
+  id: "AnnaGuillaumet"
   name: "Anna"
-  surname: "Guillamet"
+  surname: "Guillaumet"
   title: "Organizing Committee Member"
   company: "Sigma"
-  thumbnailUrl: AnnaGuillamet.jpg
+  thumbnailUrl: AnnaGuillaumet.jpg
   ribbon: 
     - {abbr: "team", title: "Organizing Committee"}
   team: true
