@@ -14,8 +14,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VIVO Conference 2020"
 email: "conference@vivoweb.org"
 description: "11th Annual International VIVO Conference"
-baseurl: "/vivo2020"
-url: "http://vivoconference.org"
+baseurl: ""
+url: ""
 permalink: "/:categories/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
 googleAnalyticsTrackingId: "UA-69456995-2"
@@ -38,21 +38,22 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-# c4pButton: "Register today!"
-# c4pText: "VIVO conference registration is open. Workshops are included at no extra cost."
-# c4pUrl: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050"
+c4pButton: "Register"
+c4pText: "VIVO conference registration is open. There is no cost to attend"
+c4pUrl: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363"
 # c4sponsorsUrl: ""
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
+ - {permalink: "/news/", text: "News"}
  - {permalink: "/talk-proposals/", text: "Proposals"}
-# - {permalink: "https://www.eventbrite.com/myevent?eid=97993221363", text: "Register"}
+ - {permalink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
 # - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
 # - {permalink: "/news/sponsorship", text: "Sponsor"}
- - {permalink: "/news/", text: "News"}
+
 #rightNavigationButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
@@ -63,7 +64,7 @@ eventDate: " June 16-18 &sdot; On-line "
 typeoutTextValues: '"", "11th Annual ", "International "'
 typeoutFallback: "11th Annual International"
 heroButtons:
-# - {link: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050", text: "Register today!"}
+# - {permalink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
  - {permalink: "/talk-proposals/", text: "Call For Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
@@ -100,9 +101,9 @@ eventAddressLocality: "Podgorica"
 eventAddressLocalityRegion: ""
 eventPostalCode: "81000"
 eventAddressCountry: "Montenegro"
-eventStartTime: "2019-09-04T09:00"
+eventStartTime: "2020-06-16T09:00"
 eventDoorTime: "08:00"
-eventEndTime: "2019-09-06T20:00"
+eventEndTime: "2020-06-18T20:00"
 eventPlaceCoordinates: "42.439894, 19.263256"
 mapCenterCoordinates: "42.439894, 19.263256"
 mapMobileCenterCoordinates: "42.439894, 19.263256"
@@ -145,12 +146,10 @@ ticketsOffers:
   priceCurrency: ""
   featured: true
   additionalInfo: ""
-  buyButtonLink: "https://www.eventbrite.com/e/vivo-2019-conference-tickets-50867496050"
+  buyButtonLink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363"
   buyButtonText: "Register Now"
-  ticketContentList: ["All-inclusive", "", ""]
-  # validFrom: "2018-07-08T00:00"
-  # validThrough: "2018-07-31T17:00"
-  disabled: true
+  ticketContentList: ["On-line conference", "", ""]
+  disabled: false
 
 # Footer
 socialLinks:
