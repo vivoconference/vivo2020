@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/talk-proposals/", text: "Proposals"}
- - {permalink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
+ - {link: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
 # - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
