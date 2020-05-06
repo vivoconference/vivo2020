@@ -27,5 +27,5 @@ Sponsors of the 11th Annual VIVO Conference will meet attendees with overlapping
 * Research Information Management and Current Research Information Systems (CRIS)
 * Technology, Technical Support, and Consulting for representing scholarship
 
-Please see our [VIVO 2020 Conference Sponsorship Prospectus](/assets/VIVO2020-sponsorship-prospectus.pdf) for more information.
+Please see our [VIVO 2020 Conference Sponsorship Prospectus](/vivo2020/assets/VIVO2020-sponsorship-prospectus.pdf) for more information.
 
