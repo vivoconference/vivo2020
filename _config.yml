@@ -41,7 +41,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 c4pButton: "Register"
 c4pText: "VIVO conference registration is open. There is no cost to attend"
 c4pUrl: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363"
-# c4sponsorsUrl: ""
+c4sponsorsUrl: "/news/sponsorship"
 
 # Navigation
 navigationLinks:
@@ -49,10 +49,11 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
  - {permalink: "/talk-proposals/", text: "Proposals"}
  - {link: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
+ - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
-# - {permalink: "/news/sponsorship", text: "Sponsor"}
+
 
 #rightNavigationButtons:
 # - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
