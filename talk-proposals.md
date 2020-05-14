@@ -20,7 +20,7 @@ Your presentation or lightning talk may take the form of a demonstration (screen
 
 ##### Proposal and review process
 
-1. **Before May 15, 2020:** [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2020/Conference), where it will be publicly visible. The proposal should be submitted as an abstract of 150 - 350 words.
+1. ~~**Before May 15, 2020:**~~ **EXTENDED DEADLINE: Before May, 2020** [Share your proposal through OpenReview](https://openreview.net/group?id=vivoconference.org/VIVO/2020/Conference), where it will be publicly visible. The proposal should be submitted as an abstract of 150 - 350 words.
 2. Share the OpenReview link of your proposal on social media and your networks, and invite people to comment and engage.
 3. Keep an eye on the interactions, and reply when meaningful.
 4. **Between the date of submission and May 22:** Assigned reviewers start posting reviews from 15 May until May 31; they will become visible immediately and you can react to them. 
