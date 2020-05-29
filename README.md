@@ -18,4 +18,4 @@ Use
     
 to start a local copy of the site running at `localhost:4000`
 
-If you have modified `_config.yml` to run locally, be sure to restore the url values in any commit so the site will run remotely.  baseurl should be set to `vivo2020` and url should be set to `http://vivoconference.org`
+If you have modified `_config.yml` to run locally, be sure to restore the url values in any commit so the site will run remotely.  baseurl should be set to `/vivo2020` and url should be set to `http://vivoconference.org`
