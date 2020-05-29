@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VIVO Conference 2020"
 email: "conference@vivoweb.org"
 description: "11th Annual International VIVO Conference"
-baseurl: "/vivo2020"
+baseurl: "vivo2020"
 url: "http://vivoconference.org"
 permalink: "/:categories/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
@@ -47,7 +47,7 @@ c4sponsorsUrl: "/news/sponsorship"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/news/", text: "News"}
- - {permalink: "/talk-proposals/", text: "Proposals"}
+# - {permalink: "/talk-proposals/", text: "Proposals"}
  - {link: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
@@ -66,7 +66,7 @@ typeoutTextValues: '"", "11th Annual ", "International "'
 typeoutFallback: "11th Annual International"
 heroButtons:
 # - {permalink: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
- - {permalink: "/talk-proposals/", text: "Call For Proposals"}
+# - {permalink: "/talk-proposals/", text: "Call For Proposals"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
