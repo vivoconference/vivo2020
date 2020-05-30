@@ -89,8 +89,8 @@ latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
-rockstarSpeakersTitle: "Keynotes and Invited Speakers"
+rockstarSpeakersCount: 1
+rockstarSpeakersTitle: "Keynote Speaker"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
