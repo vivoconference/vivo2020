@@ -1,8 +1,32 @@
 -
   id: 1
-  title: "TBA"
-  description: "TBA"
-  speakers: ["PaulAlbert", "SarbajitDutta", "MichaelBales", "JieLin"]
+  title: "VIVO in the euroCRIS Directory of Research Information Systems (DRIS): a growing presence, multiple use cases"
+  description: "Taking the under-construction euroCRIS DRIS as a starting point, the session will feature an introductory presentation by a euroCRIS representative exploring the geographic distribution and the various configurations for the VIVO implementations listed in the directory. A number of case study presentations will follow featuring the two main settings for VIVO systems in Europe: as standalone Current Research Information Systems (CRIS) and as research portals on top of an underlying 'monolithic' CRIS. A round table with the presenters will close the session in which various VIVO configuration issues will be discussed.
+ 
+The planned structure for the session is as follows:
+<ul>
+<li>\"VIVO in the euroCRIS Directory of Research Information Systems (DRIS)\" (Pablo de Castro, euroCRIS Secretary)
+<li>VIVO case studies in the euroCRIS DRIS: an overview
+<ul>
+<li>\"VIVO as a standalone CRIS\" (Sonja Schulze, Universität Osnabrück)
+<li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (I): the case of University of Milan\" (Unimi presenter TBC)
+<li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (II): the Universitat Pompeu Fabra (UPF) approach by SIGMA Research\" (Anna Guillaumet, SIGMA AIE)
+</ul>
+<li>Round table on the various ways to use VIVO to showcase the institutional research information
+</ul>"
+  speakers: ["PabloDeCastro", "SonjaSchulze", "AnnaGuillaumet"]
+-
+  id: 2
+  title: "Web of Science Workshop"
+  description: "The Web of Science (WoS) is a trusted source for publication and citation metadata of 
+  scholarly works dating back to 1900. The multidisciplinary database covers all areas of science, as 
+  well as social sciences, and the arts and humanities. WoS is comprised of works published in over 20,000 
+  journals, as well as books and conferences. The Web of Science RESTful API makes the trusted WoS dataset 
+  easily available for analytics or reuse. In this introductory seminar, we will present the WoS APIs, the 
+  metadata available, and API registration process. Example API use cases will be walked through using a 
+  provided Postman API client Collection, and freely available Python code for loading WoS data into VIVO 
+  will be demonstrated."
+  speakers: ["BenjaminGross", "RobPritchett"]
 -
   id: 805
   title: "Poster Session"
@@ -26,5 +50,5 @@
   service: true
 -
   id: 1000
-  title: "  "
+  title: "TBA"
   service: true

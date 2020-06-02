@@ -8,17 +8,17 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [902]
+    	sessionIds: [1000]
     }
     - {
     	startTime: "16:00",
     	endTime: "17:00",
-    	sessionIds: [902]
+    	sessionIds: [1000]
     }
     - {
     	startTime: "17:00",
     	endTime: "18:00",
-    	sessionIds: [902]
+    	sessionIds: [1000]
     }
 -
   date: "2020-06-17"
@@ -29,18 +29,8 @@
   timeslots:
     - {
     	startTime: "15:00",
-    	endTime: "16:00",
-    	sessionIds: [902]
-    }
-    - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [902]
-    }
-    - {
-    	startTime: "17:00",
-    	endTime: "18:00",
-    	sessionIds: [902]
+    	endTime: "17:30",
+    	sessionIds: [1,2]
     }
 -
   date: "2020-06-18"
@@ -52,15 +42,15 @@
     - {
     	startTime: "15:00",
     	endTime: "16:00",
-    	sessionIds: [902]
+    	sessionIds: [1000]
     }
     - {
     	startTime: "16:00",
     	endTime: "17:00",
-    	sessionIds: [902]
+    	sessionIds: [1000]
     }
     - {
     	startTime: "17:00",
     	endTime: "18:00",
-    	sessionIds: [902]
+    	sessionIds: [1000]
     }
