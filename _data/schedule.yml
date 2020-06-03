@@ -7,8 +7,13 @@
   timeslots:
     - {
     	startTime: "15:00",
+    	endTime: "15:10",
+    	sessionIds: [1]
+    }
+    - {
+    	startTime: "15:10",
     	endTime: "16:00",
-    	sessionIds: [1000]
+    	sessionIds: [39]
     }
     - {
     	startTime: "16:00",
@@ -30,7 +35,7 @@
     - {
     	startTime: "15:00",
     	endTime: "17:30",
-    	sessionIds: [1,2]
+    	sessionIds: [29,38]
     }
 -
   date: "2020-06-18"
@@ -52,5 +57,5 @@
     - {
     	startTime: "17:00",
     	endTime: "18:00",
-    	sessionIds: [1000]
+    	sessionIds: [31,32,33,34,35,36,37,38]
     }
