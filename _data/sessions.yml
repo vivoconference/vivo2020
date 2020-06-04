@@ -3,6 +3,7 @@
 # Session 1 was not in open review.  Session 38 was not in open review.
 # Sessions 800 and above are "service" sessions which can be used for
 # breaks and such
+# Use Session 1000 as a blank if needed
 -
   id: 1
   title: "Welcome"
@@ -375,13 +376,33 @@ The planned structure for the session is as follows:
   will be demonstrated."
   speakers: ["BenjaminGross", "RobPritchett"]
 -
-  id: 805
+  id: 804
   title: "Poster Session"
-  description: ""  
+  description: ""
 -
-  id: 805
-  title: "Chat/Q&A"
+  id: 8004
+  title: "Chat/Q&A 4"
   description: "Here's some time to ask questions, chat, discuss, write a proposal, form a company, or whatever you feel inspired to do having heard some interesting talks." 
+-
+  id: 8012
+  title: "Chat/Q&A 12"
+  description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
+  a company, or whatever you feel inspired to do having heard some interesting talks." 
+-
+  id: 8015
+  title: "Chat/Q&A 15"
+  description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
+  a company, or whatever you feel inspired to do having heard some interesting talks." 
+-
+  id: 8009
+  title: "Chat/Q&A 9"
+  description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
+  a company, or whatever you feel inspired to do having heard some interesting talks." 
+-
+  id: 8019
+  title: "Chat/Q&A 19"
+  description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
+  a company, or whatever you feel inspired to do having heard some interesting talks." 
 -
   id: 808
   title: "Closing Session"
@@ -401,5 +422,53 @@ The planned structure for the session is as follows:
   service: true
 -
   id: 1000
-  title: "TBA"
+  title: "EuroCRIS workshop continues"
   service: true
+-
+  id: 1001
+  title: "EuroCRIS workshop continues"
+  service: true
+-
+  id: 1002
+  title: "Three talk session 2"
+  description: "Three talks go here"
+-
+  id: 1003
+  title: "Three talk session 3"
+  description: "Three talks go here"
+-
+  id: 1006
+  title: "Three talk session 6"
+  description: "Three talks go here"
+-
+  id: 1007
+  title: "Six talk session 7"
+  description: "Six talks go here"
+-
+  id: 1008
+  title: "Three talk session 8"
+  description: "Three talks go here"
+-
+  id: 1010
+  title: "Three talk session 10"
+  description: "Three talks go here"
+-
+  id: 1011
+  title: "Three talk session 11"
+  description: "Three talks go here"
+-
+  id: 1014
+  title: "Four talk session 14"
+  description: "Four talks go here"
+-
+  id: 1016
+  title: "Three talk session 16"
+  description: "Three talks go here"
+-
+  id: 1017
+  title: "Three talk session 17"
+  description: "Three talks go here"
+-
+  id: 1018
+  title: "Six talk session 18"
+  description: "Six talks go here"

@@ -12,18 +12,23 @@
     }
     - {
     	startTime: "15:10",
-    	endTime: "16:00",
+    	endTime: "15:50",
     	sessionIds: [39]
     }
     - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [1000]
+    	startTime: "15:50",
+    	endTime: "16:40",
+    	sessionIds: [1002,1010]
     }
     - {
-    	startTime: "17:00",
-    	endTime: "18:00",
-    	sessionIds: [1000]
+    	startTime: "16:40",
+    	endTime: "17:30",
+    	sessionIds: [1003, 1011]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "17:50",
+    	sessionIds: [8004, 8012]
     }
 -
   date: "2020-06-17"
@@ -34,8 +39,18 @@
   timeslots:
     - {
     	startTime: "15:00",
-    	endTime: "17:30",
+    	endTime: "16:00",
     	sessionIds: [29,38]
+    }
+    - {
+    	startTime: "16:00",
+    	endTime: "17:05",
+    	sessionIds: [1000,1014]
+    }
+    - {
+    	startTime: "17:05",
+    	endTime: "17:25",
+    	sessionIds: [1001,8015]
     }
 -
   date: "2020-06-18"
@@ -46,16 +61,21 @@
   timeslots:
     - {
     	startTime: "15:00",
-    	endTime: "16:00",
-    	sessionIds: [1000]
+    	endTime: "15:50",
+    	sessionIds: [1006,1016]
     }
     - {
-    	startTime: "16:00",
-    	endTime: "17:00",
-    	sessionIds: [1000]
+    	startTime: "15:50",
+    	endTime: "16:40",
+    	sessionIds: [1007,1017]
     }
     - {
-    	startTime: "17:00",
-    	endTime: "18:00",
-    	sessionIds: [31,32,33,34,35,36,37,38]
+    	startTime: "16:40",
+    	endTime: "17:30",
+    	sessionIds: [1008, 1018]
+    }
+    - {
+    	startTime: "17:30",
+    	endTime: "17:50",
+    	sessionIds: [8009, 8019]
     }
