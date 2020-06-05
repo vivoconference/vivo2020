@@ -8,6 +8,10 @@ isStaticPost: true
 
 Yes, all conference sessions and materials will be in english.
 
+#### Will all sessions be recorded?
+
+Yes, our intent is to record all sessions. Information regarding recordings will be available on the web site following the conference.
+
 ####  Can I screen share during my talk?
 
 Yes.  Zoom supports screen sharing.  Please be sure to practice so that fonts and colors are visible to others.
