@@ -3,6 +3,10 @@
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+         
+            <h4 class="schedule-table-heading">Please Note:  All times are Central European Summer Time (UTC+2)</h4>
+        
+
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
