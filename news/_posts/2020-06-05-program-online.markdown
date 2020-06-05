@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Conference updates: Keynote and euroCRIS"
-date:   2020-05-29
+title:  "Explroe the Program"
+date:   2020-06-05
 isStaticPost: false
 ---
 
