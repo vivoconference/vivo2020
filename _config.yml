@@ -52,7 +52,7 @@ navigationLinks:
  - {permalink: "/schedule/#session-29", text: "euroCRIS"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
-# - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/schedule/", text: "Program"}
 # - {permalink: "/speakers/", text: "Speakers"}
 
 

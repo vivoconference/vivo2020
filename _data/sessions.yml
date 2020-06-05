@@ -291,12 +291,12 @@ The planned structure for the session is as follows:
 <li>VIVO case studies in the euroCRIS DRIS: an overview
 <ul>
 <li>\"VIVO as a standalone CRIS\" (Sonja Schulze, Universität Osnabrück)
-<li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (I): the case of University of Milan\" (Unimi presenter TBC)
+<li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (I): the case of University of Milan\" (Rollandi Loredana, Università degli Studi di Milano)
 <li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (II): the Universitat Pompeu Fabra (UPF) approach by SIGMA Research\" (Anna Guillaumet, SIGMA AIE)
 </ul>
 <li>Round table on the various ways to use VIVO to showcase the institutional research information
 </ul>"
-  speakers: ["PabloDeCastro", "SonjaSchulze", "AnnaGuillaumet"]
+  speakers: ["PabloDeCastro", "SonjaSchulze", "RollandiLoredana", "AnnaGuillaumet"]
 -
   id: 30
   title: "VIVO's Development Priorities - Introduction and Input"
@@ -376,31 +376,88 @@ The planned structure for the session is as follows:
   will be demonstrated."
   speakers: ["BenjaminGross", "RobPritchett"]
 -
+  id: 40
+  title: "VIVO Updates"
+  description: "Join us to hear what’s been happening with the VIVO Project in the last year. We’ll 
+  review changes to governance, recent accomplishments of VIVO task forces and interest groups, 
+  and development of new features and improvements to VIVO. Looking ahead, we’ll talk about the 
+  tough challenges VIVO faces over the next couple of years and ways you can help."
+  speakers: ["JuliaTrimmer"]
+- 
+  id: 41
+  title: "Clarivate Lightning Talk"
+  description: "Presentation by Clarivate"
+  speakers: ["BenjaminGross"]
+- 
+  id: 42
+  title: "Elsevier Lightning Talk"
+  description: "Presentation by Elsevier"
+-
   id: 804
   title: "Poster Session"
   description: ""
 -
+  id: 8002
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8010
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8003
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8011
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8006
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8016
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8007
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8017
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8008
+  title: "Q&A"
+  description: "Time for Q&A"
+-
+  id: 8018
+  title: "Q&A"
+  description: "Time for Q&A"
+-
   id: 8004
-  title: "Chat/Q&A 4"
+  title: "Chat/Q&A"
   description: "Here's some time to ask questions, chat, discuss, write a proposal, form a company, or whatever you feel inspired to do having heard some interesting talks." 
 -
   id: 8012
-  title: "Chat/Q&A 12"
+  title: "Chat/Q&A"
   description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
   a company, or whatever you feel inspired to do having heard some interesting talks." 
 -
   id: 8015
-  title: "Chat/Q&A 15"
+  title: "Chat/Q&A"
   description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
   a company, or whatever you feel inspired to do having heard some interesting talks." 
 -
   id: 8009
-  title: "Chat/Q&A 9"
+  title: "Chat/Q&A"
   description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
   a company, or whatever you feel inspired to do having heard some interesting talks." 
 -
   id: 8019
-  title: "Chat/Q&A 19"
+  title: "Chat/Q&A"
   description: "Here's some time to ask questions, chat, discuss, write a proposal, form 
   a company, or whatever you feel inspired to do having heard some interesting talks." 
 -
@@ -421,11 +478,39 @@ The planned structure for the session is as follows:
   title: "Leadership Group Meeting"
   service: true
 -
-  id: 1000
+  id: 2201
+  title: "Presentation continues"
+  service: true
+-
+  id: 3601
+  title: "Presentation continues"
+  service: true
+-
+  id: 2001
+  title: "Presentation continues"
+  service: true  
+-
+  id: 1801
+  title: "Presentation continues"
+  service: true
+-
+  id: 1101
+  title: "Presentation continues"
+  service: true
+-
+  id: 0301
+  title: "Presentation continues"
+  service: true  
+-
+  id: 2901
   title: "EuroCRIS workshop continues"
   service: true
 -
-  id: 1001
+  id: 2902
+  title: "EuroCRIS workshop continues"
+  service: true
+-
+  id: 2903
   title: "EuroCRIS workshop continues"
   service: true
 -
@@ -458,7 +543,7 @@ The planned structure for the session is as follows:
   description: "Three talks go here"
 -
   id: 1014
-  title: "Four talk session 14"
+  title: "Two talk session 14"
   description: "Four talks go here"
 -
   id: 1016
