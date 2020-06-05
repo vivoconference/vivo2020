@@ -14,8 +14,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "VIVO Conference 2020"
 email: "conference@vivoweb.org"
 description: "11th Annual International VIVO Conference"
-baseurl: "/vivo2020"
-url: "http://vivoconference.org"
+baseurl: ""
+url: ""
 permalink: "/:categories/:title"
 googleMapKey: "AIzaSyDIVOUa4V6zE4W4w0Jm_A6HAnyDaTHgifs"
 googleAnalyticsTrackingId: "UA-69456995-2"
@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
 # - {permalink: "/talk-proposals/", text: "Proposals"}
  - {link: "https://www.eventbrite.com/e/2020-vivo-conference-tickets-97993221363", text: "Register"}
- - {permalink: "/schedule/#session-1", text: "euroCRIS"}
+ - {permalink: "/schedule/#session-29", text: "euroCRIS"}
  - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
 # - {permalink: "/schedule/", text: "Program"}
