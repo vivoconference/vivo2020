@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Explroe the Program"
+title:  "Explore the Program"
 date:   2020-06-05
 isStaticPost: false
 ---
@@ -8,9 +8,9 @@ isStaticPost: false
 #### Explore the program!
 
 The VIVO Conference task force is pleased to share this year's exciting and comprehensive
-[VIVO conference program](/schedule/) with you!
+[VIVO conference program](/vivo2020/schedule/) with you!
 
-The program includes, [Keynote and many speakers]()/speakers/), workshops, panels, lightning talks and more, and all online!
+The program includes, [Keynote and many speakers](/vivo2020/speakers/), workshops, panels, lightning talks and more, and all online!
 
 You still have time to register to this exciting conference!
 
