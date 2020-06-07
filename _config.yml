@@ -8,7 +8,7 @@ safe: false
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "VIVO Conference 2020"
