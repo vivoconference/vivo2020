@@ -261,7 +261,7 @@ Besides traditional VIVO information entity types, we provide additional informa
   id: 26
   title: "Representation of Art-Historical Information with Vitro"
   description: "Albrecht Haupt's collection of single sheets consists of about 6,000 graphics, of which 1,000 are unique architectural drawings and 5,000 are drawings and prints on other subjects (ornament, portrait, religious and mythological representations, heraldry, etc). The drawings and prints were made all over Europe and date from the 16th to the 19th century. They were compiled around the turn of the 20th century by the Hanoverian architect and building historian Albrecht Haupt in a private collection for study and teaching purposes. In our project we aspire to create a linked data based environment with Vitro for the collaborative recording and annotation of the collection items on the one hand, and to provide access to the digital collection for art historians as well as the broad audience on the other hand. In order to meet linked data principles and Vitro software requierments we created an OBO-Foundry based OWL-Ontology as the data model. In this ontology we reuse elements from OBO-Foundry, Friend of a Friend Ontology, VIVO Core Ontology and concepts from the art-historical thesauri like Art & Architecture Thesaurus, Cultural Objects Name Authority, Union List of Artist Names, GND (German Integrated Authority File) etc. Furthermore, we consider the reusability and long term preservation of the metadata of the sheets and their digital images. To make the information in our Vitro reusable for other art-historical portals and to meet the requirements of the long term preservation, we built our data model following the event centred approach of the Lightweight Information Describing Objects - an XML harvesting schema used for exchange of various kinds of culture and art related metadata. One of the challenges of the project is the customization of the software according to the demands and specifics of the art-historical domain. This means, in particular, high-resolution digital image quality, enabled via an integrated IIIF viewer. Another essential component for user-friendly recording and success with the public is the customization of various display and entry forms."
-  speakers: [TatianaWalther, BriteRubach, GrahamTriggs, ChristianHauschke]
+  speakers: [TatianaWalther, BirteRubach, GrahamTriggs, ChristianHauschke]
 -
   id: 27
   title: "Open, Global and Local – Visualizing research with VIVO and other open tools"
@@ -291,12 +291,12 @@ The planned structure for the session is as follows:
 <li>VIVO case studies in the euroCRIS DRIS: an overview
 <ul>
 <li>\"VIVO as a standalone CRIS\" (Sonja Schulze, Universität Osnabrück)
-<li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (I): the case of University of Milan\" (Rollandi Loredana, Università degli Studi di Milano)
+<li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (I): the case of University of Milan\" (Loredana Rollandi, Università degli Studi di Milano)
 <li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (II): the Universitat Pompeu Fabra (UPF) approach by SIGMA Research\" (Anna Guillaumet, SIGMA AIE)
 </ul>
 <li>Round table on the various ways to use VIVO to showcase the institutional research information
 </ul>"
-  speakers: ["PabloDeCastro", "SonjaSchulze", "RollandiLoredana", "AnnaGuillaumet"]
+  speakers: ["PabloDeCastro", "SonjaSchulze", "LoredanaRollandi", "AnnaGuillaumet"]
 -
   id: 30
   title: "VIVO's Development Priorities - Introduction and Input"

@@ -149,7 +149,7 @@
   name: "Tatiana"
   surname: "Walther"
   company: "TIB - Leibniz Information Centre for Science and Technology"
-- id: "BriteRubach"
+- id: "BirteRubach"
   name: "Birte"
   surname: "Rubach"
   company: "TIB - Leibniz Information Centre for Science and Technology"
@@ -328,7 +328,24 @@
   name: "Svantje"
   surname: "Lilienthal"
   company: "TIB - Leibniz Information Centre for Science and Technology"
-- id: "RollandiLoredana"
-  name: "Rollandi"
-  surname: "Loredana"
+- id: "LoredanaRollandi"
+  surname: "Rollandi"
+  name: "Loredana"
+  bio: "Loredana Rollandi is IT Analyst and IT Administrator at Università degli Studi 
+  di Milano, Teaching and Research Applications Systems Office.
+Has a Physics degree and a 2nd level Master in Information and Web Tecnology at CEFRIEL - 
+Politecnico di Milano with a final thesis on “An OWL ontology for the semantic discovery 
+of tourism services”.
+Since 2007 she participates in the functional analysis, design and management of 
+integration procedures with the Research Information System (IRIS) hosted by Cineca. 
+The main activities within this role are:<ul>
+<li>participation in intra and inter-university working groups, also with the role of 
+coordinator, for the definition and drafting of the functional requirements for the 
+various purposes of the research system (management of the registry, positions and 
+curriculum of the research staff, projects, laboratories, equipment and research 
+groups/centers, repertoire of skills, ...);
+<li>analysis and programming in PL / SQL of the procedures for managing data flows 
+between the various sources of information.</ul>
+"
+  thumbnailUrl: LoredanaRollandi.jpg
   company: "University of Milan"
