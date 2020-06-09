@@ -9,11 +9,18 @@
   ribbon:
     - {abbr: "KEYNOTE", title: "Keynote Speaker"}
   rockstar: true
--
-  id: "PabloDeCastro"
+- id: "PabloDeCastro"
   name: "Pablo"
   surname: "De Castro"
+  thumbnailUrl: PabloDeCastro.jpg
   company: "euroCRIS"
+  bio: "Pablo de Castro works as Open Access Advocacy Librarian at the University of 
+  Strathclyde in Glasgow. He is a physicist and an expert in Open Access and research 
+  information workflows and management systems. Pablo also serves as Secretary for the 
+  <a href=\"http://eurocris.org\">euroCRIS</a> non-profit association to promote collaboration across the research 
+  information management community and advance interoperability through the CERIF 
+  standard. In this capacity, he organised the <a href=\"https://dspacecris.eurocris.org/cris/events/events01326\">euroCRIS Track</a> at the 2019 VIVO Annual 
+  Conference in Podgorica (Montenegro) in Sep 2019."
   title: "euroCRIS Secretary"
 - id : "SonjaSchulze"
   name: "Sonja"
@@ -23,6 +30,15 @@
   name: "Anna"
   surname: "Guillamet"
   company: "SIGMA"
+  bio: "Anna Guillaumet works at <a href=\"http://sigmaaie.org\">SIGMA AIE</a>, a Barcelona-based non-profit IT consortium 
+  of Spanish universities. She is a computer engineer and an expert of strategic 
+  knowledge management, especially for research information systems, CRIS. She serves 
+  as a vice-chair of the <a href=\"https://wiki.lyrasis.org/display/VIVO/VIVO+Leadership+Group\">leadership group</a> of the open-source 
+  community VIVO, to 
+  participate in the evolution and direction of a tool for the showcasing of the 
+  research information. She is also member of the euroCRIS association that promotes 
+  collaboration across the research information management community where she is 
+  part of the Technical Committee for Interoperability and Standards (<a href=\"https://www.eurocris.org/eurocris-technical-committee\">TCIS</a>)."
   thumbnailUrl: "AnnaGuillaumet.jpg"
 - id: "EthelMejia"
   name: "Ethel"
