@@ -290,13 +290,13 @@ The planned structure for the session is as follows:
 <li>\"VIVO in the euroCRIS Directory of Research Information Systems (DRIS)\" (Pablo de Castro, euroCRIS Secretary)
 <li>VIVO case studies in the euroCRIS DRIS: an overview
 <ul>
-<li>\"VIVO as a standalone CRIS\" (Sonja Schulze, Universität Osnabrück)
+<li>\"VIVO as a standalone CRIS\" (Dominik Feldschnieders, Universität Osnabrück)
 <li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (I): the case of University of Milan\" (Loredana Rollandi, Università degli Studi di Milano)
 <li>\"VIVO as a front-end for an underlying 'monolithic' CRIS (II): the Universitat Pompeu Fabra (UPF) approach by SIGMA Research\" (Anna Guillaumet, SIGMA AIE)
 </ul>
 <li>Round table on the various ways to use VIVO to showcase the institutional research information
 </ul>"
-  speakers: ["PabloDeCastro", "SonjaSchulze", "LoredanaRollandi", "AnnaGuillaumet"]
+  speakers: ["PabloDeCastro", "DominikFeldschnieders", "LoredanaRollandi", "AnnaGuillaumet"]
 -
   id: 30
   title: "VIVO's Development Priorities - Introduction and Input"
