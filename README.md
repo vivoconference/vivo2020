@@ -6,7 +6,14 @@ The 11th annual VIVO Conference will be held on-line June 16-17.  To join the or
 
 ## About the site
 
-This site is built using [Zeppelin](https://github.com/gdg-x/zeppelin) a Jekyll framework.  To work on the site you will need Ruby, gem, and Jekyll installed.  See https://jekyllrb.com/.
+This site is built using [Zeppelin](https://github.com/gdg-x/zeppelin) a Jekyll framework.  To work on the site you will 
+need Ruby, gem, and Jekyll installed.  See https://jekyllrb.com/.
+
+## OpenReview
+
+The conference has been using [OpenReview](http://openreview.net) to manage submissions, reviews, and acceptance.  
+Data from OpenReview can be mined using 
+python and their [their API]](https://openreview-py.readthedocs.io/en/latest/#)
 
 ## Local hosting
 
