@@ -13,7 +13,7 @@ need Ruby, gem, and Jekyll installed.  See https://jekyllrb.com/.
 
 The conference has been using [OpenReview](http://openreview.net) to manage submissions, reviews, and acceptance.  
 Data from OpenReview can be mined using 
-python and their [their API]](https://openreview-py.readthedocs.io/en/latest/#)
+python and their [their API](https://openreview-py.readthedocs.io/en/latest/#)
 
 ## Local hosting
 
