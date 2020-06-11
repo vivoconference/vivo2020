@@ -386,8 +386,8 @@ The planned structure for the session is as follows:
 - 
   id: 41
   title: "Clarivate Lightning Talk"
-  description: "Presentation by Clarivate"
-  speakers: ["BenjaminGross"]
+  description: "Clarivate, providers of the Web of Science and other research support tools, is a proud sponsor of the VIVO project and a certified VIVO partner providing implementation services.  We work with institutions just starting a VIVO implementation, as well as those who are looking to enhance or revive their VIVO instance. We offer installation/configuration, data integration, customization, and training."
+  speakers: ["AnnBeynon"]
 - 
   id: 42
   title: "Elsevier Lightning Talk"
