@@ -12,7 +12,7 @@
 -
   id: 39
   title: "The document act ontology (d-acts) and how it is related to VIVO entities"
-  description: ""
+  description: "In the VIVO domain multiple aspects of the institutional organization of academia and research are represented. Many of the underlying relationships between organizations and individuals and between organizations and organizations are based on legal relationships. Providing clear semantic representation of those relationships is a prerequisite to rich semantic representation of organizational structures. The Document Act Ontology (d-acts) is an ontology providing the basics to represent these relationships. It is an OWL ontology that is built in accordance with the OBO Foundry Principles and uses Basic Formal Ontology (BFO) as its upper ontology. D-acts formalizes legal and social ontologies of Reinach and Smith to put it to use in managing data about rights, obligations,  employment, and institutional roles. It is currently used in primarily in medical use cases (blood bank, informed consent, organization of trauma care, etc.). In this keynote the foundations, OWL-implementation and ongoing development will be discussed in a use-case oriented manner."
   speakers: ["MathiasBrochhausen"]
 -
   id: 2
