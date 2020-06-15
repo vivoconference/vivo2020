@@ -499,8 +499,12 @@ The planned structure for the session is as follows:
   service: true
 -
   id: 0301
-  title: "Presentation continues"
+  title: "Chat/Q&A"
   service: true  
+-
+  id: 0302
+  title: "Chat/Q&A"
+  service: true   
 -
   id: 2901
   title: "EuroCRIS workshop continues"

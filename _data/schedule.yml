@@ -206,12 +206,12 @@
     - {
     	startTime: "17:10",
     	endTime: "17:17",
-    	sessionIds: [42,3]
+    	sessionIds: [42,0301]
     }
     - {
     	startTime: "17:17",
     	endTime: "17:25",
-    	sessionIds: [9,0301]
+    	sessionIds: [9,0302]
     }
     
   # Chat
