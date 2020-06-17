@@ -374,3 +374,7 @@ between the various sources of information.</ul>
   name: "Ann"
   surname: "Beynon"
   company: "Clarivate"
+- id: "MariamWillis"
+  name: "Mariam"
+  surname: "Willis"
+  company: "Elsevier"

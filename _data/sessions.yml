@@ -390,8 +390,9 @@ The planned structure for the session is as follows:
   speakers: ["AnnBeynon"]
 - 
   id: 42
-  title: "Elsevier Lightning Talk"
-  description: "Presentation by Elsevier"
+  title: "The Modern Institutional Repository: Magnify the visibility & impact of your institution’s scholarship"
+  description: "Would you like to prove just how much all scholarship matters at your campus? Showcase Arts & Humanities scholarship with rich video and audio? Promote undergraduate research? Would you like to obtain clear impact metrics from dashboards tracking real-time readership about the research, productions, achievements, and people that matter most? Digital Commons helps Research Offices prove just how much research matters. Offering custom services to every corner of your institution, Digital Commons can magnify the visibility & impact of your institution's scholarship."
+  speakers:["MariamWillis"]
 -
   id: 804
   title: "Poster Session"
