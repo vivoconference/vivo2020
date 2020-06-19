@@ -53,7 +53,7 @@ navigationLinks:
  - {permalink: "/news/sponsorship", text: "Sponsor"}
 # - {permalink: "/attend/", text: "Attend"}
  - {permalink: "/schedule/", text: "Program"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
 
 
 #rightNavigationButtons:
