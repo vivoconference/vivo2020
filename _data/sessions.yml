@@ -30,7 +30,7 @@
   visualization. Finally, we will explain the most important design decisions and show how the ROSI prototype can be 
   used within VIVO."
   speakers: ["SvantjeLilienthal","ChristianHauschke"]
-  video: https://doi.org/10.5446/48009
+  presentation: https://doi.org/10.5446/48009
 -
   id: 3
   title: "ZDB - APIs, dumps and other services"
@@ -76,7 +76,7 @@ This talk will describe how Google Search Console works, the methods we used, an
   title: "Research Profile Ownership through User Studies: A Case Study in the German National Research System"
   description: "This presentation will describe a case study based on a user-centered software design to develop a visualization of scientometric data in research profiles. The outcome will be a reference implementation for several software systems with application in VIVO research information system software as a starting point. One of the objectives is to achieve research profile ownership by enabling researchers to adjust individual visualizations, indicators and data sources publicly displayed on their online profiles. For the study, we combined qualitative interviews and workshops with focus groups, which included researchers from four academic disciplines (i.e., engineering, the humanities, the natural sciences and mathematics as well as the social sciences) and three career levels (i.e., research assistants, doctoral researchers and professors) in the German national research system. By national research system, we do not refer to a Current Research Information Systems (CRIS), but the system of all researchers that publish research outputs in Germany. To begin with, we completed 16 semi-structured interviews with researchers from all four academic disciplines. Following that, two workshops were conducted with focus groups consisting of 10 researchers from the natural sciences and mathematics as well as engineering. Due to COVID-19, virtual workshops with a similar number of researchers from the humanities and social sciences are currently being planned as an alternative. Our study findings thus far suggest that the study participants frequently use research profiles, such as searching for literature, their own profile or profiles of others researchers. Additionally, the analysis suggests differences between academic disciplines, but not between career levels. Qualitative user feedback contributed to an iterative process in software development. The results of this small-scale, non-representative study and the feedback have been applied to develop the visualization as part of our research and development project. The final steps of the user study will include the usability testing of the visualization with researchers. "
   speakers: [GrischaFraumann, ChristianHauschke]
-  video: https://doi.org/10.5446/48013
+  presentation: https://doi.org/10.5446/48013
 -
   id: 7
   title: "AEON - towards an Academic Events Ontology"
@@ -84,7 +84,7 @@ This talk will describe how Google Search Console works, the methods we used, an
 
 <p>We want to introduce ideas for an Academic Event Ontology (AEON), an ontology aiming to represent information regarding academic events. AEON is considered to support the identification, development, management, evaluation, and impact assessment of events, components of events and event series, as well as identification and reuse of works presented or developed at events. The ontology will be independent of knowledge, creative domain, or topics related to events. AEON is focused on events and assumes the representation of many entities associated with events such as attendees, locations, academic works, datetimes, and associated processes are defined in compatible ontologies."
   speakers: [PhilipStrömert, ChristianHauschke, MikeConlon]
-  video: https://doi.org/10.5446/47958
+  presentation: https://doi.org/10.5446/47958
 -
   id: 8
   title: "An Innovation Lab Experience in a Federal Agency"
@@ -92,7 +92,7 @@ This talk will describe how Google Search Console works, the methods we used, an
 New innovation goals were set up to target data quality procedures, gathering, and enabling the use of scientific data sources, and administering lean practices to address operational flaws. This was needed to introduce innovation practices within the Agency and accomplish the necessary interventions to improve various activities, processes, and practices. To address these needs for developing cycles for innovation, and to build roadmaps for their adoption, CAPES opted a strategy of extramural research Labs in partnership with the National Network For Higher Education, Research and Innovation (RNP) that provided oversight and management for the development, and coordination of these Labs. These projects in collaboration with universities, startups, and researchers are also considered a multidisciplinary approach for building on the agency’s staff diverse experience, providing public services through co-creation with end-users. Currently, 13 projects address various issues regarding the adoption of web semantics, ontologies, data visualization, repositories, interoperability tools, and application architecture. The most recent is pursuing the goal of building a Network for Standardization and Semantic Interoperability within HEI to share their graduate programs’ data with members of the Network. The Network has a mission to build tools and services for sharing and reuse data within the scope of the graduate education ecosystem, being the VIVO a reference for this. In this case, the alliance establishes a sustainable environment to mediate and integrate information flow through the provision of infrastructure, maintenance, and community involvement.
 In summary, to accomplish that it is necessary to search for innovative solutions and to implement network governance providing public services co-created with stakeholders, to improve the evaluation process, and to obtain more reliable data with less operational work."
   speakers: [ManoelBrodSiqueira, JoseFranciscoSalmJr, TailitaMoreiadeOliveira, FabieneFerreira]
-  video: https://doi.org/10.5446/48008
+  presentation: https://doi.org/10.5446/48008
 -
   id: 9
   title: "SMART on VIVO. It's not a dumb idea!"
@@ -125,7 +125,7 @@ We have passed Stage1 of Adapter into Production and Adapter has added 10% publi
   title: "Let’s ROR Together! Implementing Open Identifiers for Research Organizations across the Research Landscape"
   description: "The Research Organization Registry (ROR) launched in 2019 and now contains open persistent identifiers (ROR IDs) and associated metadata for more than 97,000 organizations. As a new arrival in the persistent identifier ecosystem, ROR is uniquely focused on solving the specific problem of how to identify the research organization associated with published research outputs, and on solving this problem with open infrastructure and with extensive community input. Wide adoption of ROR across the research landscape is key to enabling clean, consistent, and open metadata for tracking research outputs by institutions. ROR IDs are already supported in the DataCite metadata schema and will soon be supported in Crossref. A number of repositories and platforms have implemented ROR in their systems, taking advantage of ROR’s open API and public data dumps. Additional integrations are forthcoming as the project matures. In this session, we will provide an overview of the ROR registry, demonstrate how ROR IDs are being used, share upcoming milestones for the project, and solicit audience questions and feedback."
   speakers: [MariaGould]
-  video: https://doi.org/10.5446/48011
+  presentation: https://doi.org/10.5446/48011
 -
   id: 12
   title: "VIVO and ORCID: to authentication and beyond"
@@ -170,13 +170,13 @@ In our presentation, we will share the benefits, challenges and learnings of set
 
 <p>To preview the translation, visit www.clarivatevivo.com and select the Chinese (中文) language option. "
   speakers: [BenjaminGross, AimeeWang]
-  video: https://doi.org/10.5446/48003
+  presentation: https://doi.org/10.5446/48003
 -
   id: 16
   title: "ConfIDent - persistent identifiers and high quality metadata for conference information"
   description: "Scientific events are an important component of scientific communication. Participation in and organisation of scientific events like conferences are an essential part of the everyday life of researchers and should be perceived as such. Research information systems, which enable a) researchers to display research information in profiles and b) research administration to assess research activities oftentimes struggle to gather reliable records of conferences and conference activities. In this lightning talk we want to draft two use cases: First, making conference information from ConfIDent available to VIVO and other research information systems, e.g. for look-up mechanisms, and second, delivering conference information from VIVO to ConfIDent to generate identifiers for long-tail conferences. Both use-cases will potentially lead to more recognition of non-publication contributions to the science-system like organizing an event or being otherwise involved in its execution. In particular the latter use-case will support the documentation and archiving of smaller scientific events which are rarely captured and visible outside of their specific domain."
   speakers: [JulianFranken]
-  video: https://doi.org/10.5446/48012
+  presentation: https://doi.org/10.5446/48012
 -
   id: 17
   title: "Customized Implementation of VIVO at the ZEW"
@@ -196,7 +196,7 @@ This presentation will provide an insight into how VIVO can be customized to fit
   title: "Persistent Identification Of Instruments"
   description: "Instruments play an essential role in creating research data. The Research Data Alliance Working Group Persistent Identification of Instruments (PIDINST) recently developed a community-driven solution for persistent identification of instruments which we present and discuss. Based on an analysis of 10 use cases, PIDINST developed a metadata schema and demonstrated the practical viability of the proposed solution by prototyping schema implementation with DataCite and ePIC as representative persistent identifier infrastructures and with HZB (Helmholtz-Zentrum Berlin für Materialien und Energie) and BODC (British Oceanographic Data Centre) as representative institutional instrument providers."
   speakers: [MarkusStocker, LouiseDarroch, RolfKrahl, TedHabermann, AnusuriyaDevaraju, UlrichSchwardmann, ClaudioDOnofrio, IngemarHäggström]
-  video: https://doi.org/10.5446/48007
+  presentation: https://doi.org/10.5446/48007
 -
   id: 19
   title: "Recent Internationalization Developments in VIVO"
@@ -217,13 +217,13 @@ As a part of this internationalization effort, the process for installing and en
   title: "VIVO-DataConnect: Towards an Architectural Model for Interconnecting Heterogeneous Data Sources to Populate the VIVO Triplestore"
   description: "In a large organization, corporate data is rarely stored in a single data source. Data is most often stored sparsely in distributed systems that communicate more or less well with each other. In this context, the integration of a new data source such as VIVO is sometimes perceived as a complexification of the infrastructure already in production, making it difficult or impossible to exchange data between the VIVO instance and the databases in use. Important and common obstacles to each new integration are encountered by organizations. A first problem is the conversion of data from a tabular format specific to relational databases to the RDF graph specific to the triplestore; and also, the updating (adding, modifying, deleting) of data through different data sources. In our work currently in progress, we plan to build a generalizable and adaptive solution to different organizational contexts. In this presentation we will present the architectural solution that we have designed and that we wish to implement in our institution. It is an architecture based on message processing of the data to be transferred. The architecture should make it possible to standardize the data transformation process and the synchronization of these data in the different databases. The target architecture considers the VIVO instance as a node in a network of data servers rather than considering a star architecture based on the principle that VIVO is the centre of data sources. In addition to presenting this distributed architecture based on Apache Kafka, the presentation will discuss the advantages and disadvantages of the solution."
   speakers: [MichelHéon, NicolasDickner, RachidBelkouch, AlexanderJJerabek]
-  video: https://doi.org/10.5446/48010
+  presentation: https://doi.org/10.5446/48010
 -
   id: 21
   title: "A Short Note on Internationalization of Ontologies"
   description: "Ontologies contain text in the form of property and class labels, and annotations for helping ontology users determine what classes and properties represent.  This text is best presented in a variety of languages to support use of the ontologies across the world and encourage their use for representing and sharing data.  In this short note, a three step process is presented to enable a translator to provide text in any language for the text in an existing ontology.  In the first step, text is extracted from the ontology in two languages -- a \"from\" language and a \"to\" language and placed in a spreadsheet for a translator to work in.  The rows of the spreadsheet correspond to the classes and properties in the ontology.  The columns correspond to the labels and annotations requiring translation.  In the second step, the translator provides text in the \"to\" language for each label and annotation.  In the third step, the spreadsheet is converted to OWL assertions, using the Open Biomedical Ontologies (OBO) robot tool, which can be merged to provide an updated ontology including the translations.  A working example will be provided using the LANG ontology."
   speakers: [MikeConlon]
-  video: https://doi.org/10.5446/48015
+  presentation: https://doi.org/10.5446/48015
 -
   id: 22
   title: "An extensible software architecture for VIVO"
@@ -247,20 +247,19 @@ SHACL, and ReCiter.  By defining components and their responsibilities, and the 
 uses and provides, an open, extensible system can be designed and built to connect, 
 share, and discover scholarly information."
   speakers: [MikeConlon]
-  video: https://doi.org/10.5446/48016
+  presentation: https://doi.org/10.5446/48016
 -
   id: 23
   title: "VIVO as a Linked Open Data Enabler for the Université du Québec Network"
   description: "Exposing interoperable Linked Open Data (LOD) in RDF notation is one of the six main use cases for the semantic web. Semantic web technology is the foundation of VIVO, and as such each VIVO installation can act as a source for LOD. However, the potential of LOD in VIVO remains relatively unexploited. The Université du Québec (UQ) is a network of 10 institutions throughout Québec, with over 102,000 students in some 1300 programs at the undergraduate and graduate levels. This presentation will cover the following: (1) a brief overview of the LOD needs in the UQ network and how these may be met with solutions based on VIVO; (2) VIVO functionalities that can be exploited in the context of LOD; (3) the integration, reuse and design of standardized open vocabularies contained in the Linked Open Vocabulary (LOV); (4) the design and integration of a competency vocabulary; (5) a description UQ's technological architecture, and specifically at the Université du Québec à Montréal (UQAM), the largest institution in the UQ network."
   speakers: [MichelHéon, RachidBelkouch, NicolasDickner, AlexanderJJerabek]
-  presentation: https://doi.org/10.13140/RG.2.2.25018.41924
-  video: https://doi.org/10.5446/47957
+  presentation: https://doi.org/10.5446/47957
 -
   id: 24
   title: "Software Ecosystem for VIVO's Continuous Development: i18n Development Use Case"
   description: "The internationalization (i18n) of a knowledge-based platform is a transdisciplinary team project requiring skills in computer science, language translation, project management and ontology modeling. Experience leads us to conclude that the i18n process of VIVO is divided into 5 generic steps: 1) compile/deploy and run VIVO; 2) test and research problems related to i18n; 3) Locate in the source code the problematic files related to the detected problems; 4) Apply patches to the concerned files; 5) Refurbish VIVO indexes and data tables and return to 1. The activity requires high-performance tools adapted to the i18n cycle with a level of user-friendliness that supports a rapid learning curve for each team member. In the context of the internationalization of VIVO for French Canada (fr_CA), the Université du Québec à Montréal (UQAM) has developed an ecosystem of integrated tools that are useful for the realization of the use cases that have been identified for the execution of the i18n cycle that is: ontology engineering, ontology editing, file editing (ftl, Java, properties), Java programming for the development of J2EE webApp, version control with Git, text search in VIVO source files, automation of the compiling process, configuration and installation of a local VIVO server and its dependencies (Tomcat, Solr, TDB, etc.). In this talk we will present the three main components of our Ecosystem: a) UQAM-DEV (\"Environnement de Developpement de VIVO\") which is based on the Eclipse integration with the ontological engineering tool TopBraid Composer Free Edition and customized by the aggregation of appropriate plug-ins; b) UQAM-VIVO-installer, an installer inspired from the original VIVO installer that is customized in UQAM-DEV for the installation of a VIVO i18n version; c) vivo-regression-test, a product integrated with vivo-community, which is a Selenium test bench used to validate the integrity of additions to VIVO i18n against VIVO which is currently in release. Although UQAM-DEV was developed as part of the i18n project, we believe that this tool will be appropriate for the future VIVO developments that we wish to achieve. The presentation will be completed by a few demonstrations ... \"in-VIVO!\"."
   speakers: [MichelHéon, NicolasDickner, AlexanderJJerabek, RachidBelkouch, PierreRoberge]
-  video: https://doi.org/10.5446/48005
+  presentation: https://doi.org/10.5446/48005
 -
   id: 25
   title: "TUCfis: Applying VIVO as the new RIS of the Technical University of Chemnitz"
@@ -271,13 +270,13 @@ Besides traditional VIVO information entity types, we provide additional informa
 <p>Finally, the RIS needs to include different landing pages and focal points in views for stakeholders from the university, industry, the media sector, and other social areas.  
 <p>We would like to share our own VIVO experience, our future development plan as well as listen to the feedback from the VIVO community."
   speakers: [DangNguyenHaiVu, AndréLanger, MartinGaedke]
-  video: https://doi.org/10.5446/48014
+  presentation: https://doi.org/10.5446/48014
 -
   id: 26
   title: "Representation of Art-Historical Information with Vitro"
   description: "Albrecht Haupt's collection of single sheets consists of about 6,000 graphics, of which 1,000 are unique architectural drawings and 5,000 are drawings and prints on other subjects (ornament, portrait, religious and mythological representations, heraldry, etc). The drawings and prints were made all over Europe and date from the 16th to the 19th century. They were compiled around the turn of the 20th century by the Hanoverian architect and building historian Albrecht Haupt in a private collection for study and teaching purposes. In our project we aspire to create a linked data based environment with Vitro for the collaborative recording and annotation of the collection items on the one hand, and to provide access to the digital collection for art historians as well as the broad audience on the other hand. In order to meet linked data principles and Vitro software requierments we created an OBO-Foundry based OWL-Ontology as the data model. In this ontology we reuse elements from OBO-Foundry, Friend of a Friend Ontology, VIVO Core Ontology and concepts from the art-historical thesauri like Art & Architecture Thesaurus, Cultural Objects Name Authority, Union List of Artist Names, GND (German Integrated Authority File) etc. Furthermore, we consider the reusability and long term preservation of the metadata of the sheets and their digital images. To make the information in our Vitro reusable for other art-historical portals and to meet the requirements of the long term preservation, we built our data model following the event centred approach of the Lightweight Information Describing Objects - an XML harvesting schema used for exchange of various kinds of culture and art related metadata. One of the challenges of the project is the customization of the software according to the demands and specifics of the art-historical domain. This means, in particular, high-resolution digital image quality, enabled via an integrated IIIF viewer. Another essential component for user-friendly recording and success with the public is the customization of various display and entry forms."
   speakers: [TatianaWalther, BirteRubach, GrahamTriggs, ChristianHauschke]
-  video: https://doi.org/10.5446/48006
+  presentation: https://doi.org/10.5446/48006
 -
   id: 27
   title: "Open, Global and Local – Visualizing research with VIVO and other open tools"
@@ -296,8 +295,7 @@ The presentation will give a sneak preview of the NORA prototype and review the 
   title: "G-OWL: Towards Graphical-Ontology-Web-Language - an OWL-2 Visual Notation for the Semantic Web Ontology Modeling"
   description: "To model an OWL-2 ontology, the World Wide Web Consortium (W3C) recommends the use of the following five concrete syntax: Manchester, functional, RDF/XML, OWL/XML and Turtle. All of these syntax have the characteristic of being textual. It is accepted in cognitive science that the use of notation based on visual syntax is also a form of symbolization of thought that facilitates the expression of knowledge held by the modeler in addition to being a form of communication that facilitates the conceptualization of a message interpreted by a reader. This talk will present the Graphical Ontology Web Language (G-OWL) a visual syntax for OWL-2 ontology modeling for the semantic web. In addition to presenting the main language elements of G-OWL, we will discuss the cognitive principles of visual notation design that are the principles of: Semiotic Clarity, Perceptual Discriminability, Perceptual Immediacy, Visual Expressiveness and which are at the foundation of G-OWL design. The presentation of the principles will be supported by the demonstration of concrete cases presented in G-OWL compared to other visual notations in use."
   speakers: [MichelHéon]
-  presentation: https://doi.org/10.13140/RG.2.2.22567.37284
-  video: https://doi.org/10.5446/47956
+  presentation: https://doi.org/10.5446/47956
 -
   id: 29
   title: "VIVO in the euroCRIS Directory of Research Information Systems (DRIS): a growing presence, multiple use cases"
@@ -315,7 +313,7 @@ The planned structure for the session is as follows:
 <li>Round table on the various ways to use VIVO to showcase the institutional research information
 </ul>"
   speakers: ["PabloDeCastro", "DominikFeldschnieders", "LoredanaRollandi", "AnnaGuillaumet"]
-  video: https://doi.org/10.5446/47960
+  presentation: https://doi.org/10.5446/47960
 -
   id: 30
   title: "VIVO's Development Priorities - Introduction and Input"
@@ -351,7 +349,7 @@ The planned structure for the session is as follows:
   description: "The presentation and the assessment of academic and research activities, collaborations and performance are crucial for Universities, as well as for all the involved stakeholders. We propose a system that complements VIVO and introduces to it additional decision support capabilities, which allow making deductions about the conducted research quality and quantity at any level within the institution. Our academic evaluation approach builds upon VIVO and includes an elaborate research management information component that is called IREMA, which focused on the individual researchers’ performance, as well as the formed research networks, within an academic institution, and a multidimensional ontology-based visual ranking component, the AcademIS, which evaluates and ranks the performance of academic units, ranging from academic departments and faculties to whole universities. Our approach is implemented in a Greek University, namely the University of West Attica.  
 <p>The described method builds upon VIVO ontology, which extends in order to cover the concepts of academic evaluation, and thus facilitates the required information for all the components of our system. Our method integrates visual analytics, in order to assist the users to understand effortlessly the presented information and make more informed decisions."
   speakers: [CleoSgouropoulou, AnastasiosTsolakidis, EvangeliaTriperina]
-  video: https://doi.org/10.5446/47959
+  presentation: https://doi.org/10.5446/47959
 -
   id: 34
   title: "Integrating VIVO and the Campus Repository: Representing Curated Teaching Materials in Scholarly Profiles of Faculty in Different Career Tracks"
@@ -395,7 +393,7 @@ The planned structure for the session is as follows:
   provided Postman API client Collection, and freely available Python code for loading WoS data into VIVO 
   will be demonstrated."
   speakers: ["BenjaminGross", "RobPritchett"]
-  video: https://doi.org/10.5446/48004
+  presentation: https://doi.org/10.5446/48004
 -
   id: 40
   title: "VIVO Updates"
